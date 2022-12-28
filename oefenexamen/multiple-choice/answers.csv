@@ -1,0 +1,964 @@
+Evert Taverniers,e,d,b,b,c,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,d,a,d,e,e,d,e
+Sascha Bogers,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,c,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,a,d,d,e
+Firas Dauwe,e,e,b,e,a,c,c,e,d,d,c,b,b,d,a,e,a,d,a,e,e,c,a,c,d,e,e,d,e,a,a,e,d,b,c,d,b,c,a,c,c,b,b,a,c,d,b,e,c,e
+Jens Drabs,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,a,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Rafael Nidecki,b,c,a,b,d,b,b,c,a,e,e,b,b,e,c,c,b,a,a,e,a,c,a,a,b,b,b,d,b,c,e,e,d,d,c,b,e,a,a,c,b,d,a,e,c,b,e,d,e,e
+Yang-Yee Temmerman,d,b,b,b,a,c,d,d,a,d,c,a,d,c,d,a,d,d,b,e,a,c,e,c,c,e,d,e,d,c,e,c,e,b,c,a,d,c,c,c,e,b,a,b,a,d,b,d,d,e
+Hendrik Engels,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Sam Van Briel,d,e,b,d,e,b,c,e,a,d,c,e,a,c,a,e,e,d,a,e,d,c,e,c,c,a,e,e,e,a,a,e,e,b,c,d,e,b,c,c,e,e,e,c,a,d,a,e,d,c
+Firas Lowis,d,d,a,b,a,d,d,c,b,d,e,a,d,e,d,a,a,e,d,c,c,d,c,a,e,a,b,b,e,c,a,e,e,b,b,d,b,c,b,a,b,c,e,a,c,d,b,a,d,e
+Jonas Dierckx,d,d,b,e,a,d,d,d,a,a,c,d,d,c,c,a,e,d,c,e,a,c,e,c,c,e,c,e,d,c,e,c,e,b,a,d,d,c,e,e,e,b,e,e,a,e,b,d,d,e
+Jurgen Wandzel,c,e,a,c,a,c,a,a,a,a,a,e,a,d,d,d,b,c,e,b,d,b,c,a,c,e,b,e,d,d,b,a,e,b,c,e,e,c,c,a,a,c,d,c,c,d,d,d,b,b
+Rik Van Oosterwyck,d,d,b,b,a,c,e,d,a,d,c,a,d,c,d,a,d,b,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Dennis Liesenborgs,b,d,b,c,a,b,c,d,a,d,d,b,d,b,c,b,d,c,e,e,b,c,b,c,c,c,a,b,d,a,b,b,e,b,c,d,d,c,c,c,d,a,a,b,c,d,b,d,c,d
+Kyanii van Roekel,d,b,a,b,a,e,b,d,e,d,c,a,d,c,b,a,a,d,a,e,a,b,b,c,c,d,e,d,d,c,e,b,e,b,e,a,c,c,c,c,e,b,b,b,c,d,a,b,c,c
+Sebastien Theunis,d,b,d,b,a,d,e,e,c,d,d,e,a,b,e,a,d,c,c,e,c,c,b,b,c,c,a,e,d,c,a,b,e,e,e,e,d,c,b,a,a,b,e,b,a,e,a,b,d,e
+Michiel Coget,c,d,c,c,a,c,b,e,b,d,d,a,a,d,a,a,d,c,c,e,b,b,e,c,d,a,c,b,d,a,d,c,c,b,c,d,b,c,a,d,e,b,b,a,a,d,b,e,e,a
+Sigfried Vanluyten,d,d,b,b,a,d,d,d,a,d,c,a,d,e,d,b,d,d,a,a,a,b,e,c,a,a,c,e,a,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,e,d,b,d,d,e
+Rubin Laporte,d,a,c,d,b,e,e,d,d,d,c,a,c,a,d,b,b,c,d,e,a,c,e,c,c,a,d,d,b,a,d,a,c,a,c,e,e,d,c,c,c,b,c,a,a,e,b,e,d,e
+Aron Gataev,d,d,b,a,a,d,d,d,a,d,c,a,d,c,b,a,d,d,e,e,a,d,e,d,b,a,c,e,c,e,e,e,e,c,c,d,e,c,c,c,e,b,d,b,a,d,b,d,d,a
+Obim Nowak,d,b,b,b,d,d,d,d,a,d,c,a,d,c,d,a,a,d,a,b,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,c,d,c,a,b,e,b,e,b,a,d,b,d,d,c
+Elias Dierckx,d,d,a,b,a,d,d,d,d,d,e,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,b,e,b,c,d,d,c,c,e,a,b,e,b,a,d,c,d,d,c
+Niko Jacques,e,d,b,a,d,a,e,b,d,e,a,e,c,d,d,e,e,b,c,e,a,b,c,c,a,a,e,e,e,d,a,a,b,b,e,e,a,a,d,c,b,b,a,a,b,e,e,b,a,a
+Yarne Vanheusden,e,b,b,c,c,d,d,d,b,e,a,b,b,e,d,e,c,d,e,c,a,d,e,c,e,a,a,e,b,a,e,e,e,a,c,e,e,c,c,c,c,b,e,a,a,d,a,d,c,a
+Rubin Engels,d,b,a,e,a,a,e,c,a,c,d,a,d,c,b,b,e,b,b,a,c,e,e,c,c,b,a,b,a,b,c,d,e,c,b,e,b,a,c,e,a,c,e,e,a,c,c,a,d,e
+Preda Venneman,d,a,d,c,a,d,d,c,a,d,a,a,d,a,d,a,c,d,a,e,a,c,e,c,e,a,c,e,d,e,e,d,d,b,c,a,a,c,c,b,e,b,e,b,d,d,b,d,d,e
+Robin Pauwels,d,c,d,b,a,a,d,a,c,d,c,a,d,d,e,e,a,b,a,e,c,b,e,d,d,b,e,a,a,c,a,d,e,b,e,a,d,a,b,d,e,d,b,b,e,a,d,e,d,b
+Jonas Pasteels,a,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,e,d,a,e,a,c,e,c,c,a,c,d,d,c,e,c,e,b,c,d,d,c,c,c,e,b,d,b,c,d,b,d,d,e
+Thomas De Houwer,a,e,b,e,a,d,a,d,a,b,c,c,e,a,a,b,d,d,a,e,e,d,a,e,b,c,e,c,b,c,b,e,e,b,a,e,b,c,d,a,a,c,e,a,b,b,d,c,a,c
+Guillaume Michils,d,c,e,b,d,a,b,a,a,c,e,b,d,a,e,c,a,a,a,e,a,c,b,e,e,a,c,e,e,c,b,b,b,b,c,d,d,c,b,c,e,b,e,d,a,d,b,b,d,e
+Cisse Pasteels,c,e,a,e,e,d,e,e,a,d,a,d,d,e,d,e,a,a,c,e,d,b,d,c,c,c,d,d,d,a,a,e,b,d,c,b,e,b,a,e,b,d,e,e,e,e,a,e,b,c
+Othello Ahmed,d,d,b,b,a,a,d,d,e,d,c,a,d,d,d,a,d,c,a,e,a,b,d,b,c,b,e,e,c,c,e,c,e,e,c,d,d,c,c,e,e,b,e,b,a,a,b,d,d,e
+Jonas Janssen,d,e,b,d,b,a,d,b,a,b,d,e,c,a,e,e,b,b,c,b,a,c,b,e,b,e,b,a,a,c,d,a,b,b,c,d,d,c,a,d,b,c,a,e,c,c,b,d,e,d
+Brent Bogers,d,e,b,b,a,d,e,b,a,d,a,a,c,c,d,a,d,d,a,b,c,c,b,a,c,a,d,a,d,c,b,c,e,b,d,a,a,e,c,d,e,d,a,e,a,e,b,d,a,e
+Preda Gataev,a,b,e,a,d,b,e,d,a,d,a,c,e,d,a,c,e,d,e,e,c,e,e,a,b,b,a,d,b,a,b,c,a,d,c,b,c,e,d,a,e,d,a,e,d,d,e,d,b,a
+Milan Vanheusden,a,d,b,a,a,d,e,d,a,c,c,a,d,c,d,a,d,c,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Pieterjan Vanderborght,d,d,b,b,c,d,a,d,a,e,c,a,b,d,d,a,d,d,e,e,a,d,d,c,c,a,c,e,d,c,e,c,e,b,b,d,d,c,b,c,e,b,e,b,a,d,b,d,d,e
+Lukas Laporte,d,b,a,e,c,b,e,b,a,e,e,a,e,b,b,a,d,d,a,e,a,c,e,c,b,a,e,b,d,e,d,c,b,e,e,b,d,e,a,b,d,b,b,b,b,c,a,e,a,d
+Marlene Hoek,d,d,b,b,a,d,a,a,a,d,c,a,a,b,e,a,d,d,a,e,a,c,e,c,e,a,c,d,c,c,e,c,e,b,c,d,a,c,c,c,e,c,e,b,e,d,b,d,d,e
+Gregory Melin,d,e,b,e,c,d,d,c,a,c,d,d,a,c,b,c,d,b,e,c,a,a,d,c,e,c,c,b,a,c,e,d,a,c,a,c,e,a,d,c,e,e,a,e,b,d,c,c,d,d
+Brent Jacques,d,d,b,e,e,d,a,d,e,d,b,a,e,c,d,e,d,e,a,e,a,c,b,e,d,e,c,e,d,c,e,c,e,b,c,d,d,c,c,d,e,b,d,b,a,d,b,e,d,e
+Hendrik Dauwe,d,b,b,a,e,a,d,c,a,e,e,c,d,c,d,b,e,d,a,e,a,c,e,e,c,e,c,c,d,d,d,d,e,b,c,d,c,c,c,c,e,b,c,e,a,c,a,b,d,c
+Yarne Aert,d,d,b,d,a,b,d,c,a,d,c,a,b,c,d,c,d,d,a,b,a,c,e,d,b,a,b,c,c,c,b,c,c,e,c,d,c,c,c,c,b,d,e,e,a,d,d,d,d,b
+Robbe Ramaekers,b,d,b,b,e,d,b,d,c,d,d,a,b,c,d,c,e,d,a,e,a,e,d,c,c,c,c,e,d,a,e,c,e,b,c,e,b,d,c,a,e,b,b,a,a,d,b,a,b,e
+Stanislas Mounnadi,d,b,d,a,d,a,b,d,d,d,d,e,a,b,d,a,a,d,a,e,a,c,c,c,e,c,c,c,d,d,c,a,a,b,c,d,d,e,d,d,d,b,e,c,d,d,e,d,d,e
+Frederik Thiry,d,d,b,b,a,d,e,e,a,d,c,a,d,c,d,b,e,d,a,e,a,c,e,c,c,a,e,b,b,c,e,c,c,c,c,d,d,d,c,c,e,d,e,b,c,d,b,d,b,e
+Nicky Rutten,c,c,c,c,a,d,e,d,b,b,c,a,c,d,d,e,c,c,a,e,a,e,e,c,c,e,c,e,e,c,e,c,e,b,c,c,d,a,b,e,c,a,e,d,a,e,b,e,d,e
+Laurens van Roekel,d,c,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,d,c,d,c,b,a,c,c,d,c,e,c,b,b,c,b,d,c,c,c,e,b,c,b,a,d,b,d,d,c
+Emilien Vanheusden,d,d,b,b,a,c,b,c,d,a,d,e,b,c,b,d,c,d,a,e,a,c,e,c,d,b,b,e,c,d,a,c,e,b,c,e,d,c,c,c,e,b,b,b,a,d,d,d,a,e
+Joni Roets,d,d,b,b,d,e,d,c,a,d,c,a,d,c,d,a,a,d,c,a,d,a,b,c,c,d,c,a,b,c,b,c,b,d,d,c,d,c,d,d,c,a,c,b,a,d,a,c,d,b
+Marlene Vanderborght,b,c,d,a,a,b,d,d,a,e,b,c,e,c,c,d,e,d,d,e,a,c,d,c,a,a,d,e,b,b,d,c,c,e,b,c,b,c,c,b,a,b,b,e,e,b,b,b,d,c
+Hans De Clercq,c,d,b,b,a,d,d,a,a,d,c,a,d,c,d,a,d,c,a,e,a,c,e,c,c,a,c,e,d,d,d,c,e,b,c,d,d,c,c,c,c,b,e,b,a,d,a,d,d,e
+Rishad Van Briel,d,d,c,b,d,e,c,d,d,d,c,b,d,c,b,e,a,d,a,b,a,e,e,e,d,d,c,d,a,c,e,c,a,d,c,d,d,c,c,c,e,d,b,b,d,c,b,d,d,e
+Xavier Hons,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,a,d,a,e,a,c,d,c,c,a,c,e,d,c,c,c,e,b,c,d,d,c,c,b,e,b,e,b,b,d,b,d,e,e
+Arnaud Lemmens,d,d,a,b,a,d,d,d,a,d,c,a,d,d,d,a,d,d,a,e,e,e,e,c,c,a,c,e,e,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,c,d,b,a,d,e
+Koen Ahmed,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,a,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,c,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Jurgen Hoek,d,d,b,d,a,b,b,c,a,c,c,a,d,c,c,a,d,d,a,e,e,c,e,c,c,a,d,c,a,c,a,c,d,e,d,a,d,b,a,c,e,d,e,b,b,b,d,d,d,c
+Aron Romeo,a,b,e,c,c,b,d,c,d,e,d,a,b,b,e,a,a,d,e,d,d,d,a,a,e,b,e,d,a,c,a,a,b,a,c,e,e,c,b,e,d,e,b,c,b,c,d,b,c,a
+Dennis Hendrickx,a,c,b,d,c,e,a,c,a,d,e,b,e,c,d,c,d,e,b,d,d,b,e,e,b,d,c,a,a,c,e,c,b,e,b,d,e,e,d,a,e,e,d,c,b,e,d,a,b,a
+Mathieu Devos,a,e,b,a,d,c,c,c,a,e,d,d,c,e,e,d,d,e,e,c,a,d,e,b,b,d,e,a,d,e,a,a,c,c,e,d,c,a,c,b,e,d,a,d,b,e,a,e,b,d
+Firas Claes,d,d,b,c,a,d,c,d,b,e,c,a,d,c,d,a,e,d,a,e,a,e,e,b,e,a,a,e,d,d,e,c,b,b,c,d,b,d,b,c,a,b,b,b,a,d,b,d,d,c
+Younes Vanden Bosch,d,e,b,b,a,d,d,c,a,d,c,a,c,c,c,a,d,d,a,e,c,c,e,c,b,a,c,e,d,c,e,c,e,e,a,d,d,a,c,c,e,b,e,b,b,e,c,d,b,a
+Yang-Yee Jacques,d,d,b,b,a,d,d,d,a,d,c,a,d,c,e,a,d,d,c,a,a,c,c,c,c,a,c,e,d,c,e,c,e,a,c,d,d,c,c,c,a,b,e,c,a,d,e,d,d,e
+Ward Vermeerbergen,c,d,d,b,b,c,d,c,e,d,c,d,d,c,d,b,b,d,a,b,e,c,e,e,c,d,c,e,e,e,d,c,e,b,c,d,b,c,c,e,d,e,b,e,e,d,b,d,e,e
+Ward Kerckhofs,e,b,e,e,d,d,a,e,c,d,c,b,b,a,c,e,b,c,c,a,d,c,a,c,c,c,a,e,b,a,a,d,e,a,e,a,c,d,c,c,d,e,c,a,a,d,b,e,c,c
+Alexander Van Eetvelt,d,d,b,d,d,d,d,d,a,d,c,a,d,c,d,a,b,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,e,e,b,a,d,b,d,d,e
+Mieke Hoek,e,d,b,b,e,d,d,a,a,d,c,a,d,c,d,a,c,a,a,e,c,c,e,b,c,a,c,e,d,e,e,c,e,d,c,e,d,c,c,c,e,c,e,b,a,e,b,b,a,e
+Jens Wandzel,d,d,b,b,d,d,c,d,a,d,c,a,d,c,d,a,e,d,a,e,a,c,e,c,c,a,c,e,e,c,e,e,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Lorenzo Paeps,c,d,e,d,e,d,d,d,a,b,d,a,c,a,c,c,c,d,a,e,d,a,e,e,c,a,d,b,d,d,b,c,e,b,e,d,d,a,e,c,c,c,a,e,a,d,b,b,b,e
+Lukas Pasteels,e,b,c,e,d,e,d,d,a,d,b,c,a,d,c,a,b,d,c,e,c,c,d,d,d,a,c,e,e,d,e,c,d,e,c,d,a,b,e,e,c,b,d,d,b,e,b,d,c,c
+Rafael Van Oosterwyck,e,d,b,b,a,c,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,a,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,d,c,c,e,b,e,c,a,d,d,b,d,e
+Yarne Ahmed,d,b,b,c,c,a,e,a,c,b,a,a,b,e,d,b,e,d,e,a,e,c,d,e,d,a,c,c,c,c,d,e,a,a,c,c,d,e,c,d,e,c,e,e,a,a,e,c,d,b
+Jurgen Meyer,b,d,b,b,a,d,d,d,a,d,c,d,c,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,d,b,c,d,d,c,c,c,e,b,c,b,a,d,b,d,d,e
+Tuan Spleesters,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,d,c,a,b,c,d,c,c,c,c,e,b,e,b,b,d,b,d,d,e
+Kyanii Waem,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Jasper Bruynseels,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,c,c,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Lucas Temmerman,d,d,e,e,a,b,d,a,d,e,c,c,d,c,d,a,d,c,d,e,a,e,a,e,c,d,c,e,d,b,b,a,a,b,c,d,d,d,a,b,b,b,b,b,e,b,a,e,d,e
+Ruben Dubois,c,e,a,b,b,b,b,c,b,d,a,a,c,d,e,d,e,a,a,d,a,d,b,b,c,b,c,e,d,b,d,d,b,b,b,e,d,c,b,b,d,d,e,a,e,b,d,a,c,b
+Emilien Vanderborght,d,a,b,a,d,b,d,d,e,b,c,a,d,a,d,a,d,d,a,a,a,e,a,b,c,d,b,e,c,c,c,c,e,b,b,b,e,c,c,c,e,b,e,b,a,d,a,b,d,e
+Maarten Michiels,a,d,a,b,a,c,d,d,b,b,d,a,d,e,d,a,d,c,a,a,a,c,e,c,c,b,d,e,d,c,c,b,e,b,c,d,d,c,a,c,e,c,e,b,e,a,e,d,d,e
+Pieterjan Dierckx,b,a,d,b,a,e,e,c,a,d,d,a,d,c,a,d,e,c,a,e,a,b,b,c,d,b,c,b,a,b,d,c,e,e,c,d,d,c,c,c,e,c,e,d,e,d,b,e,d,d
+Maxim Descendre,e,d,c,e,c,d,e,a,a,a,c,c,b,c,e,b,b,e,c,a,d,a,e,a,c,e,c,c,b,b,b,c,d,a,d,c,d,c,c,e,e,c,d,d,c,d,b,d,e,d
+Brick Hendrix,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,d,d,c,e,c,e,b,c,d,d,c,d,c,e,b,e,b,a,d,b,d,d,e
+Joran Geerinckx,d,d,b,e,a,d,c,d,a,d,e,a,d,e,d,a,d,b,a,e,a,d,e,c,c,a,c,e,d,e,e,c,a,d,a,d,d,c,c,c,b,b,b,b,a,d,b,e,e,e
+Phonkrit Vanden Bosch,a,d,b,e,a,e,b,e,a,a,d,a,a,c,c,c,a,b,e,c,c,c,e,b,e,c,d,c,d,b,a,d,e,b,c,d,d,c,b,c,e,e,e,b,a,b,c,d,d,c
+Maarten Desmet,e,a,a,d,d,a,a,c,c,d,e,a,a,e,d,d,a,d,b,e,c,c,e,d,c,e,d,d,d,b,c,a,e,b,c,d,d,b,e,b,c,b,d,b,a,b,d,a,e,b
+Liena Van den Cruijce,b,d,b,b,a,d,d,e,a,a,b,a,d,c,d,a,d,b,a,e,a,c,e,d,e,d,c,e,d,c,e,c,e,b,c,d,b,c,c,a,e,b,b,c,b,d,b,c,d,c
+Younes Hendrickx,c,d,a,d,d,b,a,d,b,d,b,c,d,c,d,a,d,d,a,e,a,b,a,c,c,b,c,c,d,e,d,c,c,b,c,b,e,c,c,d,b,b,a,d,b,b,a,d,e,c
+Natan Ausloos,d,c,b,c,e,d,b,e,c,d,d,a,e,b,e,b,d,b,a,e,a,e,c,c,c,a,c,b,d,a,e,c,e,d,c,c,d,e,b,c,d,b,e,b,d,c,b,d,d,e
+Nicolas Theunis,b,d,c,e,a,b,d,e,a,c,e,a,b,a,c,a,d,d,a,b,b,c,d,a,c,a,c,e,a,e,c,e,c,d,c,d,b,b,c,c,e,b,c,a,a,d,b,d,b,e
+Ali Romeo,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,a,b,b,c,a,d,e,d,d,e
+Gillis De Sutter,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,d,e,c,e,b,c,b,d,c,c,c,e,b,e,a,a,d,b,d,d,e
+Arthur Palmans,d,d,e,e,b,d,e,d,a,d,c,a,e,c,d,b,b,d,a,c,a,c,e,c,b,a,c,a,d,c,e,c,e,b,c,a,d,c,c,e,d,c,e,a,a,d,b,c,d,e
+Ben Ausloos,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,d,e,a,c,e,c,c,a,e,e,d,e,e,c,e,b,c,d,d,c,c,c,e,d,e,b,c,d,b,d,d,e
+Adam Paeps,d,b,b,a,a,a,d,d,a,c,c,b,d,b,e,a,b,d,a,e,d,d,e,c,e,b,d,c,a,a,c,c,e,b,e,b,d,c,c,c,d,a,e,a,e,c,e,a,a,d
+Laurens Van Briel,d,e,b,b,a,d,d,d,a,d,c,a,d,c,d,a,c,d,a,e,a,c,e,c,d,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Boris Melin,c,e,b,e,a,d,d,d,a,e,c,b,d,b,d,a,c,d,d,e,a,e,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,a,e,b,a,d,b,d,c,e
+Stanislas Coget,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Dennis Leurquin,c,e,a,e,c,d,a,a,b,b,d,a,e,e,d,c,d,d,e,d,a,d,e,d,a,e,a,e,d,b,a,c,e,e,c,b,d,c,e,e,b,a,e,b,a,e,c,a,b,c
+Brent Man,d,d,b,b,a,d,d,d,a,d,c,a,b,c,d,a,d,d,e,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,b,a,c,b,d,b,a,d,b,d,d,e
+Liam Nidecki,e,a,b,b,a,d,a,c,d,c,a,a,e,c,d,a,d,d,a,e,a,c,a,c,b,a,a,d,d,e,b,e,b,e,d,e,e,b,c,d,b,b,a,b,a,d,c,e,a,e
+Koen Sebrechts,a,e,d,b,b,c,a,a,b,a,c,d,a,c,c,a,e,b,b,a,b,a,a,c,c,e,a,a,b,d,a,a,e,b,c,e,b,a,a,c,a,c,e,b,e,d,e,d,a,c
+Lorenzo Lemeire,b,e,b,c,e,d,d,b,d,d,c,a,d,c,a,b,d,d,a,e,b,c,e,a,d,a,a,a,e,d,e,c,d,b,c,d,d,c,c,c,e,b,d,b,a,d,a,d,d,e
+Lukas Van Braeckel,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,a,c,a,c,e,d,c,e,c,e,b,c,d,d,c,d,c,e,b,e,b,a,d,b,d,d,e
+Thao Geldhof,d,e,c,c,c,d,a,b,a,e,c,d,d,a,e,c,d,e,b,e,d,d,d,c,e,b,a,e,e,c,d,a,a,c,c,d,a,c,b,d,e,b,e,b,a,e,e,e,c,c
+Guillaume Van den Cruijce,a,c,b,b,a,d,d,d,a,d,d,b,b,a,c,b,a,d,a,e,d,d,a,a,b,b,e,b,e,b,a,e,b,a,e,c,d,b,c,d,e,d,d,c,a,d,a,e,c,b
+Jonas Rutten,d,d,b,d,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,d,c,c,c,c,e,d,c,e,c,e,b,c,d,c,c,c,c,c,b,e,b,a,d,b,d,a,e
+Stanislas Roets,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Ward Palmans,a,b,d,c,b,a,e,b,d,d,a,b,e,c,a,a,c,c,a,b,e,b,a,a,a,b,c,e,d,b,b,e,b,d,b,b,b,c,a,c,a,b,c,a,b,c,d,d,e,c
+Sebastien Hons,d,d,a,b,a,d,d,d,a,e,d,a,d,c,d,a,d,d,a,e,e,c,e,c,c,a,e,e,c,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,a,b,e,d,e
+Robin Mounnadi,d,d,c,b,e,a,e,d,a,a,e,a,a,b,a,d,a,e,b,e,e,c,c,b,c,d,d,b,c,c,d,c,a,b,a,d,e,d,a,b,a,b,e,b,a,b,a,e,c,e
+Gillis Taverniers,d,d,b,b,a,d,c,d,b,d,c,a,d,c,d,a,e,a,a,e,a,c,e,c,c,a,c,e,d,c,e,c,b,b,c,d,d,c,c,c,e,b,e,b,b,d,b,d,d,e
+Lorenzo Vanderborght,b,e,b,d,b,d,d,d,d,a,d,a,d,b,d,d,d,b,c,d,a,c,e,b,c,a,b,e,d,c,e,b,d,b,a,d,c,c,b,a,b,e,a,b,a,d,b,d,c,e
+Gregory van Roekel,b,a,c,b,a,a,b,d,c,a,a,a,a,c,b,d,c,b,b,d,e,b,b,e,e,c,c,c,c,e,c,a,e,b,d,a,c,d,c,a,e,c,c,b,e,c,b,d,b,e
+Joni Beddegenoodts,b,b,c,e,c,d,b,b,e,b,a,a,d,c,d,a,a,d,a,d,c,c,d,d,c,a,b,e,a,c,e,a,a,d,a,c,c,c,c,c,c,b,e,b,c,d,b,c,d,a
+Gregory Geldhof,e,a,b,c,e,b,c,b,d,d,b,a,a,c,a,a,d,e,b,c,b,e,e,c,c,e,d,e,e,d,e,b,b,b,c,a,d,a,a,e,c,d,e,a,d,e,a,b,d,d
+Phonkrit Govaers,c,d,c,b,e,d,d,d,e,a,c,d,d,d,b,d,d,a,e,a,b,d,e,c,c,d,b,d,d,e,a,d,d,b,b,c,d,e,d,c,b,b,e,b,c,a,b,b,d,d
+Milan Melin,c,e,b,c,d,c,d,b,a,d,a,a,d,c,d,a,b,d,a,e,d,c,e,c,c,a,c,b,d,c,d,c,e,b,c,d,d,c,c,c,e,b,e,b,a,b,b,d,d,e
+Koen van Roekel,d,a,e,b,a,a,d,c,a,d,c,a,d,c,d,a,c,d,a,c,a,b,e,c,c,a,a,e,d,c,e,c,c,b,c,d,d,e,c,c,e,b,e,b,a,d,b,d,d,a
+Sebastien Abdo,d,d,b,b,d,d,a,d,a,c,e,a,d,c,d,c,d,d,b,e,a,d,a,e,c,c,c,e,d,d,e,c,b,d,c,d,d,c,c,c,c,b,e,a,a,d,b,d,d,e
+Tom Liesenborgs,d,e,c,d,a,b,d,a,a,e,c,b,d,d,c,e,b,c,c,c,c,e,c,d,c,e,d,e,c,e,e,b,a,d,c,c,d,e,b,c,c,a,c,c,a,d,e,d,e,a
+Timo Coget,c,e,e,b,e,b,d,b,a,d,d,c,d,c,d,a,d,d,b,e,a,c,c,b,c,c,c,e,d,c,a,c,e,b,a,a,d,e,c,c,a,b,c,b,e,a,c,e,a,a
+Jasper Bogers,c,d,c,b,a,a,d,c,c,d,d,a,d,c,b,d,d,d,a,b,a,c,d,e,e,a,b,e,d,a,e,a,e,d,a,a,d,c,c,c,e,b,b,b,a,b,d,d,e,e
+Firas Waem,d,e,d,e,d,c,a,b,d,d,c,d,a,d,d,d,d,c,b,e,b,e,a,a,a,e,b,e,c,a,b,b,d,c,e,c,a,e,d,c,e,c,b,a,e,e,d,e,a,b
+Marlene Bastiaans,d,a,a,a,b,a,d,d,b,d,c,a,d,c,d,a,d,d,a,a,a,c,d,c,b,a,e,a,c,d,c,c,c,d,c,c,d,c,c,c,b,b,d,a,e,d,b,b,d,a
+Jonas Nidecki,d,d,c,a,a,d,d,d,b,a,b,d,c,c,b,a,e,b,c,e,a,a,e,c,a,a,a,b,d,c,b,d,d,a,e,a,d,c,e,c,d,a,a,e,b,e,d,c,c,a
+Jorian Roets,d,d,b,b,a,d,d,d,a,a,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,a,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Alexander Lemeire,e,e,b,b,e,a,d,d,b,b,d,a,c,c,d,a,b,c,a,b,d,a,c,c,b,a,c,e,c,a,e,c,e,a,c,c,b,a,a,b,c,a,e,c,a,e,d,d,d,e
+Natan Meeus,a,d,b,a,c,a,e,d,e,c,b,d,d,c,c,c,e,e,a,b,a,a,b,c,c,b,c,b,b,b,b,d,b,b,c,e,b,a,c,a,c,a,b,b,b,d,b,b,d,b
+Wout Dubois,c,d,b,b,a,d,d,d,a,d,c,a,d,d,d,a,d,d,a,e,a,c,a,c,c,a,c,e,d,c,e,c,e,a,c,d,d,c,a,c,a,b,e,a,b,d,e,c,d,e
+Robin Meyer,a,c,e,e,c,d,b,d,a,d,c,e,d,c,a,d,c,e,b,d,b,a,b,d,e,a,e,b,d,c,e,d,b,b,d,d,e,d,c,a,d,c,e,b,c,c,b,d,d,e
+Preda Van den Cruijce,d,d,b,b,a,d,c,d,a,d,c,d,d,c,d,a,d,d,a,e,a,c,e,b,b,a,c,e,d,c,e,c,c,b,a,e,d,c,c,c,e,b,e,b,e,d,b,c,d,e
+Timo Descendre,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Gillis Hendrickx,d,d,b,c,a,d,d,a,a,d,c,a,d,c,c,a,a,b,a,e,e,c,e,e,e,a,a,e,d,c,e,c,e,b,c,d,d,c,c,c,c,b,e,a,b,d,b,c,c,e
+Aron Hendrix,c,d,d,b,b,d,e,b,d,d,b,a,d,c,e,a,d,d,a,e,a,b,e,c,c,a,e,e,d,c,e,c,d,b,b,d,d,a,c,d,e,b,e,d,d,d,b,d,d,e
+Timo Janssens,d,d,b,d,e,d,d,d,a,d,c,a,d,c,e,a,d,d,b,d,a,c,a,c,c,c,c,e,d,b,b,c,e,a,c,d,d,c,c,c,e,b,e,d,a,d,b,a,d,e
+Jens Man,d,d,b,b,a,b,a,b,a,d,c,e,d,a,e,a,c,b,a,a,a,c,c,c,c,b,a,e,c,b,e,c,a,b,a,d,b,b,c,c,d,b,d,b,a,d,a,d,d,e
+Gillis Brouns,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,c,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Stanislas De Sutter,a,d,e,d,b,c,d,d,e,e,c,e,d,e,b,e,d,b,c,e,d,a,a,a,c,c,a,b,a,a,c,e,d,c,c,d,c,d,c,b,d,a,e,d,a,d,a,e,d,c
+Lorenzo Hons,b,b,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,d,c,c,a,c,e,d,c,e,c,e,c,c,d,b,c,e,c,e,d,e,b,a,d,b,d,d,e
+Jens Van Braeckel,d,e,b,e,d,d,d,e,a,d,b,a,e,c,d,a,d,a,a,e,b,b,e,b,c,a,c,d,d,c,c,a,a,b,c,b,d,b,c,c,a,b,e,b,a,c,b,d,e,e
+Angelo Verrycken,e,d,b,b,a,a,a,d,e,b,c,a,d,c,d,d,e,d,a,e,d,d,d,e,c,a,b,b,b,b,b,b,e,a,b,d,d,c,a,c,e,b,e,b,a,e,b,d,d,c
+Frederik Rizkallah,b,a,b,b,e,a,d,d,d,e,c,a,c,d,d,d,c,e,a,d,b,e,e,c,c,a,e,b,a,c,d,c,c,a,c,d,b,b,a,a,e,c,d,b,d,d,e,d,e,e
+Roel Romeo,a,c,d,b,a,e,d,a,a,d,c,b,d,c,d,a,b,d,c,b,a,c,e,c,d,a,c,e,c,c,b,c,c,b,a,d,d,c,c,a,e,b,b,d,a,d,e,d,c,e
+Michiel Van de Velde,d,c,b,b,a,d,d,d,b,d,c,d,d,c,a,a,a,d,d,b,a,c,e,d,e,a,e,e,d,d,e,a,e,d,c,a,d,a,c,c,b,b,c,b,a,b,b,d,d,b
+Yang-Yee Ahmed,e,e,a,c,e,e,c,a,d,a,e,c,c,e,a,a,c,d,a,c,d,a,c,e,d,b,c,b,e,d,e,d,c,b,c,b,c,a,e,d,b,a,a,b,c,c,e,a,a,a
+Baljit Morren,a,c,a,e,d,c,e,c,c,a,a,e,e,b,d,a,c,c,a,e,a,b,e,e,a,a,d,b,d,d,e,d,d,d,c,e,e,b,c,d,a,a,a,b,d,a,b,e,b,a
+Stanislas Coremans,b,d,c,b,a,e,d,d,e,a,e,b,a,b,e,b,b,d,c,c,d,e,b,c,d,c,c,e,d,c,e,c,d,c,e,c,b,a,a,c,b,b,e,b,b,c,b,d,b,c
+Emilien Sewnarain,d,d,b,b,c,d,d,d,e,d,c,a,b,c,d,b,d,d,e,e,a,c,e,c,c,a,c,e,c,c,b,c,c,b,c,d,d,b,a,c,e,c,e,b,d,c,a,d,d,e
+Yenthe Melin,b,e,b,b,a,d,c,a,b,b,b,a,b,c,e,e,c,e,c,a,a,c,b,e,b,e,d,e,e,a,b,d,e,d,d,d,a,b,c,d,b,b,e,c,a,c,b,e,e,b
+Ben Geerinckx,d,d,b,b,a,d,d,d,a,d,b,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,b,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Evert Hendrix,d,d,b,a,a,d,d,d,d,c,b,a,c,e,b,a,d,e,a,a,e,e,e,a,c,c,c,d,d,a,e,d,b,b,c,d,e,c,c,b,b,d,c,c,a,d,b,b,e,e
+Yenthe Abdo,a,d,b,b,a,d,d,d,d,d,b,a,e,c,d,a,d,d,a,e,d,c,a,c,c,a,c,e,d,c,e,c,a,d,d,a,a,e,e,c,b,c,e,c,a,d,b,d,a,c
+Thomas Brouns,d,e,d,c,c,c,b,b,e,a,b,e,a,d,c,a,d,c,d,a,a,a,c,c,a,a,e,c,a,d,e,d,c,c,e,d,e,e,e,d,d,b,a,e,b,c,a,c,b,d
+Roel De Baets,d,d,b,b,a,d,d,a,a,d,c,a,d,c,d,a,d,d,a,e,c,c,e,c,c,a,c,e,e,d,e,e,e,b,c,d,d,c,c,c,e,b,e,a,a,d,b,d,d,e
+Maxim Dubois,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Aron Madugba,e,a,c,d,a,d,e,b,d,a,c,c,a,b,a,c,d,e,d,c,c,b,d,e,c,a,b,b,d,a,e,b,b,d,b,b,c,b,e,c,d,e,b,b,c,b,a,d,d,b
+Preda De Baets,d,e,b,a,a,d,d,b,e,d,a,a,b,d,e,b,d,d,a,e,a,c,e,b,c,a,c,e,d,b,b,c,e,c,c,c,d,b,b,c,a,a,e,b,a,c,a,a,c,e
+Laurens Pesa,b,c,d,b,a,d,b,c,b,e,e,a,e,a,a,a,a,c,d,a,d,b,b,c,e,a,b,b,a,e,c,e,c,d,d,a,c,c,a,b,c,c,a,c,e,d,d,c,b,d
+Rik Liesenborgs,b,d,e,b,b,a,e,a,b,d,d,a,a,c,d,a,c,e,a,e,a,d,e,c,c,c,c,c,d,c,b,b,b,b,b,d,d,c,a,c,c,b,e,b,a,d,b,b,e,c
+Othello Coget,d,c,b,b,a,c,d,b,a,d,e,a,c,a,b,c,b,d,a,d,a,c,e,c,a,b,c,e,b,b,b,c,d,b,c,d,d,e,c,c,a,b,e,b,d,b,b,d,d,e
+Adam Janssen,d,d,c,b,a,b,d,d,a,d,c,a,d,c,d,d,a,d,a,e,e,c,e,a,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,e,a,d,b,d,d,e
+Jowan Van Gansen,d,b,a,c,b,d,b,d,a,d,d,a,d,c,e,b,e,d,a,e,e,c,c,c,d,a,c,e,e,c,d,c,c,b,c,d,e,c,e,c,e,a,e,b,a,d,c,b,d,e
+Rainier Madugba,d,e,b,b,a,b,e,b,a,b,c,c,e,c,d,a,a,d,b,e,c,c,d,c,c,a,d,a,a,b,e,c,a,b,c,d,a,d,c,c,d,b,e,b,a,e,b,d,d,e
+Sebastien Descendre,e,b,d,c,c,d,e,a,b,c,c,b,e,c,b,a,c,a,a,e,a,d,e,e,d,d,d,e,d,d,c,c,e,a,e,b,e,c,c,c,e,e,a,b,c,d,e,e,d,c
+Arnaud Michiels,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,a,b,d,d,e
+Roel Ausloos,c,d,b,b,e,a,d,d,a,d,c,a,d,c,c,a,d,d,a,e,e,a,e,c,e,a,c,e,d,c,e,d,e,b,a,d,b,b,c,e,a,b,e,b,a,e,b,c,d,e
+Thao Hons,d,d,b,b,a,a,d,d,b,a,d,a,d,c,d,b,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Yenthe Sterckx,d,d,b,b,a,d,d,d,a,d,c,a,d,d,d,a,d,d,a,c,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,e,c,c,c,e,b,e,b,a,d,b,d,d,e
+Younes Braem,d,d,b,d,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,b,a,c,e,c,c,a,c,e,d,c,e,c,c,d,c,d,d,c,c,a,e,b,e,b,a,a,e,d,d,e
+Marlene Geldhof,b,a,b,b,e,d,d,c,e,d,d,a,d,c,d,a,d,d,a,e,b,a,b,c,c,d,e,e,d,c,e,d,e,b,b,d,d,c,c,c,e,b,e,b,a,a,e,e,d,e
+Thomas Van Gansen,c,d,b,b,c,c,d,d,a,e,e,a,d,c,d,a,d,d,a,a,c,b,b,d,c,b,c,e,e,c,e,c,e,b,c,d,b,c,c,c,e,b,d,b,a,d,e,d,d,e
+Rafael Mounnadi,d,d,b,b,a,d,d,d,a,d,c,a,c,c,d,a,a,d,a,e,a,e,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,e,d,b,d,d,e
+Yves De Clercq,e,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,e,d,a,e,a,c,e,c,b,b,c,e,d,c,b,c,a,a,c,d,a,c,a,c,e,a,e,b,a,e,b,d,a,e
+Thomas Ahmed,e,d,d,c,e,d,e,c,a,d,b,a,b,c,a,a,e,e,a,a,b,e,a,a,a,a,d,e,e,c,c,c,c,e,e,d,b,c,a,a,b,e,a,c,d,d,e,a,c,e
+Merijn Demol,a,d,b,b,d,b,d,e,b,d,c,a,d,c,e,a,d,d,b,e,c,c,b,e,c,a,c,e,d,b,d,c,a,a,c,e,a,c,b,b,a,d,a,b,d,d,d,d,c,a
+Natan Coremans,d,d,b,b,a,d,c,d,d,e,e,a,d,c,d,a,c,d,e,c,c,c,e,c,c,a,a,e,d,d,e,d,e,b,c,d,d,c,c,e,e,e,e,b,a,d,b,c,d,e
+Emilien Mustafa,c,b,a,e,a,a,c,d,b,a,b,a,c,c,b,a,d,a,a,e,a,b,b,c,a,a,e,b,d,d,e,c,e,c,d,d,e,c,a,a,e,e,b,d,a,a,b,d,d,e
+Hans Waem,a,a,d,d,e,a,c,c,d,c,b,a,a,c,d,b,c,d,a,e,d,b,b,c,c,b,c,c,d,c,e,d,a,b,c,e,d,b,c,d,b,b,e,c,e,d,c,a,e,a
+Brent Janssen,a,a,b,d,a,b,a,b,a,d,b,a,d,e,d,b,d,d,a,a,a,a,e,a,c,a,d,d,d,b,e,c,b,b,c,d,d,a,d,c,d,b,e,b,a,d,b,a,e,e
+Angelo Desmet,d,d,b,b,a,b,a,d,a,d,c,a,d,d,d,a,d,d,c,e,c,c,a,d,a,a,b,e,d,c,e,c,e,c,c,d,d,e,b,c,c,c,e,e,c,d,b,d,a,e
+Wouter Leurquin,d,b,e,d,b,e,b,a,a,d,b,d,b,e,a,d,d,d,d,b,d,e,d,c,a,a,d,b,d,d,b,a,b,d,e,e,b,c,d,c,d,c,d,e,a,a,e,a,c,a
+Hans Verrycken,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Yves Van Briel,d,d,e,a,d,b,b,c,a,a,b,c,a,c,a,c,c,c,d,a,c,b,a,a,e,c,e,e,b,d,e,e,e,b,a,c,a,c,e,c,c,a,e,b,c,c,c,b,e,c
+Jorian Aert,e,a,b,b,b,c,c,d,a,c,e,e,b,b,d,a,c,b,c,c,d,b,d,a,c,c,a,e,e,c,d,d,d,c,b,d,a,c,e,c,a,b,a,c,e,a,a,d,d,b
+Xavier Madugba,c,d,b,b,a,e,c,d,a,d,c,a,d,c,d,a,d,e,a,d,a,a,d,d,c,a,c,d,d,c,e,c,e,b,c,d,d,c,b,c,a,b,e,a,a,d,c,d,a,a
+Roel Van Grunderbeek,d,d,b,b,e,c,d,d,b,d,b,a,d,c,b,b,a,c,c,d,b,b,e,c,e,c,b,e,a,e,a,b,b,b,d,d,d,b,b,a,e,b,e,c,a,e,e,e,d,e
+Firas Michiels,d,d,e,a,e,d,d,a,a,d,a,c,d,e,d,d,d,d,a,c,a,a,e,d,c,a,c,e,d,e,e,a,e,b,d,d,a,c,c,c,c,b,b,b,a,d,e,e,d,e
+Jens Descendre,d,d,b,c,a,c,d,d,b,e,e,c,d,c,a,c,b,b,a,e,a,b,e,c,c,a,b,a,d,c,e,c,e,b,c,b,c,a,c,b,e,b,a,b,a,d,e,a,a,d
+Jasper Ahmed,b,b,b,c,d,a,e,e,a,b,b,a,d,c,b,e,d,d,a,e,c,a,e,a,c,a,e,a,c,c,b,e,e,e,c,e,d,c,d,e,d,a,e,a,b,c,e,d,d,e
+Rick Vanluyten,d,b,b,d,e,d,d,d,a,d,c,a,d,a,d,a,e,d,a,e,a,a,e,c,d,a,d,b,e,c,e,d,e,b,c,d,b,e,c,c,b,c,d,d,a,e,a,d,c,e
+Pieterjan Warlop,d,a,b,d,a,d,b,e,b,e,e,d,d,c,d,e,b,d,e,b,a,a,d,d,e,a,c,e,e,c,a,a,e,b,d,c,b,d,d,c,e,c,c,c,a,b,b,c,d,d
+Wout Michiels,d,d,b,b,c,d,e,d,a,d,a,a,e,c,d,a,c,e,a,e,a,c,a,c,c,b,c,a,d,c,e,c,e,b,c,d,e,d,c,c,e,b,e,b,e,e,b,d,d,e
+Anton Pesa,a,d,b,b,a,d,d,e,b,d,c,d,d,c,a,c,a,d,c,e,a,c,e,c,c,a,c,e,d,c,b,e,e,b,c,c,d,c,c,b,e,b,e,d,a,a,b,d,e,c
+Younes Van der Zwalmen,d,c,b,b,a,d,d,a,b,e,c,a,d,c,d,c,d,d,a,e,c,c,e,e,c,a,a,a,d,c,a,c,e,b,a,c,b,a,c,b,e,d,e,b,a,c,b,d,d,e
+Frederik Paulus,e,e,d,c,a,e,c,a,a,d,b,a,b,e,d,d,e,d,a,a,c,e,c,b,c,a,c,b,d,c,e,e,e,d,c,d,b,d,d,c,a,b,b,b,c,d,a,a,d,e
+Lorenzo Van den Cruijce,d,d,b,b,a,d,d,b,b,e,c,a,e,c,b,a,d,d,a,e,c,c,e,c,c,a,c,e,d,c,e,c,b,b,c,d,d,c,c,c,e,a,e,b,a,d,b,d,d,e
+Obim De Clercq,d,d,d,b,a,d,d,e,a,d,d,a,d,c,d,a,d,d,a,e,a,c,d,c,c,a,b,e,d,c,e,a,d,d,c,d,d,c,c,c,e,b,e,b,a,d,b,d,c,e
+Elias van Roekel,d,d,b,b,e,d,d,d,a,d,c,a,d,c,e,a,d,d,a,e,a,c,e,e,c,a,e,e,c,c,e,c,b,b,c,a,a,a,c,c,e,b,e,b,a,a,b,d,e,e
+Thomas Madugba,c,d,d,b,a,d,b,c,a,d,d,a,d,d,d,a,c,b,a,e,a,c,e,c,c,e,d,b,a,d,e,c,e,b,a,d,e,c,e,d,e,c,e,b,c,d,d,c,b,e
+Joran De Clercq,d,d,b,b,a,d,d,d,a,d,c,a,b,c,d,a,d,b,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Niko Laporte,a,d,e,b,a,d,d,b,c,a,c,a,d,e,c,a,a,e,a,e,e,c,c,d,d,d,a,e,d,a,b,c,a,b,b,b,d,c,d,c,b,c,e,b,c,d,a,d,d,c
+Igor Rummens,d,d,c,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,b,e,a,c,e,c,c,a,c,e,d,b,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Brent Demol,d,d,e,d,a,d,d,d,a,a,c,e,d,c,d,d,d,d,a,e,a,c,b,e,e,a,a,e,b,c,a,e,b,b,c,d,d,c,c,c,e,a,e,b,a,d,b,d,d,c
+Milan Temmerman,d,d,b,d,a,d,d,a,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,b,b,d,d,e
+Lennert Braem,d,d,d,e,a,d,d,c,c,d,c,a,c,c,c,a,d,d,a,e,b,c,e,c,c,a,c,e,e,d,e,b,e,b,c,d,d,c,e,c,e,b,e,b,a,d,b,b,d,e
+Nicky Rizkallah,e,d,b,c,e,b,d,d,d,b,c,a,d,c,d,a,b,d,e,e,a,c,d,c,c,e,c,e,d,e,e,c,d,b,c,e,d,c,c,d,a,b,c,e,c,d,a,d,d,e
+Arthur Pesa,d,d,d,a,a,c,e,d,e,d,c,a,a,c,a,b,d,e,b,b,a,a,e,c,e,a,a,a,e,c,b,b,e,c,c,a,c,b,a,c,e,a,b,b,a,a,a,a,d,e
+Jonas Rubbens,d,c,b,b,a,d,d,d,d,b,c,a,a,d,b,a,a,b,a,c,c,d,c,c,c,e,e,e,d,c,e,c,d,d,c,a,a,b,c,c,b,c,e,b,a,a,e,e,d,e
+Younes Lowis,d,c,e,b,a,d,d,a,a,d,b,c,b,d,d,a,b,a,b,e,a,b,c,d,c,a,a,c,d,c,b,c,e,b,b,e,d,c,c,c,d,e,d,a,a,d,b,c,d,d
+Brick Spleesters,d,c,c,c,d,a,e,d,a,b,c,e,c,c,b,d,a,d,c,d,b,c,c,c,a,d,e,e,a,b,b,b,e,b,c,a,d,d,d,c,c,a,d,b,c,a,b,a,e,d
+Robin Brouns,d,c,b,a,c,c,b,d,c,c,c,b,d,b,d,d,a,e,a,c,c,c,c,a,b,a,d,e,c,c,a,b,c,a,c,c,e,b,d,c,e,c,e,c,a,d,b,a,a,b
+Anton Vanden Driesch,d,d,b,a,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Jowan Gataev,d,c,c,b,a,d,d,d,a,d,c,a,d,c,d,a,e,c,a,a,a,c,e,b,c,a,c,e,d,a,c,c,e,b,c,d,d,c,c,e,e,b,e,b,a,d,b,d,d,e
+Baljit Meyer,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,b,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Ali Kerckhofs,d,b,b,b,a,d,b,b,a,d,d,b,a,c,a,d,d,d,a,e,a,c,d,e,d,e,c,a,d,b,e,a,c,d,c,d,b,d,c,c,e,b,e,b,a,d,b,d,a,e
+Niko Van Eetvelt,d,d,b,b,a,b,d,d,a,e,a,a,d,c,d,a,d,c,a,e,a,b,e,c,c,a,b,e,d,c,e,c,e,b,c,d,d,c,c,c,e,e,e,b,b,d,b,d,b,e
+Robin Sewnarain,e,e,d,b,b,d,d,c,a,d,a,d,c,a,a,b,d,a,c,e,a,d,e,a,c,a,e,e,d,a,d,b,c,e,e,e,c,a,d,c,a,b,a,c,d,a,a,c,d,e
+Kasper Singh,a,d,a,e,a,d,e,a,c,e,a,a,d,c,a,a,e,d,e,a,d,c,e,c,e,a,e,c,e,e,a,c,e,e,c,b,d,c,a,a,a,b,d,b,c,c,d,d,c,d
+Angelo Vanderborght,b,e,a,b,a,e,d,d,a,d,c,d,d,b,e,a,d,a,a,e,a,c,e,c,c,a,a,e,d,a,b,a,e,e,c,d,d,c,c,a,e,e,c,b,a,d,c,d,a,e
+Mattias Desmet,d,d,b,c,a,d,d,d,a,d,c,b,d,c,d,a,d,d,a,a,a,c,e,c,c,a,c,e,d,c,b,c,e,b,c,d,c,c,c,c,e,b,e,b,a,d,b,d,d,e
+Matthias Temmerman,d,d,b,b,c,d,d,d,a,b,c,a,d,c,d,a,d,d,a,c,a,d,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,e,c,c,b,e,b,a,d,b,d,d,e
+Rubin Madugba,d,d,b,d,a,e,a,d,e,d,c,b,d,c,d,a,c,d,b,e,d,c,e,a,c,a,a,e,c,c,c,c,d,d,a,d,d,a,c,c,e,b,e,a,b,d,e,d,d,e
+Sam Wandzel,d,d,b,c,a,d,d,d,e,d,c,c,d,c,d,a,d,d,e,e,a,c,e,c,a,a,c,b,c,c,e,c,a,b,c,d,d,c,c,e,b,b,a,b,a,d,d,d,d,e
+Angelo Hoek,d,a,b,c,a,e,d,d,a,d,b,e,d,e,d,a,d,c,a,c,e,c,e,a,a,c,b,b,d,e,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Kasper Van Grunderbeek,d,d,a,d,a,e,b,e,e,e,d,a,d,c,a,a,e,b,a,c,a,b,a,b,b,a,b,d,b,c,e,a,e,a,e,d,d,c,c,c,e,b,e,c,a,d,d,d,d,e
+Thao Sels,c,b,b,b,c,d,d,d,a,c,c,a,e,c,e,a,c,d,a,e,d,c,e,a,c,a,c,e,d,c,e,b,e,b,c,d,c,c,c,c,e,b,e,b,b,d,b,d,d,e
+Bryan De Houwer,d,d,b,e,b,c,d,d,a,d,c,c,d,c,c,c,d,d,a,e,b,c,e,c,c,a,b,e,b,c,e,c,a,d,e,d,d,c,c,c,a,b,e,c,a,c,e,d,d,e
+Lennert Bruynseels,d,d,a,b,a,d,d,d,a,d,b,a,d,b,d,a,d,d,a,e,a,c,c,e,c,a,c,c,d,c,e,c,e,b,c,b,d,c,e,c,e,b,e,d,a,d,b,d,d,e
+Mathias Luypaert,d,d,b,b,a,d,d,d,a,d,c,a,a,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,b,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,b,e
+Dennis Van Hoof,c,d,b,c,e,a,a,c,e,b,b,e,e,c,d,c,a,a,b,e,e,a,d,a,e,b,e,a,c,a,d,e,d,e,d,c,c,b,b,e,e,c,b,e,a,c,e,b,c,e
+Arnaud Michils,d,d,b,b,d,a,d,d,b,d,a,a,d,c,d,a,b,c,a,e,a,b,e,c,c,a,a,e,d,c,c,c,e,e,c,d,d,c,c,e,e,b,e,b,a,d,b,d,d,e
+Matthias Lemeire,d,d,e,c,c,d,d,c,a,c,c,a,b,c,a,b,d,d,a,c,e,e,d,d,d,d,b,e,d,e,e,c,e,b,c,d,a,d,c,c,a,b,d,b,c,c,e,d,d,d
+Rishad Waem,d,d,a,c,a,d,a,b,a,d,c,a,d,c,d,e,d,d,b,e,a,a,b,a,c,a,c,e,d,d,e,e,e,b,c,d,e,c,c,a,a,a,e,b,a,d,b,b,d,e
+Rishad Vandenplas,d,e,b,b,c,b,b,d,a,d,c,e,d,e,d,e,c,e,d,e,d,c,e,c,c,e,d,b,d,b,e,b,e,b,e,c,d,e,b,a,d,b,e,b,e,d,b,d,d,e
+Brick Van den Cruijce,d,d,b,b,a,d,d,c,a,d,e,a,d,c,d,a,d,d,d,e,a,c,e,c,c,a,c,e,d,c,e,b,e,b,c,d,d,b,c,c,e,b,e,c,a,d,b,d,d,e
+Timo Claes,b,b,b,b,a,d,b,c,d,d,c,a,d,d,d,a,d,a,c,e,a,c,e,e,c,b,c,e,e,a,e,b,e,e,d,d,d,e,c,c,a,b,e,d,b,d,b,d,d,e
+Arnaud Juste,e,d,b,b,c,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,b,c,e,c,c,a,c,e,d,c,a,c,e,b,c,a,d,c,c,b,e,b,e,b,a,d,b,d,d,e
+Othello Scherens,d,c,d,b,a,d,e,d,a,d,c,a,d,b,d,a,e,d,a,a,a,c,e,c,c,b,c,e,d,b,b,c,a,b,c,d,d,c,c,c,e,b,e,b,a,a,b,d,d,e
+Roel Gocmen,d,b,b,a,d,d,c,b,c,d,d,c,d,d,c,a,a,d,a,e,b,d,e,d,c,a,c,a,d,d,a,c,a,d,c,d,a,b,e,c,d,b,a,d,a,c,c,d,d,c
+Jakub Gocmen,d,d,b,b,e,d,d,d,a,e,d,a,d,d,d,a,d,e,b,e,d,c,e,a,c,a,c,e,d,c,e,c,e,b,c,c,d,c,c,c,a,b,a,a,a,a,c,d,b,a
+Rubin Luypaert,e,d,d,d,a,c,a,b,c,d,b,b,d,b,c,c,d,e,a,e,c,d,a,c,c,a,e,d,a,e,b,c,e,e,c,c,d,d,a,c,c,a,e,a,e,d,b,c,d,e
+Ali Nowak,d,d,b,b,a,d,d,c,a,d,c,d,d,c,d,c,d,d,a,b,a,c,e,c,c,a,c,e,d,c,e,b,c,b,a,d,d,d,c,c,b,b,e,b,a,d,b,d,b,e
+Niels Vanherf,b,e,b,d,d,e,e,d,b,a,d,a,e,e,e,b,c,d,e,e,a,b,c,c,c,d,d,c,d,e,e,c,d,b,c,d,e,c,b,a,d,b,e,e,c,e,e,c,b,e
+Xavier Engels,a,e,b,a,d,d,d,b,d,d,c,e,d,c,d,a,d,d,a,e,a,e,d,c,c,a,d,e,d,c,e,c,e,b,c,d,d,a,e,c,b,a,e,b,a,d,b,a,d,e
+Hans Spleesters,d,b,b,b,a,d,d,d,b,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,d,d,c,e,c,e,b,e,d,d,c,c,c,e,c,b,b,a,d,b,d,d,e
+Aron Claes,e,e,e,a,a,e,c,b,d,c,e,e,a,a,e,c,c,b,d,c,b,b,b,d,c,d,a,c,e,d,a,b,a,c,c,e,d,a,e,c,e,e,c,e,e,d,e,b,c,b
+Hans Janssen,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Mieke Dierckx,d,d,b,b,e,e,d,b,d,b,a,a,c,c,a,a,d,d,a,a,b,c,b,a,c,b,c,c,a,b,e,c,c,c,c,e,c,c,a,d,d,d,e,b,d,c,a,d,a,b
+Hendrik Ramaekers,b,d,b,a,d,d,d,c,b,e,b,b,a,e,d,a,d,b,b,e,a,c,d,c,c,a,c,d,c,a,b,c,d,c,a,b,d,c,d,c,b,a,a,a,d,d,b,b,d,e
+Rubin Dubois,b,d,a,b,a,b,b,b,a,a,e,a,e,d,d,d,b,b,c,c,d,e,a,c,c,b,d,d,b,c,e,b,b,b,c,e,c,c,c,d,b,e,e,b,b,b,d,b,d,b
+Joran Hons,d,d,b,b,c,d,d,b,c,d,c,a,d,d,b,a,d,e,a,e,e,c,e,e,c,a,c,e,d,c,e,c,d,b,c,d,c,d,c,a,b,c,e,b,a,d,b,c,d,e
+Lukas Van Oosterwyck,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,c
+Robbe Michils,d,c,d,b,a,e,d,d,d,a,c,a,d,b,d,a,c,e,b,e,a,c,e,c,c,a,c,b,c,e,e,c,c,b,b,d,a,c,c,e,b,c,e,b,a,d,a,d,d,c
+Jowan Hons,e,d,e,b,a,d,d,b,c,d,b,c,d,d,a,a,d,b,b,e,a,b,e,c,c,a,c,e,b,e,e,c,b,b,c,c,d,a,c,c,c,b,e,b,a,c,b,d,d,a
+Mirte Hendrickx,a,a,c,a,e,b,c,d,e,a,e,d,d,c,e,d,a,a,e,e,b,b,a,a,e,c,b,a,e,e,c,e,e,d,e,a,a,c,c,b,d,e,c,e,a,e,d,b,d,e
+Matthias De Baets,d,d,b,b,a,d,d,d,a,d,d,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,b,d,b,d,d,e
+Jakub Vanden Driesch,a,b,c,d,d,d,d,a,d,e,c,e,d,c,d,c,d,d,a,e,e,b,a,c,c,d,b,e,d,d,e,c,e,b,a,a,d,c,e,b,e,b,e,a,d,d,b,d,d,e
+Laurens Pasteels,d,d,b,b,e,d,a,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,b,c,c,b,c,d,b,c,e,d,c,e,c,e,c,e,b,a,d,b,d,c,e
+Timo Beddegenoodts,a,d,b,b,a,d,d,d,a,d,c,a,d,c,b,a,b,d,a,e,c,c,a,c,c,a,c,e,d,c,e,d,e,a,c,d,d,c,c,c,e,b,c,b,a,d,b,d,d,e
+Rainier van Roekel,b,c,e,b,a,a,d,b,c,c,b,b,b,c,e,e,d,d,d,b,c,a,b,a,d,c,c,b,d,c,d,d,e,e,c,c,b,c,a,c,e,d,e,b,b,d,a,d,c,e
+Tom Govaers,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,b,c,c,e,b,e,b,a,d,b,d,d,e
+Igor Ausloos,d,d,b,e,e,b,a,d,a,b,d,e,a,c,d,d,c,d,a,c,a,b,c,d,a,c,a,d,b,c,b,c,e,c,e,a,d,e,c,e,d,b,c,b,a,a,a,d,d,e
+Bram Van Briel,c,d,b,b,a,d,d,d,a,d,c,a,e,c,d,a,d,d,a,c,e,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,b,c,d,e,b,e,b,a,a,a,d,d,e
+Robin Theunis,c,d,b,b,a,d,d,d,a,d,c,a,d,a,d,a,d,e,a,e,a,c,e,c,c,a,c,d,e,c,e,c,e,b,e,d,b,c,c,c,b,b,a,b,a,c,b,d,d,e
+Wouter Morren,d,c,b,b,a,a,d,d,b,d,c,a,a,c,d,a,d,b,e,e,a,c,e,c,c,a,c,b,d,c,d,d,e,b,c,d,d,a,c,c,e,b,e,b,a,d,c,c,d,e
+Koen Van der Zwalmen,d,d,b,b,e,d,d,d,a,e,d,a,d,c,c,a,d,d,e,e,c,c,e,c,d,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,c,b,e,d,a,d,e,b,d,e
+Joni Venneman,d,b,b,d,e,b,c,b,a,a,b,b,e,c,d,b,d,a,d,a,b,d,d,b,e,a,e,e,b,d,c,c,e,b,c,b,e,b,c,a,e,b,a,b,a,d,b,e,d,e
+Aron van Roekel,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,a,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,a,c,e,b,e,b,a,d,b,c,d,e
+Arthur Singh,e,a,c,e,d,a,c,b,a,c,b,a,b,d,a,c,d,b,b,e,b,a,b,a,d,a,b,e,d,d,d,e,a,b,b,e,a,c,a,c,e,e,e,a,b,a,a,a,b,e
+Nicolas Van der Zwalmen,d,d,e,e,b,e,a,c,a,c,e,a,b,e,d,e,c,b,b,c,d,a,a,e,b,a,d,e,c,c,d,c,a,d,e,b,e,c,e,c,e,b,a,b,c,b,e,b,b,e
+Thao Temmerman,d,d,b,b,a,d,d,d,a,d,c,a,d,e,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,a,c,c,c,e,b,e,b,a,d,b,d,d,e
+Merijn Coget,e,d,c,b,e,d,d,d,b,d,c,a,d,c,c,a,d,d,a,a,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,e,b,d,d,e
+Jakub Morren,d,e,b,b,e,b,a,d,a,d,d,a,c,a,d,a,d,a,a,e,d,c,e,c,d,a,c,c,c,c,c,c,e,b,e,d,a,c,c,c,e,b,b,c,a,a,b,a,b,e
+Yang-Yee Descendre,d,d,b,b,a,d,b,d,a,a,d,a,d,c,b,c,d,d,a,e,a,c,e,a,c,a,a,e,d,c,e,a,e,b,c,d,c,c,c,c,e,b,e,b,d,d,b,a,d,e
+Yenthe Kerckhofs,d,d,b,b,c,d,d,e,a,a,c,a,e,c,d,a,c,d,a,e,a,c,e,c,c,a,c,e,d,c,a,c,e,b,c,e,d,c,c,c,e,b,e,b,a,d,e,c,c,e
+Merijn Vandenplas,a,d,e,b,c,d,a,e,c,b,c,a,a,e,e,d,c,d,a,e,b,e,b,e,c,e,a,a,e,e,e,c,d,e,a,e,d,e,c,d,a,e,b,c,a,b,e,d,d,d
+Mieke Jemuce,d,c,e,d,d,c,a,a,a,c,b,e,c,d,e,c,b,d,b,e,e,c,b,a,c,a,e,e,e,d,e,a,a,c,e,a,d,e,c,c,b,b,a,c,a,b,a,d,a,b
+Rik Bruynseels,d,d,a,c,b,d,b,c,b,e,c,a,e,c,d,a,c,d,b,c,b,c,d,e,c,e,d,b,e,c,c,b,e,d,e,a,b,a,d,b,a,d,a,c,e,c,a,a,d,c
+Xavier Venneman,a,d,c,e,a,b,d,a,a,a,d,a,e,a,d,a,e,c,d,a,a,d,e,a,b,c,c,e,d,e,b,c,a,b,d,b,d,d,b,a,d,d,b,b,b,a,d,c,b,d
+Firas Palmans,a,d,e,c,a,d,b,d,d,b,b,c,d,c,b,c,d,e,a,c,e,a,b,c,c,d,a,e,e,c,b,a,a,b,c,b,e,c,c,a,e,b,e,c,a,c,b,d,c,e
+Ruben De Baets,d,d,b,b,a,d,d,d,a,d,b,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Merijn Braem,b,c,b,e,a,d,d,d,d,d,e,b,b,c,e,b,a,d,c,e,b,c,e,b,b,c,c,e,b,c,e,e,e,a,c,a,d,e,c,d,a,a,e,e,c,c,e,c,e,d
+Elias Freier,d,d,b,b,a,e,d,d,a,d,c,a,d,e,e,a,d,d,a,e,a,a,e,c,b,a,c,e,d,c,e,e,e,b,e,e,d,a,c,c,a,b,e,d,a,d,b,d,d,e
+Maarten Braem,e,c,d,c,d,b,a,b,c,e,d,a,b,c,d,e,a,a,d,b,c,c,a,d,e,b,a,d,c,a,b,c,b,a,c,c,e,a,e,e,a,d,c,e,c,c,c,a,a,d
+Anton Pauwels,d,d,b,b,a,d,d,d,a,a,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Thomas Sels,e,c,e,b,d,e,b,a,d,a,c,c,b,c,d,b,a,d,a,e,b,c,e,a,c,a,b,c,b,e,d,c,d,d,c,e,b,a,d,c,d,c,d,c,e,b,c,d,c,e
+Preda Pesa,a,a,b,d,a,c,d,b,d,a,a,b,d,c,c,a,a,d,a,e,b,c,b,c,a,a,c,e,c,c,d,d,e,e,c,d,d,d,c,a,c,b,a,d,a,d,d,d,a,a
+Sam De Clercq,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,a,b,e,b,a,d,b,d,d,e
+Yang-Yee De Ruysscher,a,b,c,b,c,a,e,c,e,e,b,c,d,b,d,a,c,d,b,c,e,c,e,b,c,b,c,c,d,a,a,e,d,c,c,e,d,e,e,e,d,a,b,e,a,c,a,a,a,a
+Igor Descendre,c,e,d,b,b,b,c,a,d,a,a,d,c,a,d,c,d,c,d,d,b,e,e,c,e,d,a,a,d,e,e,e,a,c,a,e,b,a,c,e,e,b,e,d,b,c,b,a,a,e
+Emilien Seldeslachts,b,d,b,b,a,a,d,d,c,d,e,e,c,d,a,a,d,a,d,a,a,a,e,d,e,a,c,e,d,e,c,b,e,e,c,b,e,c,e,c,e,b,c,e,c,c,a,b,c,e
+Ward Govaers,d,d,b,b,a,d,a,d,a,d,c,a,d,c,d,a,d,d,a,d,a,c,e,c,c,a,c,e,e,c,e,c,e,b,c,d,d,a,c,d,e,b,e,b,a,d,b,d,d,e
+Ben Van der Zwalmen,d,d,b,b,e,d,d,d,a,e,c,a,d,c,d,d,d,d,a,e,a,c,e,c,e,a,c,e,d,c,a,c,e,b,c,d,d,c,c,c,e,b,e,b,a,a,c,d,d,e
+Michiel Govaers,d,d,a,b,a,d,d,d,b,d,c,d,d,d,d,a,d,d,d,e,a,c,e,e,e,e,e,c,d,e,a,c,e,e,c,b,a,c,a,c,e,b,c,a,a,d,b,d,d,e
+Yenthe van Roekel,d,e,c,c,e,e,b,d,c,c,c,a,e,d,c,d,e,a,a,e,a,e,a,b,a,b,e,a,a,c,d,b,d,e,e,c,b,d,e,a,a,d,c,d,d,e,d,e,e,e
+Kobe Nidecki,a,e,c,e,a,a,d,a,c,d,c,c,d,b,e,a,e,c,a,e,e,c,e,c,c,a,c,e,d,e,e,a,e,c,a,a,a,d,c,c,e,b,e,b,c,d,a,d,d,a
+Jurgen Roets,c,c,b,a,a,c,e,e,d,a,e,b,a,e,d,e,c,d,c,e,c,b,e,d,b,b,a,b,d,a,e,e,c,b,d,d,e,a,c,a,e,b,e,b,b,e,d,c,d,d
+Yarne Juste,d,d,e,b,a,d,b,d,a,e,c,a,a,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,d,c,d,d,c,a,c,e,b,e,a,e,d,b,d,d,e
+Mathias Ausloos,d,b,b,d,a,d,d,d,d,d,c,d,d,c,d,c,d,d,a,e,a,b,d,c,c,e,c,b,c,a,e,d,a,b,a,d,d,c,e,c,e,b,e,a,a,d,b,c,d,c
+Mattias Rizkallah,a,e,a,b,c,d,d,b,a,d,c,a,b,c,c,a,b,d,c,a,a,d,b,c,e,b,d,e,c,d,e,e,c,b,e,d,a,b,b,b,c,e,b,b,a,d,a,c,c,d
+Brick Bastiaans,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,c,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Mathieu Dierckx,d,d,b,b,a,b,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,b,d,c,e,d,c,e,a,e,b,c,e,d,e,c,c,e,b,e,b,a,d,b,d,d,e
+Michiel Melin,a,d,a,b,a,d,b,d,a,d,c,d,d,c,a,a,e,d,d,c,a,c,e,c,c,c,c,e,c,c,e,e,e,d,d,e,d,b,c,b,e,d,e,b,a,d,b,c,d,b
+Lorenzo Geldhof,d,d,c,b,a,d,d,d,a,d,c,a,d,c,d,a,c,d,a,e,a,c,e,c,c,a,c,a,a,c,d,c,e,b,c,a,d,c,c,c,e,c,e,a,a,d,b,d,c,e
+Adam Vanheusden,c,e,e,b,a,c,c,e,b,e,c,b,d,a,d,a,d,d,a,d,a,a,b,a,c,b,b,b,a,c,e,d,e,b,a,d,b,d,e,c,c,d,e,b,a,d,b,d,d,c
+Yarne Kerckhofs,b,e,e,e,e,d,e,e,c,c,a,a,e,d,a,b,c,a,a,d,d,c,c,a,d,d,c,c,b,a,a,e,e,a,d,b,d,d,c,c,d,e,e,e,a,b,b,d,a,e
+Frederik Bogers,d,d,b,e,b,d,b,c,c,a,c,d,a,d,a,b,e,d,b,a,d,a,a,d,c,a,b,e,e,a,c,c,d,e,b,c,a,b,a,a,a,b,b,b,b,d,b,b,c,a
+Arthur Romeo,a,d,b,b,a,d,d,d,a,d,c,a,d,a,d,a,d,d,a,e,a,d,e,e,c,a,d,e,d,c,e,c,e,e,c,d,d,c,c,c,c,b,e,b,a,d,e,d,d,e
+Mirte Kerckhofs,d,d,b,d,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,e,d,c,c,e,e,b,e,b,a,d,b,d,d,e
+Sebastien Ausloos,e,a,b,d,c,c,b,c,e,e,a,e,c,b,e,e,b,a,d,a,a,a,e,d,e,d,c,c,b,d,d,d,a,e,c,c,c,d,b,b,e,a,b,c,c,b,c,a,a,d
+Bram Vanden Driesch,a,c,b,b,b,c,a,c,a,e,c,e,e,c,e,e,a,c,c,a,e,b,b,e,a,b,a,e,e,c,b,d,b,b,d,b,d,d,e,c,c,b,a,a,a,e,a,d,c,e
+Koen Paulus,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,e,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Niko Beddegenoodts,a,d,c,e,d,d,d,a,a,d,a,a,e,c,d,a,a,d,a,e,a,a,e,d,e,c,c,d,e,b,e,a,e,b,c,b,c,b,c,c,d,d,e,b,a,c,b,d,c,e
+Liena De Baets,d,d,b,b,e,d,d,d,a,d,e,a,d,c,d,a,d,a,d,e,a,c,e,a,c,d,c,e,d,d,e,c,e,b,c,d,d,a,c,c,e,c,a,b,e,d,b,d,c,d
+Kyanii Wandzel,a,b,d,d,c,e,e,d,d,d,b,b,a,c,b,a,d,d,a,e,a,d,d,c,c,e,c,d,d,a,e,c,a,c,c,e,c,c,c,d,e,b,e,b,a,e,b,d,b,c
+Elias Lemeire,a,c,b,b,a,e,b,d,a,d,c,a,d,b,d,a,d,d,a,e,a,c,e,c,c,a,b,e,d,c,e,e,e,b,c,d,d,c,a,c,a,c,e,b,a,d,b,a,c,e
+Jurgen Rizkallah,e,b,c,d,e,c,c,e,e,d,c,d,a,d,e,e,a,c,d,b,c,d,b,c,d,a,e,a,d,e,d,c,d,c,e,e,c,c,a,d,e,c,b,b,d,e,b,e,a,c
+Cisse Seldeslachts,d,b,e,c,c,a,b,a,a,d,a,b,a,c,d,a,b,d,d,e,c,d,c,c,b,a,c,b,d,d,a,b,a,a,c,a,e,e,d,e,b,a,e,b,a,d,a,b,d,d
+Kyanii Van den Cruijce,d,d,b,b,c,d,d,d,a,c,c,a,e,c,c,a,d,d,a,e,a,c,e,c,c,a,c,a,d,c,e,c,e,b,c,d,d,c,c,c,d,b,e,b,a,d,a,d,d,e
+Szymon Mustafa,d,c,e,b,c,d,d,a,c,b,d,c,e,c,a,d,d,b,a,b,c,b,b,c,c,c,c,c,d,e,e,a,b,c,c,a,d,c,b,a,c,a,e,d,a,c,d,b,e,c
+Arnaud Vandenplas,c,d,b,b,c,d,d,b,a,d,c,a,c,b,a,b,e,b,a,e,e,c,e,c,c,d,c,b,d,a,e,d,c,b,c,c,a,c,a,c,e,d,b,b,a,e,b,e,b,e
+Matthias Ausloos,d,d,b,d,e,d,c,c,a,a,c,e,c,d,a,c,b,d,d,c,b,e,d,c,c,e,c,b,c,c,c,d,d,b,b,c,e,c,e,d,d,b,e,e,c,a,e,d,e,b
+Michiel Wandzel,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Tuan Vanherf,a,b,c,a,d,d,d,e,a,d,c,d,b,c,d,a,d,d,a,e,e,c,c,c,e,a,c,e,d,c,e,a,e,e,c,d,d,c,c,c,e,d,e,a,a,d,b,d,d,e
+Matthias Bogers,d,d,b,b,c,d,d,d,a,c,c,a,c,e,d,a,c,d,a,e,e,c,b,c,c,c,d,e,c,c,e,c,e,b,e,d,d,c,c,b,e,b,e,d,a,d,b,d,d,e
+Rainier Bogers,d,c,b,d,a,d,a,d,c,d,c,e,a,a,c,c,e,b,d,e,a,e,c,a,c,a,c,a,d,a,c,c,e,b,c,d,d,c,e,c,e,e,b,e,e,c,b,a,b,a
+Lorenzo Laporte,d,e,a,b,a,d,b,c,d,d,b,a,d,b,d,b,a,d,a,b,a,c,e,c,a,b,d,a,d,d,a,d,e,d,b,a,b,c,d,e,c,c,e,c,b,b,b,b,c,c
+Ali Luypaert,d,d,b,e,a,d,d,d,a,d,c,d,c,c,a,c,c,d,a,e,a,a,e,c,c,a,c,e,c,c,a,c,e,e,c,d,b,c,a,a,e,b,e,b,a,d,b,e,d,c
+Liena Palmans,a,b,d,e,a,d,d,b,a,b,e,a,a,c,d,e,e,d,a,e,a,d,a,a,c,c,a,e,b,d,a,c,e,b,c,e,a,c,c,a,b,b,d,b,d,c,e,a,e,e
+Wout Luypaert,e,d,c,d,c,e,e,d,b,d,b,e,a,c,c,a,d,c,c,c,b,c,a,d,c,a,c,a,d,b,d,b,e,c,c,a,b,a,c,e,e,b,e,c,a,d,e,d,d,e
+Laurens Palmans,a,a,c,a,a,a,d,d,b,d,a,a,d,b,b,b,a,e,b,c,e,d,a,c,d,a,e,a,c,e,c,d,e,c,d,a,d,a,c,c,c,c,e,a,a,b,b,a,d,d
+Dieter Janssen,a,d,b,e,a,d,c,d,e,e,a,c,c,d,c,a,a,d,c,e,d,e,d,c,c,d,b,a,b,b,e,c,d,b,b,c,b,c,a,e,e,b,e,e,b,b,b,c,d,e
+Tuan Ramaekers,d,b,b,b,e,d,a,e,e,c,e,a,d,e,e,b,b,d,c,e,b,c,a,b,c,c,c,d,e,c,e,a,c,b,c,e,d,d,c,b,a,b,d,b,a,d,b,b,e,d
+Emilien Mounnadi,d,d,b,e,a,d,d,d,d,d,c,a,d,c,d,a,a,d,a,e,d,c,e,c,a,c,c,d,d,c,e,c,e,b,c,d,c,c,e,c,e,b,e,b,a,d,b,a,d,e
+Younes Mustafa,d,d,b,b,c,d,d,d,a,d,a,a,a,c,d,d,d,d,a,e,c,c,e,c,d,b,d,a,d,b,e,c,e,c,b,d,d,d,d,d,e,d,e,b,a,b,e,a,b,e
+Mathieu Hons,d,e,b,a,d,d,d,d,e,d,c,a,b,e,d,a,c,a,a,e,a,c,d,c,c,a,c,d,a,b,e,a,e,b,c,a,d,c,c,b,e,b,e,a,a,a,b,d,d,e
+Thomas Van Briel,d,a,b,b,d,b,d,b,d,d,b,a,c,a,c,a,c,e,b,a,a,c,b,a,c,b,c,e,b,c,e,a,e,b,c,a,a,c,d,c,e,d,d,b,d,d,e,a,c,e
+Michiel Mustafa,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,d,e,e,c,e,d,e,d,c,e,c,c,e,c,d,c,c,c,c,e,c,d,b,e,d,b,d,d,e
+Szymon Vanden Driesch,c,c,a,c,a,b,d,e,b,e,d,d,b,a,c,d,a,d,c,a,a,d,e,e,e,a,d,b,d,b,e,e,c,b,a,b,d,b,a,c,b,b,e,d,a,b,b,e,d,d
+Dieter Waem,e,e,b,b,e,d,d,d,a,d,e,e,d,c,d,a,a,e,c,a,a,d,c,a,c,a,c,b,e,a,e,c,c,b,a,b,c,c,c,e,e,e,e,d,a,d,a,d,c,e
+Lorenzo Meyer,a,d,b,e,e,c,d,a,a,d,c,c,d,c,b,e,c,d,c,b,a,c,a,c,c,d,d,a,c,a,e,c,c,d,d,d,d,b,d,d,d,b,d,b,c,b,d,c,d,e
+Aron Dubois,c,e,d,c,a,d,d,d,b,e,e,e,e,d,b,e,c,c,d,c,c,c,e,e,d,e,e,a,c,e,d,b,c,d,e,d,a,d,b,c,c,c,c,b,e,b,d,a,a,a
+Obim Ausloos,d,a,d,b,c,a,e,d,c,e,c,c,c,e,a,c,e,e,a,b,a,c,d,c,a,b,e,e,b,e,b,d,b,c,a,c,e,e,a,d,b,b,b,e,b,c,b,a,d,a
+Roel Coget,d,a,e,b,e,e,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,a,e,a,c,a,b,e,d,c,e,c,d,b,c,d,d,c,c,c,e,b,e,b,d,d,e,c,d,e
+Igor Venneman,c,e,b,b,d,d,d,a,d,c,e,b,d,d,a,a,d,d,a,e,a,c,a,e,c,a,c,e,b,c,e,a,d,b,c,c,c,a,c,a,e,b,e,b,a,d,b,c,d,e
+Yenthe Venneman,d,d,d,c,e,c,b,e,b,a,d,b,d,b,a,d,d,e,a,d,e,c,c,c,c,b,b,d,c,d,a,b,a,d,c,d,c,c,d,a,e,a,b,b,d,c,b,c,c,e
+Nicky Waem,d,c,b,d,a,e,c,c,d,a,e,a,c,a,d,a,e,a,d,e,a,d,e,c,e,c,c,e,a,e,e,c,b,b,d,a,d,c,a,c,e,a,d,a,e,d,b,e,c,a
+Obim Thiry,d,d,b,b,a,d,e,d,d,d,b,a,b,e,e,e,d,d,e,c,a,c,e,e,c,a,c,e,d,c,d,e,e,b,c,d,b,e,c,a,d,a,e,b,a,b,c,d,c,e
+Laurens Coget,d,d,b,e,a,e,b,d,e,e,e,a,d,c,a,c,d,d,e,e,a,e,c,b,d,b,e,e,e,d,d,e,a,c,c,d,d,c,c,e,a,b,c,e,a,d,c,d,b,e
+Jurgen Hendrix,d,c,b,c,d,d,d,c,e,d,c,e,d,a,c,a,c,b,a,e,d,e,c,b,c,e,c,a,d,c,e,e,d,c,d,a,b,e,e,c,e,b,a,d,e,c,b,c,e,b
+Sascha Meeus,d,d,b,a,e,d,d,d,a,d,c,a,d,c,b,a,d,d,a,e,a,c,c,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,a,a,d,b,b,d,b
+Yarne Michiels,d,b,d,b,b,d,b,b,a,d,c,c,d,c,d,a,d,d,a,e,a,c,e,b,c,a,d,c,d,c,c,c,b,b,e,d,d,e,c,c,e,b,c,b,a,d,d,d,d,a
+Frederik Seldeslachts,d,d,b,d,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Sigfried Rubbens,a,c,a,c,c,a,a,d,c,d,e,d,d,b,c,d,b,b,d,d,b,b,c,b,a,b,e,c,c,a,d,d,e,e,b,b,c,c,e,d,e,d,e,d,a,a,c,a,e,e
+Marlene Mergaerts,d,d,a,b,d,d,d,d,d,a,c,a,b,e,e,b,d,d,c,a,a,a,e,c,c,a,c,e,d,b,e,a,e,b,a,a,b,e,e,c,b,b,b,d,c,d,e,c,d,d
+Robbe Janssen,c,e,d,b,a,d,d,d,a,a,d,d,b,b,b,c,c,d,e,b,a,c,a,e,c,d,b,e,d,d,d,d,d,d,c,b,d,d,b,a,a,a,d,e,a,d,c,e,d,b
+Marlene Rizkallah,b,d,b,b,a,d,d,d,a,d,c,a,d,c,d,b,c,d,b,e,d,c,e,c,c,a,c,e,d,c,e,c,d,b,c,d,d,c,c,c,e,b,e,d,a,d,b,d,d,e
+Mathieu Mergaerts,e,e,d,b,e,e,b,a,a,a,a,d,d,e,a,c,c,d,d,b,a,e,a,c,e,b,b,e,a,e,e,e,c,e,a,c,b,a,e,b,b,a,a,c,d,c,c,c,b,a
+Evert Pechovitch,d,d,b,b,a,d,d,d,a,d,a,a,d,c,d,a,a,d,a,e,a,c,e,c,a,a,c,e,a,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Niels Ausloos,d,d,b,c,e,a,e,d,e,d,b,a,d,d,e,b,b,c,e,e,a,b,e,c,d,a,c,e,d,a,a,a,d,b,a,d,a,c,d,b,d,b,e,b,a,b,b,d,e,a
+Sigfried Roets,d,a,a,a,a,d,d,d,a,d,c,a,d,b,d,a,d,d,a,e,a,c,e,c,c,a,c,d,d,c,e,c,e,b,c,d,d,c,c,b,e,b,e,b,a,d,b,c,d,e
+Joni Van Grunderbeek,b,d,b,b,c,b,d,b,c,c,d,a,d,a,d,a,c,d,a,c,d,c,a,d,c,a,c,e,b,c,c,c,e,b,c,e,d,c,b,c,a,b,b,b,a,d,b,d,d,e
+Rick Hendrix,d,b,b,c,a,d,d,d,a,d,b,b,d,c,e,a,d,c,e,e,a,c,c,b,a,d,c,e,b,c,a,c,a,e,c,a,c,c,c,c,a,b,e,a,a,d,d,e,d,b
+Mathieu Van Grunderbeek,b,d,b,c,c,b,d,e,e,a,e,b,d,e,b,a,b,d,d,c,a,d,c,e,b,b,c,b,c,c,e,c,c,d,c,d,a,c,e,e,b,b,d,d,c,d,a,d,d,c
+Ben Ahmed,c,c,e,b,c,d,e,a,c,e,c,e,d,c,a,a,d,d,b,e,e,b,d,d,c,b,e,a,c,d,e,c,a,a,a,a,b,e,d,d,e,b,a,c,a,e,c,a,a,d
+Lorenzo Madugba,a,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,b,a,c,e,c,c,a,c,e,d,c,e,c,e,b,b,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Igor Taverniers,a,b,b,a,d,c,d,b,a,d,e,a,d,c,a,a,b,e,a,e,a,e,e,b,c,b,c,e,d,a,e,c,e,b,c,d,d,c,c,c,e,a,b,b,a,d,c,d,d,c
+Ben Lowis,a,d,b,b,a,d,d,d,c,d,c,a,d,a,a,a,e,d,d,d,a,c,e,c,c,a,c,d,e,c,e,c,d,b,c,d,d,c,d,c,c,b,c,b,a,d,b,c,b,e
+Rick Wandzel,d,b,c,a,c,d,b,d,a,c,d,a,d,c,d,c,a,b,b,e,d,b,c,e,e,b,b,a,c,c,c,b,e,d,e,a,b,a,e,b,e,a,a,a,d,d,b,c,a,d
+Mathias Delarbre,c,e,d,a,a,a,b,a,e,c,a,e,d,b,d,a,e,d,b,e,a,c,a,c,c,b,b,e,d,e,d,e,a,b,d,c,e,a,e,a,c,c,e,a,a,a,e,e,d,a
+Gillis Mergaerts,c,a,e,b,a,d,e,c,a,e,c,a,d,c,d,a,d,c,a,e,d,b,e,c,b,a,b,e,e,c,e,b,e,b,b,d,e,c,d,e,a,b,c,c,d,e,b,d,d,e
+Ward Meyer,b,e,b,b,d,c,d,a,a,d,a,e,c,a,a,a,e,e,a,c,d,b,c,c,d,a,e,e,b,e,a,b,a,b,e,e,c,c,c,b,e,d,a,a,a,e,b,d,c,a
+Yago Wojtas,d,b,c,b,a,e,e,c,d,e,c,d,d,e,e,a,e,e,c,b,a,c,e,c,d,c,b,d,a,c,d,b,b,b,c,e,b,a,a,a,e,b,a,e,a,d,d,a,b,b
+Koen Gocmen,e,d,b,b,a,d,e,d,a,d,c,a,d,c,d,d,d,d,a,e,a,c,e,c,c,e,c,e,d,a,e,c,c,b,c,d,d,c,c,a,d,c,e,b,a,d,b,d,d,e
+Sascha De Ruysscher,c,b,b,b,b,e,d,c,c,b,d,a,b,e,a,c,b,d,a,e,e,d,e,c,c,e,a,d,d,c,a,a,d,b,d,d,d,c,d,a,c,a,b,c,a,e,a,c,d,b
+Kyanii Engels,d,a,b,b,c,a,c,d,a,d,b,a,d,d,e,c,d,d,a,e,a,d,d,c,c,c,e,e,a,b,e,c,e,a,c,e,a,a,e,d,e,a,e,b,a,d,b,e,b,e
+Roel Coremans,c,c,a,b,b,d,c,a,d,c,b,a,a,d,c,a,e,b,b,b,a,d,e,d,b,a,b,b,e,c,a,b,c,b,a,e,c,d,e,e,d,a,b,d,d,a,e,e,a,a
+Yago Claes,a,a,b,d,c,d,c,c,c,b,b,b,d,a,e,d,d,b,c,a,e,c,a,b,a,b,e,a,b,a,b,c,a,e,c,d,d,e,b,d,a,b,e,b,b,a,d,d,e,e
+Maxim Bruynseels,a,e,a,b,e,d,b,c,c,d,e,e,e,a,d,a,e,d,e,e,a,b,e,a,c,b,c,e,e,d,c,b,d,e,c,d,d,c,c,c,e,b,d,b,a,d,b,b,a,b
+Dieter Ahmed,d,d,d,b,a,a,b,b,a,b,e,e,d,a,b,a,d,e,d,b,a,c,a,b,c,a,b,e,e,c,d,e,e,b,b,a,d,c,a,e,e,b,e,b,a,d,b,d,b,d
+Bram Meyer,d,d,b,e,a,d,d,e,c,d,c,a,e,d,d,a,d,c,a,e,a,c,e,c,c,a,c,b,d,c,e,d,e,b,c,b,a,b,c,c,e,d,e,c,a,d,b,b,d,e
+Ali Brouns,d,d,b,b,a,d,c,d,a,d,c,a,d,c,d,a,d,e,a,e,a,c,a,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,c,e,b,a,d,b,d,d,e
+Xavier Sterckx,d,c,a,e,a,d,d,d,a,d,c,a,d,c,d,d,d,e,a,e,a,c,e,c,d,a,c,e,d,e,b,c,e,b,c,d,d,c,c,c,e,b,e,b,d,b,b,d,d,e
+Anton Romeo,d,b,b,c,a,d,d,d,a,d,b,e,e,a,d,a,d,d,a,a,d,d,e,b,d,a,c,d,c,d,c,e,e,b,c,d,b,a,c,a,a,c,d,a,c,b,e,b,e,e
+Jasper Vanheusden,d,d,e,b,a,d,d,d,a,d,c,a,d,c,d,d,b,d,d,e,e,e,d,c,b,a,c,e,d,c,e,c,e,b,b,a,c,c,d,e,e,b,e,b,c,d,b,e,d,e
+Tom Lemmens,d,a,b,b,a,d,b,d,e,d,c,a,d,c,d,a,d,d,a,e,a,b,e,c,c,a,a,a,a,c,e,d,e,b,c,d,d,c,e,c,e,c,e,b,a,d,b,a,a,e
+Mirte Ahmed,b,d,b,b,a,d,e,b,e,d,c,a,d,e,b,a,d,c,d,e,a,c,c,c,c,b,c,e,d,d,e,c,b,d,c,a,d,c,c,b,e,b,e,b,b,b,d,e,e,a
+Kobe Wojtas,d,d,b,b,a,d,c,e,a,d,c,a,d,c,d,a,d,d,a,e,a,c,d,c,c,a,a,e,d,c,d,a,e,b,c,d,d,c,e,c,e,b,e,b,a,d,d,c,d,a
+Rik Delarbre,b,b,e,c,d,b,a,e,d,b,b,b,a,e,e,d,b,c,b,e,c,c,e,c,b,e,c,c,e,b,a,c,b,e,b,e,d,d,e,c,b,b,e,c,a,b,b,d,b,e
+Merijn Van Gansen,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Alexander Morren,d,d,b,c,c,d,e,a,d,d,e,c,b,a,c,d,b,a,a,c,a,c,c,c,e,b,c,d,d,d,a,b,e,c,c,d,d,d,d,a,e,a,c,c,c,e,a,a,c,e
+Guillaume De Sutter,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,b,d,c,e,c,e,b,c,d,d,a,c,c,e,b,e,b,a,d,d,d,d,e
+Othello Jemuce,e,d,b,b,a,d,d,d,e,a,a,a,d,c,b,a,b,d,a,e,a,c,e,c,d,a,b,e,d,c,d,c,e,b,b,b,d,c,a,a,e,b,d,a,c,c,a,d,d,e
+Jowan Spleesters,b,d,b,a,a,d,c,a,a,b,b,b,d,b,e,e,d,d,e,e,b,a,a,d,b,c,a,a,d,d,a,e,d,b,c,c,e,e,b,b,b,c,c,a,c,a,c,b,a,b
+Mathieu Morren,d,d,b,c,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,a,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,d,b,a,d,b,d,d,e
+Lucas Seldeslachts,d,c,b,b,a,b,b,d,e,d,a,d,d,c,c,d,d,e,c,e,a,b,c,c,b,d,d,b,d,c,e,e,e,e,d,a,d,c,c,a,a,c,b,c,b,d,b,a,d,e
+Lennert Warlop,d,d,b,b,a,d,d,d,a,d,c,a,d,e,d,a,d,d,a,e,a,c,e,c,c,a,e,e,d,c,e,c,e,c,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Bram Pauwels,b,d,a,b,a,d,d,b,a,c,e,a,d,c,d,e,c,d,a,e,c,a,e,b,c,a,c,c,b,a,d,c,b,c,c,c,d,c,c,c,a,c,e,b,a,d,b,d,d,e
+Mathias Madugba,d,a,e,d,a,d,c,e,e,c,d,a,e,d,e,d,a,a,b,c,c,c,c,b,a,a,b,d,d,d,a,d,e,e,c,e,e,a,c,e,c,a,a,a,b,a,b,c,a,a
+Lennert Dierckx,d,d,b,b,b,d,b,d,d,e,c,a,c,a,d,e,d,d,d,e,a,c,e,c,e,c,c,e,d,c,e,c,e,b,c,d,d,c,a,c,b,b,e,b,a,d,b,d,b,b
+Alexander Delarbre,d,c,b,b,d,d,d,c,c,d,e,a,d,c,d,a,d,d,a,e,a,c,e,c,d,d,c,d,e,c,e,c,d,b,c,d,d,c,c,c,e,d,e,b,a,d,b,d,c,e
+Jasper Devos,d,b,b,b,a,d,d,b,a,a,c,a,d,c,d,a,d,d,e,e,a,c,e,c,c,a,c,e,d,c,e,a,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Angelo Coget,d,d,b,b,c,d,d,e,e,d,c,e,d,c,d,e,c,a,a,d,a,c,b,c,c,e,c,d,d,c,b,c,d,b,c,d,b,c,c,b,e,b,e,e,a,d,b,d,d,d
+Angelo Michils,a,d,e,e,a,d,d,d,d,d,c,a,d,c,d,a,d,d,a,b,a,b,a,c,c,a,c,e,c,e,e,c,e,b,c,a,a,c,c,c,e,b,e,d,a,d,b,b,d,b
+Gillis Bottu,d,d,d,b,a,d,d,d,a,d,c,e,d,c,d,c,d,d,a,e,a,c,e,c,c,a,a,e,d,c,e,c,e,b,e,a,d,c,c,c,e,b,e,b,a,d,b,d,b,e
+Laurens Sol,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,c,b,c,e,c,e,b,c,d,c,b,c,c,e,b,e,b,a,d,b,d,d,e
+Natan van Roekel,e,e,d,b,b,c,d,a,b,d,a,a,b,a,c,e,b,a,c,a,b,b,c,a,d,a,c,a,a,a,a,d,e,a,d,a,d,b,e,b,e,b,b,e,a,d,e,e,b,e
+Yenthe Palmans,d,d,b,b,a,a,d,c,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,c,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Mirte Hons,d,d,b,b,a,d,d,d,d,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Gregory Van de Velde,b,d,b,b,a,c,b,d,c,b,c,b,d,d,c,b,b,c,a,a,a,a,b,b,e,a,c,b,d,c,b,c,e,d,c,d,a,c,a,c,e,a,c,d,a,e,b,d,d,c
+Hendrik Govaers,a,a,b,d,b,b,c,a,a,d,d,d,d,c,c,e,c,e,d,a,a,c,e,c,c,a,e,a,c,c,b,c,a,c,b,d,a,d,e,b,b,b,d,b,d,d,b,c,c,e
+Brick Paulus,a,d,a,b,b,e,a,d,a,d,c,e,d,c,b,b,e,d,e,b,a,c,b,d,a,d,c,e,a,a,e,d,b,e,a,c,e,c,c,e,e,d,e,b,a,d,b,d,b,d
+Jelle Claes,d,d,e,b,e,b,b,b,a,a,c,a,d,c,b,c,a,d,a,a,d,a,d,a,b,a,e,c,d,e,e,c,b,a,e,a,d,c,a,b,e,e,c,d,d,e,e,c,e,e
+Alexander Winderickx,c,b,b,b,a,c,d,b,d,c,c,c,e,c,b,a,e,c,b,e,a,b,b,a,a,a,d,c,c,e,e,a,d,c,e,d,c,c,b,b,b,b,e,e,a,e,c,a,d,c
+Alexander Symons,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,e,d,e
+Stijn Meeus,a,c,b,b,a,d,b,d,a,e,a,c,a,c,d,a,c,d,a,a,a,c,e,c,a,a,e,a,e,c,a,c,d,b,e,d,d,c,e,c,e,b,b,c,c,a,b,e,d,a
+Phonkrit Van der Zwalmen,d,d,b,b,a,b,a,a,a,a,b,e,d,c,d,d,e,a,a,b,d,c,e,b,c,b,c,b,d,c,e,b,e,a,a,d,d,c,c,e,b,e,a,b,a,d,b,a,b,e
+Arthur Mergaerts,d,b,e,c,a,d,b,c,b,d,b,a,a,c,c,a,d,c,a,e,e,a,c,d,c,a,c,d,d,c,d,d,e,b,c,e,d,a,e,e,e,d,d,b,b,d,b,d,b,b
+Firas Luypaert,c,e,c,b,b,b,c,e,d,b,e,b,b,a,d,e,d,d,d,e,e,c,b,e,a,b,a,c,d,d,e,c,d,c,e,d,d,d,b,b,e,d,a,b,b,b,e,e,c,b
+Tom Meeus,e,e,d,c,a,e,a,e,e,a,e,d,d,b,b,c,b,b,a,e,e,c,c,c,e,c,a,c,d,e,b,e,a,b,e,d,a,a,a,b,b,d,e,a,e,b,c,a,d,a
+Wouter Dauwe,d,e,b,e,a,a,a,d,b,d,e,e,d,c,a,b,c,d,e,d,e,a,c,e,a,b,c,e,d,c,e,a,e,c,b,d,e,e,c,e,a,e,e,a,a,e,e,a,e,e
+Thao Pesa,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,d,d,d,a,b,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Laurens Thiry,d,d,b,e,d,e,d,b,d,d,c,a,a,c,d,a,d,d,d,b,e,b,e,c,d,a,c,e,a,c,e,c,e,a,e,a,c,b,b,a,a,b,a,c,b,d,a,d,d,d
+Stanislas Waem,a,d,e,b,a,d,b,d,e,d,c,c,b,c,d,e,d,d,a,e,b,c,e,b,e,a,c,e,d,b,e,c,e,b,c,d,d,c,c,c,a,e,c,b,a,c,b,d,a,a
+Ali Veelaert,d,d,c,b,b,d,d,d,e,d,e,b,d,c,d,b,b,d,a,b,a,c,a,c,c,a,b,e,c,e,b,e,e,b,c,a,d,c,a,c,d,e,e,b,a,d,a,d,d,e
+Tuan Temmerman,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Dennis Rubbens,c,a,c,e,e,b,d,d,a,a,c,d,a,d,b,d,d,b,b,e,a,d,a,c,c,d,b,a,d,e,d,b,b,b,c,d,d,a,a,c,e,d,e,b,d,d,b,d,d,a
+Kobe Winderickx,a,d,b,b,a,a,b,e,a,a,c,c,d,a,c,a,d,b,a,e,d,c,e,c,c,a,a,e,d,c,d,a,e,b,c,a,c,a,b,d,d,a,e,d,a,d,c,d,d,d
+Lennert Bijloos,d,d,d,b,e,a,d,d,a,c,c,a,c,a,d,a,d,d,b,e,a,b,e,c,c,c,c,e,d,c,e,c,a,b,c,d,e,c,c,c,e,b,e,b,e,c,b,d,c,e
+Alexander Hons,b,d,b,c,e,a,d,d,a,b,c,d,d,b,e,a,d,d,a,a,d,c,e,c,c,a,d,e,d,e,c,c,e,c,c,a,d,d,c,c,b,b,c,b,c,d,a,d,a,e
+Gregory Sewnarain,e,a,b,d,a,b,e,a,c,a,c,a,d,c,c,b,c,e,c,a,a,b,c,c,c,a,a,e,c,d,a,d,d,c,d,b,d,e,c,c,e,a,e,a,b,d,d,a,b,e
+Lukas Winderickx,d,c,a,b,d,a,d,d,e,b,e,a,d,a,a,d,d,e,a,e,e,c,b,d,c,a,d,e,d,b,e,b,e,b,a,a,d,e,a,d,b,b,b,b,e,c,a,e,b,e
+Pieterjan Temmerman,d,d,b,d,a,d,d,b,e,a,e,a,e,c,e,e,d,d,a,b,c,e,a,c,e,a,a,e,d,c,d,a,d,c,a,e,d,c,c,c,e,b,e,b,d,d,b,c,d,e
+Yenthe Vavedin,d,a,a,b,e,d,e,d,a,d,b,d,a,c,b,e,e,e,c,c,b,a,d,b,d,e,b,a,b,c,d,c,e,b,c,c,e,a,a,e,c,b,d,a,a,d,d,b,d,d
+Milan Govaers,d,d,b,b,a,e,d,d,a,d,c,b,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,d,c,d,d,c,c,c,e,b,e,b,a,d,b,d,e,e
+Jakub Wandzel,e,d,a,c,c,d,e,d,a,d,c,e,d,c,d,b,a,c,a,c,b,a,e,c,c,b,b,d,a,e,b,a,e,b,d,d,a,c,e,e,e,b,a,c,a,c,e,d,b,b
+Yang-Yee Van Braeckel,b,e,c,c,b,d,a,e,e,b,e,d,d,e,b,b,b,c,b,c,d,a,a,c,e,a,b,a,c,c,b,d,c,d,e,c,a,b,d,b,d,e,c,c,d,b,e,d,d,b
+Timo Rutten,b,b,e,b,a,a,b,e,a,d,c,a,d,a,d,a,d,d,a,a,a,c,e,c,c,d,a,e,c,e,c,c,b,b,c,d,d,a,c,a,a,a,e,d,d,b,e,d,c,d
+Boris Man,d,d,b,b,a,a,d,d,a,d,c,d,e,a,e,a,d,b,d,b,a,c,d,b,c,a,c,e,d,c,e,b,e,b,c,d,d,c,c,e,c,b,d,b,a,a,b,d,b,e
+Rishad Meeus,c,c,a,d,e,d,b,c,a,a,c,c,c,b,b,b,c,b,b,e,d,c,e,b,d,a,e,a,e,e,d,c,c,a,e,e,a,e,b,e,c,d,c,e,d,e,e,c,c,a
+Dennis Nowak,b,e,a,b,a,d,e,d,a,d,c,a,c,c,a,e,c,b,d,e,d,b,e,a,d,a,c,e,a,a,e,a,e,d,c,a,d,c,c,c,e,a,d,e,a,c,b,d,c,b
+Niko Devos,d,b,c,c,c,d,e,a,b,e,c,d,e,c,e,d,a,d,c,b,c,a,e,c,b,c,e,c,e,d,e,c,c,a,c,d,a,b,a,c,a,b,a,b,c,a,b,a,d,a
+Yenthe Temmerman,d,c,e,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,c,b,a,c,e,c,e,a,c,e,b,c,b,b,e,b,c,a,d,c,c,c,e,b,e,b,a,d,b,c,d,c
+Jowan Clarysse,d,d,b,b,c,d,d,d,d,d,d,a,d,c,d,a,c,d,b,e,a,c,e,d,c,a,c,e,e,c,e,c,e,b,c,d,d,b,c,c,e,b,e,b,a,a,b,d,d,e
+Phonkrit Gervais,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Rainier Roets,d,d,b,b,a,c,d,d,a,d,c,a,d,c,b,a,e,a,e,a,a,c,e,e,c,a,c,e,d,c,e,c,e,b,c,d,e,b,c,c,e,a,a,c,a,d,b,d,d,a
+Jens Vanluyten,b,d,b,b,e,d,e,c,a,e,c,a,d,c,d,a,e,b,d,e,a,b,e,d,c,a,b,e,a,c,a,c,a,b,c,d,d,c,c,c,d,b,e,b,a,d,b,a,d,e
+Lennert Paulus,d,a,a,b,a,c,d,b,a,d,c,d,d,e,d,a,d,a,d,e,e,c,e,c,b,b,b,a,d,e,e,c,e,b,c,d,d,a,c,d,a,b,d,c,c,a,d,d,d,e
+Roel Meeus,d,d,b,e,a,a,c,b,a,d,a,a,d,c,d,d,c,c,e,e,a,a,c,b,b,a,d,d,c,a,e,e,e,a,c,a,a,c,a,c,e,b,b,b,a,d,c,a,d,e
+Niels Lowis,d,a,b,b,a,d,d,c,a,d,c,e,c,b,d,d,c,e,d,e,a,c,e,a,c,d,c,a,d,c,e,a,d,a,e,b,d,d,a,c,e,b,b,d,a,b,b,d,a,e
+Robbe Vanheusden,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,b,c,c,a,c,e,d,c,e,c,e,b,c,d,e,c,c,c,e,b,e,b,a,d,b,d,d,e
+Joni Catalano,d,d,b,b,a,d,d,d,a,d,c,e,d,c,d,d,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Gregory Nowak,d,a,d,a,d,e,b,e,e,c,a,d,b,c,d,a,c,e,d,c,d,e,a,a,a,d,e,c,c,e,e,a,a,d,a,e,b,c,e,d,c,e,a,d,a,e,e,c,e,c
+Brick Wojtas,c,d,e,a,a,e,d,a,a,d,b,e,a,c,d,e,e,d,d,a,c,c,e,c,d,d,e,e,c,c,e,e,e,d,e,d,d,c,e,b,b,b,e,b,a,d,b,d,c,c
+Evert Melin,d,d,b,c,a,d,d,d,a,d,c,b,d,c,d,c,d,d,a,e,a,c,e,c,c,e,c,e,d,c,e,c,e,b,c,d,d,c,c,e,e,b,e,b,a,d,b,d,d,e
+Marlene Bottu,d,e,e,e,a,a,e,e,a,e,e,c,c,b,c,b,c,e,b,b,d,a,e,a,a,e,c,a,e,c,e,d,b,d,a,a,d,d,b,c,c,a,c,c,a,e,c,b,d,a
+Ward Warlop,d,d,b,b,a,c,d,d,b,d,c,c,d,c,d,a,d,d,a,e,a,c,e,b,b,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,d,d,b,d,d,e
+Niels Hoek,b,d,b,d,a,e,d,d,a,d,c,a,d,c,c,a,e,b,a,e,d,c,e,c,c,a,c,e,b,c,b,e,b,b,e,d,d,c,e,b,e,b,e,c,a,d,b,c,c,e
+Ali Ramaekers,d,d,b,a,e,d,e,a,b,d,b,c,d,e,e,d,e,a,b,a,c,e,d,a,c,e,a,c,c,d,c,c,d,b,d,e,e,c,b,d,c,e,e,e,e,c,c,a,a,b
+Dieter Van Hoof,d,d,b,d,a,d,d,c,a,c,c,a,a,c,d,a,d,d,a,b,a,c,e,c,c,a,c,e,b,c,e,c,e,b,c,d,d,c,c,c,e,b,b,b,d,d,b,d,d,e
+Rainier Verrycken,d,d,b,b,a,a,a,b,c,d,a,d,d,c,b,b,d,d,a,e,a,c,e,c,c,a,a,e,d,a,e,c,e,b,c,d,a,c,c,c,e,b,e,b,a,d,b,d,d,d
+Gillis Abdo,d,a,b,b,b,b,d,c,a,d,c,a,d,c,d,a,c,a,a,e,a,c,e,c,c,a,c,e,d,c,c,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Yago De Ruysscher,d,e,d,b,a,d,e,d,a,b,c,b,e,c,d,a,e,d,e,d,d,d,d,c,e,a,c,e,d,c,e,e,e,d,c,d,d,c,c,d,e,b,a,b,a,c,b,d,d,e
+Mathieu Leurquin,d,d,e,e,a,d,d,c,c,d,a,a,d,c,d,a,d,d,a,e,a,c,e,b,c,a,b,e,d,c,e,c,e,b,c,e,a,c,c,c,b,b,e,b,a,a,b,d,d,e
+Kobe Vanderborght,a,c,e,e,e,b,b,d,a,d,c,a,c,a,e,b,a,a,b,e,c,c,b,e,c,a,b,d,a,c,b,e,a,b,d,b,e,d,e,a,c,c,b,c,d,b,e,b,c,c
+Dieter Spleesters,b,e,c,e,b,d,e,a,a,c,e,b,c,b,c,b,a,d,c,a,c,a,e,b,e,b,c,a,e,a,e,e,a,c,e,d,a,e,e,a,b,b,e,b,d,d,c,d,a,c
+Joni Theunis,a,d,b,b,d,e,b,e,b,a,c,a,a,e,d,c,d,d,a,a,a,e,c,c,e,e,d,e,d,e,e,a,e,d,c,c,e,d,c,c,e,d,d,a,b,b,b,d,e,e
+Cisse Gervais,d,d,d,b,a,d,a,d,a,d,c,e,d,c,e,d,d,d,a,e,a,c,e,c,c,a,c,e,c,a,e,c,e,b,c,d,e,c,c,a,e,b,e,e,b,e,b,d,d,e
+Gregory Pasteels,e,d,c,b,a,d,d,a,a,e,a,e,a,b,a,d,d,b,a,a,c,d,e,e,c,d,c,e,d,b,e,d,c,c,b,d,d,c,b,c,b,d,c,a,a,c,b,d,c,d
+Nicolas Rubbens,d,b,b,c,a,c,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,d,e,a,c,a,c,e,e,a,e,d,e,a,c,d,c,b,e,d,e,b,a,c,c,d,a,b,d,d
+Kyanii Seldeslachts,d,d,b,b,a,d,d,d,e,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Lukas Sewnarain,d,d,b,b,a,d,a,d,a,d,c,a,a,c,d,a,d,a,a,e,a,c,e,a,e,a,a,b,d,d,e,a,e,b,b,a,d,c,e,c,e,d,e,b,d,d,a,a,b,e
+Evert Nidecki,c,d,b,d,e,d,d,d,e,d,c,a,d,b,d,c,e,d,b,e,a,d,c,c,e,a,c,c,d,a,a,e,c,b,c,b,d,c,c,d,d,c,e,d,a,b,c,c,d,e
+Jurgen Geerinckx,d,d,b,b,b,e,e,d,d,e,c,c,d,c,b,a,d,d,a,b,e,a,e,c,e,a,c,d,d,c,e,a,b,b,c,d,d,c,b,b,e,b,e,d,a,d,b,d,d,a
+Yago Vanluyten,d,b,e,d,b,d,b,a,e,b,c,a,d,c,d,a,c,d,b,e,a,d,b,c,d,a,c,e,e,d,e,d,d,d,e,e,c,c,a,e,e,e,b,c,d,c,e,c,d,c
+Wout Waem,d,a,e,b,a,d,d,d,a,d,c,a,d,a,a,d,d,d,e,e,a,e,b,d,c,c,c,e,d,c,a,c,e,b,c,d,d,c,c,b,e,b,e,b,a,d,b,d,d,a
+Gillis Janssens,a,d,d,c,d,b,b,d,a,d,c,c,d,a,d,a,b,e,e,d,a,d,a,c,e,a,c,e,a,c,e,c,e,b,c,d,d,c,c,b,e,b,b,b,a,d,b,d,c,c
+Rick Beddegenoodts,b,b,b,e,c,b,d,d,e,c,d,c,e,c,a,d,a,d,a,c,c,a,d,e,b,b,b,e,e,c,c,d,e,e,b,b,a,c,e,c,e,c,d,c,e,a,b,c,d,d
+Jakub Hoek,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,e,d,d,a,e,a,c,e,c,c,a,c,e,d,d,e,c,e,b,d,d,d,c,c,c,e,c,e,b,a,d,b,d,d,e
+Michiel Vanderborght,e,a,c,e,a,e,a,d,b,c,c,e,e,e,d,e,d,c,a,e,b,d,a,e,c,a,c,c,c,c,e,c,b,b,a,d,b,a,a,c,c,d,b,e,c,d,c,d,b,d
+Niels Govaers,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,c,a,c,e,c,c,a,c,e,d,c,d,c,e,b,d,d,d,c,c,c,e,b,e,b,a,d,e,d,d,e
+Joran Drabs,d,a,b,b,a,d,d,d,a,b,a,a,d,c,d,b,a,d,a,e,e,c,e,c,c,c,c,e,d,c,c,c,e,b,c,d,d,c,c,c,e,b,e,b,c,d,c,d,d,e
+Dennis Demol,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,b,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,c,d,e
+Liena Hendrix,d,d,e,b,c,d,d,e,b,d,e,b,d,e,d,e,d,d,a,e,e,c,e,c,c,c,c,e,e,c,c,c,a,a,c,c,d,d,a,c,a,c,e,c,e,c,d,d,b,e
+Pieterjan Roden,d,d,a,a,b,d,c,d,b,a,c,d,e,a,d,a,d,a,c,e,e,b,e,c,e,d,c,e,a,b,b,c,a,a,b,d,a,c,c,c,c,e,c,c,a,e,b,b,b,c
+Elias Devos,d,d,b,b,a,c,d,d,a,d,d,a,d,c,e,a,b,d,a,e,a,e,c,c,b,a,b,e,e,a,b,c,b,b,a,d,c,c,a,c,b,b,b,b,a,b,a,d,d,e
+Szymon Pauwels,d,e,b,e,b,e,c,c,d,a,e,e,a,c,d,a,d,e,a,b,a,c,b,b,c,d,e,e,c,d,e,d,a,b,c,e,a,c,a,d,a,e,b,d,e,e,a,e,d,c
+Merijn Leurquin,d,b,b,b,b,a,e,d,a,d,c,a,a,c,d,a,d,b,b,d,d,c,e,c,c,a,b,c,d,c,e,c,e,d,b,d,c,c,c,b,e,b,e,b,a,d,e,d,d,e
+Yenthe Vanderborght,d,d,a,b,a,d,d,d,a,d,c,a,d,c,b,b,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,c,a,d,b,d,d,e
+Lorenzo Jemuce,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Elias Van Hoof,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Phonkrit Warlop,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,b,c,e,c,b,a,c,b,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Joran Wandzel,e,d,b,b,a,b,a,c,a,e,c,d,d,c,a,c,e,d,a,c,a,d,e,c,c,b,e,b,d,a,d,c,d,c,a,d,d,b,a,c,e,b,e,b,e,d,b,d,d,e
+Arthur Wandzel,d,c,a,c,c,b,d,d,e,a,b,d,c,b,c,c,e,a,d,b,a,a,e,d,b,a,d,e,c,a,b,c,c,e,c,a,c,d,c,d,d,b,e,d,a,d,e,c,a,a
+Obim Gocmen,b,d,e,d,c,b,d,d,c,d,c,e,e,c,a,a,a,d,a,d,a,c,c,b,d,d,c,a,a,b,b,c,e,b,c,d,d,c,b,c,c,b,e,d,a,a,b,a,d,e
+Adam Sewnarain,d,a,a,b,d,d,b,c,a,e,c,a,d,c,e,c,d,a,a,e,b,e,b,c,d,a,d,e,a,b,d,c,b,b,e,c,c,c,d,c,e,b,c,c,a,d,e,b,e,e
+Natan Beddegenoodts,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Lennert Lowis,d,c,c,d,a,b,d,c,a,e,d,e,d,c,e,c,d,d,b,e,b,e,e,d,d,a,c,e,c,d,d,a,e,b,c,d,c,b,a,d,c,e,e,b,e,d,e,d,d,a
+Jakub Abdo,d,c,b,b,a,a,d,d,a,e,e,a,d,e,d,c,d,d,a,a,c,d,e,b,c,e,d,e,c,c,e,c,e,b,a,d,d,c,c,c,e,d,e,b,a,d,b,d,d,e
+Arthur Dierckx,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,a,c,c,a,c,e,d,c,e,c,e,b,c,c,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Angelo Hamelryck,a,e,b,b,c,d,c,b,d,a,c,d,d,c,d,e,b,d,b,d,e,a,b,d,b,c,c,e,d,a,a,d,c,b,e,d,d,e,c,b,e,c,c,b,a,a,a,d,e,b
+Nicky Vanderborght,c,e,b,b,a,d,d,d,a,d,c,c,a,c,d,a,d,d,c,e,a,c,e,c,c,a,c,d,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,c,a,d,b,d,d,e
+Milan Bastiaans,a,a,b,d,d,d,a,d,a,b,b,d,e,d,b,c,b,b,c,b,d,e,c,d,e,b,e,a,d,a,d,d,e,a,b,a,a,a,c,c,a,a,e,e,a,c,e,b,e,a
+Igor Bottu,d,e,b,b,a,b,a,d,a,d,b,e,c,c,b,a,e,c,a,d,a,a,c,d,a,a,a,e,a,e,e,c,e,b,e,a,b,d,b,a,e,c,b,a,d,d,e,d,a,d
+Stanislas De Ruysscher,d,d,b,b,c,d,d,b,a,c,e,a,d,c,d,a,d,d,a,e,c,c,e,e,c,a,e,c,e,e,e,b,c,b,c,d,b,a,c,b,e,b,a,b,e,b,c,b,d,e
+Yves Venneman,d,d,b,b,a,d,c,d,a,d,c,a,d,c,c,a,d,d,a,e,e,c,e,c,a,a,c,e,d,c,e,b,e,b,c,d,d,a,c,a,e,b,a,b,a,d,b,d,d,e
+Bram Dubois,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Liam Sels,b,d,b,b,a,e,c,d,a,d,c,a,d,a,e,a,d,d,a,b,d,c,e,c,c,a,c,e,d,d,b,c,e,a,c,d,d,c,c,c,e,b,e,b,a,b,e,d,d,e
+Othello Vermeerbergen,d,d,b,d,a,b,d,d,a,d,c,a,d,c,d,a,d,d,b,e,b,c,e,c,c,a,c,d,e,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,a,b,c,d,e
+Ruben Venneman,d,d,b,b,a,d,d,e,a,d,c,a,b,c,a,a,d,d,a,b,a,c,e,c,c,a,c,b,d,c,e,e,e,b,c,d,d,a,c,c,e,b,e,b,a,d,b,d,d,e
+Maxim Morren,b,d,b,b,a,d,d,d,a,c,c,a,d,c,d,a,b,d,a,e,a,c,e,c,c,a,b,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Elias Man,d,b,b,d,d,e,a,c,b,e,b,e,c,d,d,c,e,c,b,c,d,b,b,e,a,d,c,b,c,b,b,b,d,c,d,d,a,e,b,b,d,b,e,e,d,e,b,b,b,a
+Phonkrit Van Eetvelt,d,d,c,e,e,d,b,b,a,d,d,a,d,d,a,a,a,e,a,e,c,c,a,c,c,a,a,e,d,c,c,b,e,b,a,d,e,c,c,c,d,b,b,b,b,a,e,e,b,e
+Robin Nidecki,b,b,c,b,c,e,b,d,a,e,d,a,a,c,e,b,c,d,a,e,a,b,a,c,b,e,c,b,e,c,b,c,c,d,b,a,d,c,c,a,d,c,a,d,b,e,a,d,d,e
+Gregory Govaers,c,d,a,a,a,e,b,d,e,a,d,c,e,c,b,a,e,c,a,e,c,d,e,e,a,d,a,b,d,d,a,c,e,d,d,b,e,a,c,a,b,a,e,b,b,a,b,a,b,b
+Timo Gocmen,d,d,d,b,a,e,c,e,b,b,e,a,d,d,c,a,b,b,d,e,e,c,c,c,c,c,b,c,d,e,b,c,e,b,c,d,e,e,a,c,d,b,d,b,d,d,e,d,d,d
+Guillaume Romeo,e,b,c,a,e,a,e,e,b,e,c,c,d,c,e,a,e,c,b,e,c,d,e,a,d,c,a,d,d,c,e,c,b,b,b,c,c,d,a,d,e,a,b,b,b,b,a,a,d,d
+Younes Aert,b,d,e,a,b,d,d,d,c,c,d,a,d,c,d,a,d,a,a,e,d,c,d,c,e,c,c,e,d,b,e,c,e,b,c,d,e,c,c,c,e,c,a,b,c,e,a,d,e,e
+Frederik Engels,d,d,d,b,a,e,e,d,c,b,b,c,b,d,b,e,a,d,a,e,a,b,c,a,c,c,c,c,b,c,c,a,d,b,d,d,d,c,a,b,c,b,e,b,d,d,c,d,a,d
+Jowan Hoek,b,e,e,a,d,c,a,e,c,a,e,d,c,a,b,b,e,a,d,a,d,c,c,a,c,b,c,b,e,c,d,d,e,a,b,b,c,d,b,a,b,e,e,a,a,e,a,b,b,c
+Obim Ramaekers,b,c,b,e,a,c,c,d,c,a,b,c,c,c,a,b,a,b,e,c,c,a,a,b,c,d,c,d,d,b,b,d,c,b,c,d,d,c,a,b,e,a,b,e,a,d,d,e,c,a
+Lorenzo Bijloos,e,a,d,b,b,c,d,a,a,b,e,d,a,b,e,a,c,e,a,e,e,b,b,a,d,d,c,c,d,e,a,d,a,d,c,c,a,d,c,c,a,d,e,b,e,d,b,a,c,c
+Ward Rizkallah,c,b,b,d,a,b,c,a,d,a,b,c,d,c,e,b,b,b,b,d,e,a,b,b,c,a,d,b,e,d,d,d,e,c,e,d,d,b,c,c,b,e,c,d,b,b,d,d,e,b
+Thomas Rubbens,e,d,e,b,a,d,d,d,a,d,d,b,d,d,b,a,b,b,e,a,b,a,b,b,d,c,c,b,b,c,a,c,e,a,c,b,d,c,b,e,e,b,d,e,c,e,a,d,b,e
+Hendrik Laporte,d,a,d,d,e,d,b,d,a,d,e,a,e,e,d,a,a,d,c,d,d,c,e,c,c,b,b,e,d,d,e,a,b,b,c,d,d,b,c,b,c,d,a,d,c,d,b,e,d,e
+Szymon Rubbens,d,d,b,b,a,e,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,c,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Dennis Rizkallah,a,b,b,b,a,d,b,c,e,d,b,a,b,d,b,a,e,b,b,e,a,a,b,e,c,a,c,d,d,c,a,d,b,e,e,b,c,e,c,e,e,b,e,d,d,d,b,e,d,d
+Preda Van Gansen,d,d,b,c,b,d,d,d,a,d,c,a,e,c,b,a,d,b,a,e,a,c,d,c,b,a,c,e,d,c,b,d,a,b,b,a,d,c,c,a,b,d,c,b,c,b,b,c,c,c
+Jasper Vavedin,c,d,e,c,a,a,d,d,b,d,e,a,c,c,d,c,d,e,a,d,a,a,b,c,c,b,b,e,a,c,e,c,d,e,b,d,a,c,c,c,c,b,e,b,e,d,b,d,e,e
+Rafael Rummens,d,d,b,b,a,d,d,d,a,d,c,a,b,a,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,a,c,b,c,d,c,c,c,c,b,b,e,c,c,d,b,d,d,e
+Wouter van Roekel,d,c,b,d,b,d,d,a,a,d,e,c,d,c,d,c,d,d,a,e,a,c,e,b,c,a,c,e,b,c,e,c,e,b,b,e,d,c,c,c,e,b,e,b,a,d,d,d,e,e
+Sam Michiels,b,b,a,c,d,d,d,c,b,b,c,a,d,c,d,b,c,d,a,d,e,e,d,a,a,b,d,c,b,c,c,d,d,e,e,d,c,e,b,c,c,c,a,b,c,b,c,b,d,e
+Younes Jeetun,c,a,b,b,a,b,e,b,b,e,c,d,a,d,d,c,a,b,b,e,e,b,e,e,d,d,c,e,a,c,d,e,c,d,e,d,c,d,c,b,e,c,e,e,d,e,e,d,e,a
+Pieterjan Vanluyten,d,e,a,a,c,d,d,a,a,d,c,d,d,c,d,a,d,d,d,e,a,c,e,c,c,a,c,e,b,e,e,d,a,e,c,b,d,c,c,c,e,b,e,d,c,d,b,d,d,e
+Boris Drabs,d,d,b,b,d,d,d,d,a,d,c,a,d,b,d,d,d,d,a,e,a,a,d,c,b,a,d,b,c,c,e,c,a,a,c,d,d,c,b,c,e,b,e,b,a,d,a,d,d,c
+Rishad Hendrix,a,b,d,e,c,a,e,a,d,d,d,a,c,b,c,e,b,d,a,b,e,d,a,c,b,a,a,e,d,d,c,c,e,c,b,d,b,e,c,c,c,b,e,a,e,e,b,c,a,d
+Wouter Van Hoof,b,d,c,c,b,d,e,d,d,b,a,b,c,a,c,a,a,a,a,b,b,c,c,a,d,a,b,c,c,b,e,c,c,a,c,a,d,b,e,c,d,a,e,d,a,d,b,a,e,e
+Robbe Aert,d,d,b,b,a,d,d,d,a,d,c,e,d,c,a,a,d,d,c,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Thao Nidecki,c,b,a,d,a,d,e,d,e,c,c,b,b,e,e,e,b,d,a,c,a,b,a,c,c,a,a,a,d,b,a,e,a,d,a,a,a,c,b,d,c,b,e,a,a,d,d,e,d,d
+Liena Dauwe,d,d,b,e,a,d,d,d,a,d,c,e,d,c,d,a,d,d,a,e,a,c,e,c,c,a,e,e,d,c,e,c,e,e,c,d,d,c,d,c,e,b,e,b,a,d,e,d,d,e
+Jorian Romeo,c,e,d,b,a,d,d,d,b,d,c,a,d,e,d,a,b,d,a,a,a,c,e,c,b,a,e,b,d,c,e,c,e,b,c,d,d,c,c,c,e,d,e,b,a,d,b,d,b,e
+Thao Aert,d,c,b,b,b,d,e,d,a,d,c,a,d,c,d,b,d,d,c,b,a,e,d,a,a,a,c,e,d,a,d,b,d,b,c,a,d,b,c,c,e,b,e,d,a,b,b,d,a,a
+Gregory Thiry,d,d,b,b,a,d,d,d,a,d,c,c,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,e,c,d,d,c,a,c,e,b,e,b,a,d,b,d,e,e
+Guillaume Nidecki,d,d,b,b,a,c,d,e,a,d,c,a,d,c,d,a,d,d,e,e,a,c,e,c,c,b,d,e,d,b,c,c,e,b,b,d,d,c,c,c,e,b,e,b,a,d,b,d,d,d
+Ward Devos,d,d,b,b,c,d,c,d,a,d,c,a,d,c,d,a,d,d,c,b,a,c,e,c,a,a,c,e,b,c,e,c,e,b,d,d,d,c,c,d,d,b,e,b,a,e,b,d,d,e
+Bryan Gocmen,b,b,a,d,b,d,e,e,d,d,d,e,b,d,b,e,c,e,e,c,e,b,c,d,b,c,c,e,d,c,c,c,d,b,c,e,b,e,c,d,a,b,e,c,b,b,e,a,e,e
+Tom Verrycken,d,c,b,b,a,d,d,d,a,d,c,e,c,a,d,a,d,d,a,e,a,c,d,d,c,a,c,e,d,c,b,e,a,a,c,d,a,c,c,c,e,a,e,c,a,d,b,d,d,d
+Stijn Engels,d,c,d,d,e,d,e,b,e,e,a,b,d,a,b,e,e,d,e,c,d,c,e,d,d,b,c,b,c,e,c,d,e,b,a,e,c,d,d,c,c,d,c,d,d,c,b,c,a,b
+Arthur Aert,d,a,b,b,a,d,d,d,a,d,c,c,d,c,d,a,d,b,a,e,a,c,e,e,c,a,c,e,d,c,e,c,e,a,b,d,d,c,c,a,e,d,e,b,a,d,e,d,d,e
+Brent Vermeerbergen,b,b,c,e,a,a,d,d,d,d,a,a,c,d,d,a,c,d,a,e,c,d,d,b,c,a,c,c,e,c,e,c,e,e,a,d,a,b,c,b,c,b,e,d,d,e,e,d,e,e
+Younes Bruynseels,a,e,a,d,b,d,d,c,e,d,a,b,d,b,e,b,d,a,b,b,d,d,b,b,d,a,c,b,a,c,b,d,e,b,d,d,d,a,c,c,d,b,c,c,d,e,e,e,b,d
+Igor Sewnarain,c,e,e,d,d,c,d,a,c,d,d,a,e,c,c,a,d,a,b,d,e,d,a,a,b,a,b,b,d,c,e,e,e,a,c,d,b,c,b,e,d,b,c,d,b,c,c,b,a,b
+Maxim Demol,b,e,c,d,a,c,d,b,e,d,d,c,a,b,d,b,c,a,c,b,a,b,c,c,c,e,d,c,d,e,a,d,e,e,e,e,d,d,a,d,a,b,e,c,b,c,d,c,c,d
+Rainier Janssen,e,e,b,b,b,a,e,a,b,d,b,a,b,e,e,c,a,a,e,e,d,e,d,a,e,a,b,b,b,c,a,a,a,e,a,a,d,a,b,c,b,b,b,d,a,e,a,a,a,c
+Roel Sebrechts,d,c,b,b,a,d,d,d,a,d,b,a,d,c,d,a,a,d,a,d,c,e,a,c,c,a,e,a,a,c,c,c,c,c,b,d,d,a,c,c,e,b,a,a,e,c,b,d,d,e
+Nicky Sebrechts,d,c,b,b,a,a,d,d,c,d,c,e,d,c,e,e,d,a,a,e,a,c,e,c,c,a,c,e,d,c,e,c,d,b,c,e,d,e,a,c,e,b,b,d,b,c,c,d,d,d
+Frederik Van Hoof,d,e,b,e,a,d,c,b,c,a,b,d,c,e,c,a,a,a,c,a,d,c,d,c,c,b,b,d,c,a,c,d,d,e,d,c,e,e,a,d,c,e,b,c,a,d,a,c,d,d
+Emilien Sol,c,a,a,c,e,e,c,b,d,c,c,e,e,c,c,d,e,b,a,e,d,e,c,e,e,a,d,a,b,d,a,b,d,e,b,b,d,d,a,a,d,d,a,a,d,e,b,a,e,e
+Pieterjan Gocmen,b,a,c,b,e,a,d,b,a,a,e,c,e,d,e,e,d,d,b,b,b,d,e,d,d,d,a,d,b,e,c,b,a,b,e,e,d,c,b,d,c,d,b,b,b,d,c,c,e,c
+Ward Singh,d,d,b,b,a,d,d,d,a,d,c,a,d,c,e,a,d,d,e,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,b,e,b,e,b,a,d,b,e,d,e
+Emilien Van Braeckel,d,e,b,b,a,d,d,d,a,c,c,a,d,b,a,a,d,d,a,e,a,c,e,c,d,a,c,e,d,e,e,c,c,d,c,c,a,c,c,c,e,b,e,a,a,d,b,d,d,e
+Robbe Pauwels,a,a,b,d,a,d,c,d,b,e,b,a,d,d,d,d,d,b,a,a,c,e,a,e,b,a,e,e,d,e,b,a,d,e,c,a,d,c,c,e,b,e,e,c,a,d,b,c,d,d
+Niels Meyer,d,e,b,b,a,a,e,d,a,d,c,b,d,c,d,a,b,d,a,e,a,d,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,b,b,a,d,d,d,d,e
+Bryan Vandenplas,d,d,c,e,b,d,d,d,a,e,c,a,a,b,d,e,d,d,e,e,c,c,a,c,c,a,c,d,d,c,c,c,e,b,a,d,d,b,c,d,b,b,c,e,a,e,b,b,d,c
+Arnaud Gervais,a,e,c,b,b,e,c,c,d,b,b,a,c,e,e,a,d,d,a,a,e,c,c,e,c,c,e,b,a,c,e,b,b,b,c,e,d,d,d,c,c,b,e,c,a,e,a,e,d,e
+Hendrik Ausloos,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,d,e,b,e,b,a,c,b,d,d,e
+Yang-Yee Coremans,d,d,b,b,a,d,e,d,a,d,c,a,d,c,d,a,d,d,e,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Brent Pauwels,e,e,b,b,b,a,d,d,b,d,d,c,d,c,d,d,e,d,b,a,a,e,e,c,a,c,c,e,b,d,e,a,e,e,e,d,d,a,c,c,c,b,e,b,c,e,c,d,d,e
+Ben Sol,d,b,b,b,d,e,b,a,d,a,d,e,a,a,c,d,a,a,b,e,d,e,a,c,b,a,c,e,d,b,d,c,c,b,a,d,e,a,b,c,c,c,c,d,b,e,d,b,b,c
+Brent Sebrechts,d,d,b,b,e,d,d,e,a,d,c,a,d,c,d,a,d,e,a,b,a,c,e,c,c,a,d,e,d,c,e,c,e,e,c,b,a,c,d,c,e,b,d,b,a,e,b,e,d,c
+Lucas Nowak,a,b,b,b,a,d,a,d,a,c,c,e,d,c,c,a,d,c,a,a,a,d,e,d,c,a,c,c,e,b,e,c,e,b,c,d,d,c,c,a,e,e,b,c,e,c,b,c,d,e
+Rafael Dauwe,d,c,d,e,e,c,e,d,d,e,e,d,e,c,a,c,b,d,b,c,d,b,c,a,c,d,e,a,d,c,b,d,b,a,a,b,a,d,d,c,d,c,c,b,e,b,c,d,d,c
+Thao Nowak,d,d,b,b,a,d,d,d,d,a,c,b,d,c,b,a,d,c,e,b,c,a,e,c,c,b,c,e,d,c,e,c,e,b,b,b,d,e,c,c,e,d,e,b,a,d,b,d,a,e
+Firas Gataev,d,d,b,b,a,b,d,d,a,c,c,a,d,e,d,a,b,d,b,e,a,c,b,c,c,a,c,b,d,c,e,c,d,b,c,d,d,c,e,c,e,b,e,a,a,d,b,d,d,e
+Phonkrit Bijloos,a,b,a,c,b,b,a,a,a,b,a,e,e,c,b,d,b,a,d,d,e,e,a,c,b,c,d,a,a,a,d,e,c,d,d,b,e,c,e,d,a,c,c,a,a,e,a,b,d,e
+Bryan Meeus,a,d,b,d,a,d,b,d,a,b,d,a,d,c,d,d,d,d,a,a,b,c,e,b,c,a,c,c,d,c,d,d,e,c,a,c,a,a,d,e,e,b,e,c,a,c,e,c,d,c
+Joran Palmans,d,d,e,b,c,e,e,d,e,a,a,a,d,c,d,a,a,b,a,e,e,d,c,d,c,a,b,c,e,c,e,e,e,d,c,d,e,a,b,a,b,d,e,d,e,d,b,a,a,b
+Joran Michils,d,b,a,c,c,d,e,d,a,d,c,a,d,c,d,c,d,d,a,e,a,b,d,c,c,a,e,e,d,c,b,a,e,a,a,d,d,e,a,c,b,b,a,c,d,e,a,e,b,c
+Natan Vanden Driesch,c,b,b,b,d,d,b,d,a,d,c,a,d,c,d,a,d,d,a,e,c,c,c,c,c,a,c,b,a,c,e,c,e,c,d,e,e,c,a,c,e,d,b,b,b,c,b,d,c,e
+Kasper Gervais,d,d,b,b,a,d,e,d,a,d,c,c,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,b,d,d,e,c,c,b,b,e,b,a,d,b,d,d,d
+Baljit Jacques,d,d,e,e,c,d,d,d,a,e,b,a,d,a,d,a,c,a,d,d,c,a,c,b,d,a,e,e,b,c,e,c,c,b,b,b,d,b,c,a,a,b,e,a,d,c,b,e,b,e
+Othello Roden,d,c,a,a,a,d,d,d,a,d,c,a,d,c,e,a,d,b,b,d,a,c,e,c,c,a,c,e,d,c,e,c,e,b,b,d,d,c,a,e,e,e,e,b,a,d,b,d,d,e
+Alexander Taverniers,b,d,c,b,e,d,b,a,a,d,b,c,d,d,d,a,d,a,b,e,e,b,e,c,d,c,e,b,b,b,e,c,e,b,c,d,d,c,a,b,e,b,e,d,a,d,b,d,a,c
+Michiel Hendrickx,a,d,b,b,a,d,d,d,a,d,c,a,d,c,d,c,d,d,a,c,a,c,e,c,a,a,c,e,d,c,b,c,e,b,c,e,d,c,c,a,e,b,a,b,a,d,b,b,a,e
+Baljit Vandenplas,d,d,b,a,d,d,d,d,a,b,b,b,d,a,d,a,d,d,a,e,a,c,e,c,c,a,b,c,d,d,e,c,e,b,b,a,d,c,c,e,e,b,e,b,a,d,d,c,d,e
+Kasper Dubois,d,e,b,e,a,e,e,d,a,d,d,a,a,a,a,d,d,e,e,d,a,c,b,c,b,e,c,e,d,d,c,c,d,b,d,e,e,c,d,b,d,b,e,b,b,d,e,d,d,e
+Mathieu Hendrix,a,a,c,c,b,e,a,e,b,d,c,e,a,e,a,b,e,b,c,b,c,d,d,b,d,c,b,e,e,a,b,a,c,d,c,d,a,d,b,e,a,e,e,e,c,c,c,c,a,a
+Brick Jeetun,e,d,b,b,a,d,a,e,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,c,d,d,e,b,e,b,e,e,b,c,e,c,e,b,e,b,e,d,d,d,b,c
+Yarne Paeps,d,d,b,b,a,c,d,d,a,d,a,a,d,c,c,d,d,d,a,c,d,c,e,c,c,b,b,e,b,d,e,c,e,b,c,d,e,d,c,c,e,b,e,b,b,d,b,d,d,e
+Pieterjan Freier,d,d,b,b,a,e,d,d,a,e,c,d,a,c,d,a,d,d,a,c,d,c,b,e,b,a,a,e,d,d,e,c,b,c,c,d,d,d,e,a,e,b,e,e,a,d,b,c,d,d
+Aron Michiels,b,d,b,d,a,b,d,d,a,c,a,d,b,c,a,a,d,b,b,c,c,c,e,b,b,d,b,c,b,b,d,b,a,b,c,a,e,a,b,a,e,b,b,b,e,e,a,a,d,c
+Timo Vandenplas,d,c,a,e,a,d,d,e,b,e,c,e,d,c,d,e,d,e,b,e,d,c,b,c,c,a,e,d,d,e,d,c,a,b,b,d,d,c,c,e,a,e,b,d,b,d,e,d,c,e
+Emilien Van de Velde,b,d,b,a,a,c,d,d,d,e,e,b,b,a,d,a,a,d,e,d,a,a,e,b,b,b,b,c,b,a,e,d,d,d,e,d,a,d,a,a,b,b,c,b,c,a,d,d,a,a
+Rainier Spleesters,e,b,c,b,e,b,e,e,a,e,e,c,e,c,e,e,e,d,b,e,e,a,a,a,c,a,a,e,b,d,e,d,d,b,e,e,a,c,b,e,e,d,e,e,d,c,c,e,d,d
+Nona Vandenplas,d,d,b,b,a,c,d,d,a,d,c,a,d,c,d,a,d,d,d,e,a,c,b,b,c,a,c,e,d,c,e,c,c,b,c,c,d,c,c,c,e,b,e,e,c,d,b,d,c,e
+Joran Catalano,e,c,c,b,d,d,e,d,c,a,a,e,e,a,a,a,d,c,a,a,c,d,b,e,c,d,e,a,b,c,d,c,c,b,c,d,c,c,c,e,e,e,b,e,d,d,e,d,e,a
+Igor Leurquin,e,a,b,e,a,e,a,a,e,b,d,a,d,c,c,a,a,b,e,d,e,c,e,c,d,a,c,b,d,d,e,a,e,c,e,e,e,d,c,a,d,b,e,a,a,d,a,d,d,c
+Merijn van Roekel,d,a,c,e,a,d,a,e,c,d,c,e,e,c,d,a,d,d,d,d,a,a,d,c,c,a,c,c,c,c,a,c,b,b,a,e,d,c,c,c,e,b,e,e,a,d,d,d,e,e
+Gregory Aert,d,a,b,e,a,c,e,d,b,a,b,a,c,e,c,a,a,d,a,b,a,c,e,c,c,d,c,b,d,d,e,b,e,e,d,a,d,d,d,d,e,a,a,d,a,a,b,b,d,e
+Aron Roden,a,a,c,b,a,c,e,d,a,d,e,a,d,c,a,c,b,d,d,d,a,c,d,a,c,b,d,c,e,a,c,a,b,a,c,d,d,b,a,e,a,e,b,a,c,c,e,e,e,b
+Roel Pauwels,a,e,b,d,a,b,d,c,a,d,b,a,d,e,c,a,e,d,e,e,a,a,b,b,a,b,e,c,a,d,c,e,e,c,c,b,d,a,c,c,c,e,e,c,d,e,b,d,d,e
+Lorenzo Bruynseels,e,e,e,c,c,c,e,d,e,a,a,c,e,b,a,d,c,a,d,d,e,c,e,a,e,b,b,d,e,c,b,c,b,e,a,c,d,c,b,e,a,a,d,b,a,d,d,e,e,e
+Kjell Rutten,a,e,b,e,e,c,d,d,a,b,c,e,a,d,c,a,d,b,e,d,a,b,d,c,c,a,c,d,d,c,c,c,e,b,c,d,d,c,c,d,a,b,d,b,d,a,b,b,b,e
+Hans Liesenborgs,c,e,e,d,b,a,c,a,a,d,b,d,e,d,a,a,a,a,b,c,d,c,e,c,c,c,c,b,d,d,c,b,a,a,c,b,c,a,b,e,d,e,e,d,a,d,a,b,e,e
+Marlene Verrycken,c,b,e,c,c,b,a,e,d,b,e,b,c,d,d,a,d,e,d,d,a,b,e,b,c,c,c,d,b,c,e,c,e,a,e,d,c,d,c,e,b,e,b,d,b,a,c,d,c,a
+Yenthe Bastiaans,d,d,b,b,a,d,d,d,a,d,c,c,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Jowan Warlop,d,d,d,d,b,b,e,e,a,d,c,a,d,d,d,a,d,d,a,e,a,c,e,c,c,c,c,e,d,c,e,c,d,b,e,c,d,c,c,c,e,a,e,b,c,d,a,d,c,e
+Nicky Dubois,d,a,b,b,a,d,d,b,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Cisse Luypaert,b,d,c,c,b,b,e,d,c,d,e,c,d,c,b,b,b,d,c,e,b,a,e,e,e,b,e,e,d,d,e,c,e,b,b,d,e,d,c,d,d,b,a,a,a,c,c,d,d,e
+Natan Symons,b,e,c,d,d,e,d,c,c,a,c,a,d,a,e,a,d,c,a,a,e,c,c,d,c,c,c,d,e,d,e,e,d,c,d,d,d,e,a,c,e,c,b,c,a,b,b,d,b,e
+Robbe De Ruysscher,d,d,b,b,a,d,d,d,a,d,c,e,a,c,b,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,d,b,c,d,a,c,c,c,e,b,e,b,a,d,b,d,d,e
+Hendrik Delarbre,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,d,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,d,d,d,b,c,b,e,b,e,b,a,d,b,d,d,e
+Ruben Wandzel,d,d,b,b,d,d,d,d,a,c,c,e,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,b,e,c,c,d,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,a
+Igor Jacques,d,a,b,e,d,d,d,e,b,a,e,a,a,b,e,a,d,d,a,e,c,c,e,c,a,a,c,c,a,c,e,e,a,a,a,d,c,e,c,a,b,b,c,b,a,e,b,d,d,b
+Yarne Ramaekers,c,e,c,d,a,d,e,e,d,d,c,c,d,b,b,a,d,d,e,a,b,c,e,c,e,b,c,e,d,a,b,a,a,c,c,a,d,a,e,c,b,b,c,c,d,a,c,a,e,e
+Joran Van Braeckel,d,d,d,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,d,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Robbe Van Hoof,e,e,a,b,d,d,d,c,b,c,c,e,d,c,c,a,d,b,d,d,d,c,c,e,a,d,c,c,b,c,a,e,e,c,e,b,d,c,d,a,c,d,b,e,d,c,a,d,d,d
+Maxim Desmet,b,e,c,b,a,c,c,d,a,d,d,c,e,b,a,d,d,b,b,c,e,a,e,d,e,d,e,e,d,c,d,b,b,a,e,c,b,d,b,a,e,b,e,a,d,c,a,d,b,e
+Hans Wandzel,b,d,b,d,a,c,a,e,b,d,c,a,b,c,d,a,d,d,a,b,a,c,e,c,c,b,c,c,d,c,a,d,e,b,e,c,d,c,d,c,e,b,e,b,a,d,b,d,e,e
+Sam Vermeerbergen,d,d,e,c,c,d,d,d,e,e,c,c,d,c,d,a,c,d,a,e,a,c,e,c,c,a,c,a,d,c,e,c,a,b,c,d,e,c,c,a,d,b,c,a,a,e,d,b,d,e
+Yang-Yee Melin,b,d,b,c,a,d,d,d,a,d,c,a,a,c,d,a,b,d,a,b,d,c,e,c,b,a,b,d,d,c,e,d,e,a,c,d,d,c,b,e,e,b,a,e,a,c,a,b,a,e
+Koen Hendrix,d,b,a,e,a,d,a,a,d,a,c,a,e,a,d,e,d,d,e,e,b,c,c,c,c,c,d,c,d,e,e,c,e,e,c,d,a,c,d,b,d,d,d,b,c,d,d,d,d,e
+Hans Pesa,e,b,b,a,a,d,a,d,a,d,c,a,d,a,d,a,d,d,a,e,a,c,e,e,c,b,c,e,d,c,e,c,e,b,c,d,d,b,c,d,e,b,e,b,a,d,b,d,c,c
+Emilien Nowak,d,d,b,b,a,d,d,d,a,a,c,a,c,c,c,e,d,d,a,e,a,c,e,c,c,a,c,a,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Ruben Van Oosterwyck,d,b,e,b,a,c,b,a,d,d,b,e,a,a,e,a,c,d,c,b,d,c,e,d,c,d,b,d,d,d,e,d,a,c,c,c,d,c,e,a,e,e,e,c,a,c,b,c,d,e
+Kobe Pesa,d,c,b,e,e,d,d,d,a,e,e,a,c,d,d,a,c,b,a,d,b,a,e,c,b,a,d,e,b,d,a,c,c,c,c,d,d,a,e,a,e,d,e,e,a,d,c,d,c,e
+Laurens Catalano,b,b,c,a,c,d,e,d,c,c,a,b,d,c,d,a,d,a,e,b,b,e,e,e,a,a,c,e,a,a,b,b,b,c,c,e,e,e,a,c,c,b,b,d,c,d,d,c,e,c
+Lennert Vanderborght,d,c,e,e,e,c,b,e,c,b,c,a,c,a,d,c,d,e,a,e,a,c,d,c,c,a,c,c,b,b,d,c,d,b,c,e,e,c,c,d,b,d,b,a,a,d,c,c,b,e
+Cisse Juste,d,d,b,b,a,d,d,d,a,d,c,a,e,d,d,a,d,d,b,e,a,c,e,c,c,a,c,e,d,c,e,b,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Dennis Scherens,c,e,a,b,a,d,d,d,e,c,c,a,d,c,e,c,d,e,c,a,b,c,a,a,e,b,a,b,b,c,b,b,b,d,a,b,d,d,e,c,e,a,d,b,a,a,d,c,b,d
+Yenthe Dauwe,a,c,e,b,d,d,e,a,d,d,a,d,d,a,e,b,b,e,c,a,a,c,a,e,c,c,e,b,a,c,d,a,c,b,e,c,a,a,b,a,e,d,c,a,d,d,e,e,d,c
+Kobe Gervais,a,a,c,b,b,d,c,c,a,b,e,a,a,a,b,a,a,d,a,e,d,c,e,c,b,a,c,a,b,e,e,b,b,a,b,a,d,b,c,b,c,a,c,d,d,d,c,b,a,d
+Dennis Van Grunderbeek,d,d,b,a,a,b,d,d,e,d,c,d,a,b,d,e,d,d,a,c,a,d,e,c,b,a,c,d,d,e,e,d,e,a,b,d,e,c,a,c,b,c,e,c,a,d,b,d,d,e
+Alexander Man,d,d,b,b,e,d,d,d,e,d,c,a,d,c,d,a,d,d,d,b,e,c,e,c,b,e,b,e,d,b,e,c,e,d,d,a,d,c,c,c,d,a,e,b,b,d,b,d,d,e
+Alexander Abdo,d,e,b,b,b,a,e,a,c,e,e,e,b,a,d,a,a,d,a,c,e,c,c,c,a,e,e,a,d,c,b,e,d,d,a,a,e,c,b,d,d,d,b,d,a,d,a,c,d,a
+Lukas Romeo,c,d,e,a,b,d,c,d,a,d,d,e,c,c,d,a,d,d,a,c,e,d,c,c,c,c,b,a,b,a,c,b,e,b,c,d,d,c,d,d,c,c,e,b,b,d,c,d,d,a
+Alexander Vanden Driesch,c,d,b,b,e,d,e,d,c,a,c,a,d,a,d,a,d,b,a,e,a,e,d,a,a,a,c,e,d,c,d,c,e,c,c,c,a,d,c,c,e,a,e,b,a,d,b,d,d,a
+Jonas Freier,a,c,b,a,a,c,c,b,d,d,e,b,a,c,c,d,d,a,e,e,c,c,d,d,c,b,c,e,b,a,e,a,a,a,d,a,d,c,a,c,d,a,e,b,d,e,c,d,e,e
+Koen Clarysse,a,d,b,b,d,a,d,d,c,d,c,a,d,c,d,d,d,d,a,e,a,a,e,c,a,a,c,e,a,c,b,d,e,a,c,d,d,c,a,a,e,b,d,b,d,d,b,d,b,e
+Jasper Theunis,d,d,b,b,c,a,b,e,a,d,c,a,c,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,c,b,c,d,d,c,c,c,a,a,b,a,a,d,e,d,d,e
+Kobe Madugba,c,b,d,d,a,b,e,c,b,a,c,e,d,c,d,c,e,a,e,a,c,c,b,d,a,b,b,e,a,d,e,e,e,a,d,c,e,d,c,e,e,b,a,d,a,d,b,b,c,c
+Yang-Yee Bijloos,a,a,a,d,d,a,d,a,a,d,c,c,d,c,d,b,d,d,d,d,a,c,c,c,c,d,c,e,d,b,e,c,d,e,d,e,a,d,c,e,e,a,b,b,a,d,a,b,a,e
+Bram Jeetun,c,b,a,b,c,d,c,b,e,d,b,c,d,a,c,a,d,c,b,e,e,a,a,e,d,a,b,e,c,c,e,e,e,c,b,b,d,c,d,b,e,d,e,b,a,d,b,e,c,a
+Lucas Meyer,d,d,a,e,a,c,c,b,a,d,b,b,e,a,c,b,b,a,a,e,d,c,e,b,d,a,c,c,d,b,c,c,e,b,c,c,d,c,c,c,e,e,e,e,e,a,b,e,b,d
+Timo Hendrix,c,e,c,b,c,a,a,d,b,c,a,a,d,c,a,b,e,d,b,c,d,c,e,a,d,c,c,d,a,b,d,d,e,a,c,d,a,a,a,e,b,d,c,c,b,d,d,a,d,e
+Mirte Govaers,d,a,a,b,b,b,b,b,e,b,c,b,d,d,d,c,d,a,b,b,e,e,a,b,d,c,a,c,a,e,e,a,a,b,c,b,e,d,c,b,e,d,d,c,c,c,d,c,e,a
+Aron Scherens,d,d,b,b,a,d,d,d,a,d,c,a,d,b,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Anton Meyer,d,d,b,b,a,d,d,b,a,d,d,e,d,c,d,e,d,d,c,e,b,c,e,d,c,a,c,e,c,a,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,e,b,d,d,e
+Tom Jeetun,d,c,e,b,a,a,d,d,a,d,c,e,b,c,d,a,d,d,a,e,a,c,e,c,c,a,c,d,d,c,e,c,e,c,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Evert Van den Cruijce,d,c,e,c,a,e,e,d,c,d,b,a,c,b,d,d,a,d,c,e,a,c,e,c,c,d,c,e,b,c,a,c,d,a,d,c,d,c,d,c,e,b,d,d,a,e,d,d,d,c
+Adam Vanderborght,d,d,b,b,a,d,d,d,a,d,a,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,b,d,c,e,c,e,b,e,b,a,d,b,d,d,e
+Jowan Bruynseels,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,e,c,e,c,e,b,c,d,d,c,c,e,e,b,e,b,a,d,b,d,d,e
+Angelo Vanheusden,d,e,a,e,a,d,a,a,e,d,e,a,d,c,d,c,d,d,b,e,a,c,e,b,c,a,c,a,d,c,c,e,d,c,d,b,c,c,c,e,e,b,d,c,d,a,b,b,d,e
+Nona Lemeire,b,b,e,e,e,e,d,e,a,d,c,c,c,e,d,c,c,d,e,b,a,e,a,d,b,c,d,d,b,e,b,c,d,e,e,d,c,c,c,c,e,b,c,a,a,c,d,d,b,e
+Yang-Yee De Clercq,c,a,a,e,e,e,d,b,b,d,c,b,e,d,b,e,e,b,b,d,d,c,e,b,e,a,b,b,e,d,d,e,c,c,c,d,a,d,a,a,a,b,e,a,e,a,a,e,c,c
+Wouter Bottu,c,d,d,a,e,b,c,d,a,d,e,b,c,d,a,a,a,d,b,e,a,c,e,c,c,d,e,a,a,c,a,b,d,d,c,d,c,e,c,c,e,b,a,e,a,e,d,e,c,e
+Rik Wandzel,d,d,c,b,a,d,b,c,a,d,e,a,d,c,d,a,d,a,e,e,a,c,e,c,e,a,c,c,a,e,d,c,c,b,d,d,d,c,d,c,e,a,e,b,a,d,b,a,b,e
+Tuan Delarbre,d,d,e,b,a,a,d,d,a,d,c,b,d,c,d,d,d,d,a,e,a,c,e,c,c,a,c,e,d,d,b,e,e,b,d,d,d,c,c,c,a,c,e,d,a,d,b,d,d,e
+Hans Jeetun,b,c,c,b,d,b,b,c,e,e,a,e,b,d,c,b,b,e,d,b,b,b,d,e,a,b,d,a,d,a,c,b,d,d,d,c,e,b,a,b,a,b,c,e,e,c,b,a,d,d
+Timo Drabs,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,a,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,b
+Mieke De Baets,d,e,a,c,a,a,d,e,b,d,b,d,b,a,d,c,c,d,c,e,d,d,e,a,a,e,b,e,d,b,d,b,b,d,d,c,a,c,c,e,e,b,e,d,b,d,c,d,c,a
+Tuan Gataev,d,d,b,e,a,d,d,d,a,d,c,d,d,c,d,e,c,d,a,e,a,d,b,c,a,a,c,e,d,c,e,c,e,e,b,d,d,e,c,c,a,b,e,b,b,d,b,c,c,e
+Dieter Van Braeckel,a,e,a,b,c,a,e,d,d,b,c,c,b,d,a,a,d,b,a,c,c,c,e,a,a,e,c,b,c,a,c,b,c,c,e,a,d,a,c,b,e,c,e,a,d,a,d,b,c,d
+Liena Theunis,d,d,e,b,a,d,d,d,d,d,c,a,d,c,c,b,d,d,d,e,a,c,e,e,e,a,c,e,d,a,e,c,e,d,c,b,d,c,c,c,e,b,e,b,a,a,d,b,d,e
+Milan Pechovitch,c,e,c,d,e,a,a,e,e,d,e,a,b,e,d,c,d,b,c,e,c,b,e,d,a,b,e,c,d,d,b,a,a,c,b,c,e,e,a,a,c,e,a,b,e,e,c,d,b,a
+Anton Nowak,d,d,e,b,e,e,d,b,a,d,b,a,d,a,d,d,b,d,b,e,a,d,b,e,e,b,c,a,e,b,e,c,e,b,a,d,d,c,e,c,c,e,d,a,b,c,e,e,a,e
+Mirte Vanluyten,d,b,b,b,c,c,d,d,a,a,c,a,c,b,b,a,a,d,d,a,e,c,e,d,b,a,c,e,e,c,a,c,d,a,b,e,b,c,b,c,e,d,d,d,a,d,b,d,d,d
+Lucas Van Braeckel,d,d,c,b,a,d,d,d,c,d,c,a,d,c,d,a,d,d,c,c,a,c,e,c,c,a,e,a,c,c,a,c,e,d,c,d,a,c,c,c,e,b,e,b,b,d,b,d,d,e
+Lennert Ahmed,a,d,b,b,a,d,d,d,a,d,e,a,d,c,d,c,d,a,a,e,c,e,e,c,c,a,e,e,d,b,e,c,e,b,c,a,e,c,c,c,a,b,e,b,a,d,b,d,d,e
+Milan Ahmed,e,d,b,b,a,d,d,d,a,d,c,a,d,c,b,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,a,c,e,b,e,b,a,d,b,d,d,c
+Thao Dauwe,d,d,b,b,a,d,b,d,a,e,c,d,d,b,d,a,d,c,a,d,a,d,b,c,c,d,a,d,d,c,e,c,e,b,c,d,b,e,c,c,e,b,e,b,a,d,b,d,d,b
+Niels Demol,e,e,c,a,b,d,d,a,b,b,d,d,e,c,a,b,c,b,d,e,b,b,b,b,e,c,c,c,a,a,d,d,e,c,b,c,b,c,c,e,b,b,c,e,b,d,c,b,d,c
+Maxim Govaers,d,d,b,b,d,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,b,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Othello Janssen,a,d,c,b,a,d,d,d,a,b,c,a,d,d,d,a,a,d,b,e,b,c,d,c,c,a,c,e,e,d,e,a,e,b,b,c,b,c,c,a,e,a,d,b,a,b,b,e,a,a
+Kasper Beddegenoodts,b,e,b,d,c,d,d,c,d,c,b,a,b,e,d,a,c,d,a,e,a,b,e,c,c,b,e,e,a,d,e,c,e,e,d,d,d,c,a,e,a,d,c,b,b,d,d,c,e,c
+Cisse Braem,a,e,c,b,c,c,c,d,a,d,c,a,e,d,b,e,c,d,a,d,d,a,e,c,d,a,d,a,d,c,e,c,e,e,c,b,d,a,d,a,e,c,e,b,a,d,b,c,b,d
+Elias Geldhof,d,d,b,c,a,d,d,d,b,d,c,a,e,c,d,a,d,d,a,e,a,c,e,c,c,a,c,a,d,c,e,c,d,b,c,d,d,c,c,c,e,b,e,a,a,e,b,c,d,e
+Dieter Leurquin,e,b,b,e,a,d,d,c,c,d,c,a,b,c,d,a,b,d,e,b,d,c,c,c,c,a,c,e,d,e,e,c,e,a,a,d,a,a,c,c,e,b,e,b,a,b,e,d,d,e
+Ruben Beddegenoodts,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Dieter Vanden Driesch,d,d,d,b,a,d,d,d,a,d,e,a,c,c,d,a,d,d,d,d,a,a,e,c,c,a,c,e,b,c,e,c,e,b,c,d,a,b,c,c,e,b,e,b,a,d,a,d,d,e
+Liena Hendrickx,d,d,d,b,a,d,a,d,a,d,c,d,b,c,a,d,d,d,a,e,a,b,e,c,c,a,b,a,d,c,e,e,b,c,c,d,d,d,c,c,d,b,e,c,a,d,b,d,d,a
+Jorian Veelaert,d,d,d,b,a,d,b,d,b,d,d,a,e,b,b,a,e,d,a,e,b,c,a,c,d,a,c,a,e,e,b,b,e,b,b,b,d,c,b,c,b,c,e,b,d,b,c,d,d,e
+Nicky Braem,e,a,e,e,a,a,c,b,e,a,c,e,d,b,a,d,e,d,e,c,a,c,e,c,e,d,d,a,a,c,c,e,b,a,a,d,a,c,a,c,c,b,a,a,a,e,e,e,d,c
+Wout Palmans,d,a,c,d,a,d,e,d,b,e,b,a,d,b,d,d,e,e,b,b,c,b,e,e,a,a,b,e,d,c,e,e,e,d,e,c,e,d,d,c,e,b,e,b,d,d,c,d,e,c
+Yang-Yee Roden,d,a,d,b,d,d,c,b,a,b,b,a,d,c,d,e,b,a,a,a,a,e,b,b,a,d,c,b,d,b,b,d,e,e,d,b,c,b,e,b,e,d,d,e,a,a,a,c,a,c
+Brick Catalano,d,d,b,e,b,d,b,a,c,d,c,a,a,c,d,a,d,d,a,a,e,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,d,c,e,b,e,b,a,d,b,d,c,c
+Rick Melin,c,e,b,b,a,a,b,c,b,b,a,d,b,e,c,d,d,b,e,b,c,b,e,b,d,d,a,a,d,e,a,d,b,b,b,e,a,a,d,b,e,b,e,d,b,a,d,a,c,e
+Marlene Romeo,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,e,e,b,d,c,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Jurgen Dubois,a,e,e,a,d,a,a,d,a,a,e,e,d,d,d,a,b,e,a,e,d,c,a,c,c,a,e,b,b,b,e,e,c,b,a,d,a,c,c,c,b,a,e,d,b,e,a,e,a,a
+Tuan Aert,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,e,a,c,e,d,c,e,c,e,b,c,d,d,c,c,e,e,c,e,b,a,d,b,d,d,e
+Jorian Freier,a,d,b,b,a,d,d,d,d,b,c,a,d,c,d,e,d,d,a,e,e,a,e,c,c,a,c,e,d,c,e,e,e,b,b,b,d,c,a,a,e,b,e,b,b,d,b,d,b,e
+Niels Mergaerts,d,d,b,b,a,d,d,d,a,d,c,a,a,c,d,a,d,d,a,e,a,c,e,d,b,a,c,e,d,c,e,c,e,b,c,d,a,c,c,c,e,b,e,b,a,d,b,d,e,e
+Hans Sterckx,b,e,b,c,d,d,e,a,c,d,c,b,d,e,e,d,a,c,a,a,e,a,d,c,a,a,c,a,e,c,c,b,c,e,c,d,c,d,c,c,c,e,e,b,e,d,b,e,b,e
+Merijn Palmans,d,b,b,d,c,d,d,b,a,c,c,a,a,c,d,c,a,c,d,e,d,c,d,d,e,a,e,c,b,c,e,a,e,b,a,d,c,b,c,e,c,d,c,b,d,b,b,a,e,a
+Tuan Van Eetvelt,a,c,c,b,a,d,b,e,b,e,b,e,b,b,c,a,e,d,d,c,a,b,e,b,a,b,c,e,c,a,a,e,d,b,e,c,a,b,b,d,b,c,b,e,c,b,a,e,b,e
+Ruben Bottu,d,d,b,a,e,e,d,d,b,d,b,e,a,d,d,d,d,a,a,b,e,c,c,a,b,e,e,e,b,e,d,a,b,e,c,d,e,c,d,c,e,b,b,d,a,b,a,d,d,b
+Yarne Claes,c,d,b,b,c,e,d,d,a,d,c,b,d,c,d,a,d,d,a,e,d,c,a,c,c,a,c,c,d,c,e,e,e,d,e,d,d,c,c,b,e,e,e,b,a,d,b,c,d,e
+Milan Coget,b,d,b,b,e,d,c,e,a,a,c,a,d,d,c,e,d,b,d,c,d,e,e,c,c,b,c,b,d,c,b,e,e,a,c,d,e,c,c,c,e,a,e,e,a,d,e,b,d,e
+Angelo Geldhof,b,e,a,a,d,e,a,c,c,c,a,e,c,b,a,b,d,e,a,d,d,c,e,e,b,c,c,d,a,b,c,d,b,d,d,e,e,e,e,d,b,d,b,b,d,e,d,a,c,a
+Dieter Abdo,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,d,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Kjell Bastiaans,d,d,b,b,e,d,b,e,a,d,c,a,d,c,b,a,d,d,d,b,d,a,c,c,c,c,c,a,a,c,e,a,e,b,d,d,d,c,c,c,b,b,e,b,a,d,e,d,d,e
+Kasper Gataev,d,d,b,b,e,d,d,d,a,d,c,a,d,c,d,b,e,d,a,e,a,c,d,c,c,e,c,d,d,c,e,c,e,e,a,d,d,c,c,c,e,b,d,b,a,d,b,d,d,e
+Milan van Roekel,d,d,b,b,a,d,d,b,a,d,e,c,d,c,d,a,d,d,a,e,e,c,c,c,c,a,c,e,d,c,e,b,e,b,c,d,d,c,c,c,e,b,e,b,c,d,d,d,d,e
+Tuan Laporte,d,d,b,a,a,d,d,d,d,d,c,a,a,c,d,a,e,d,e,c,e,c,e,c,c,b,c,e,d,c,e,c,d,b,a,d,d,c,c,a,e,d,e,e,a,d,b,a,b,a
+Mirte Vanheusden,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,c,a,c,e,c,c,a,c,e,a,c,e,c,e,b,c,d,d,c,a,c,e,b,e,b,a,d,b,d,d,e
+Kasper Hamelryck,d,d,a,b,a,d,d,d,a,d,b,a,d,c,d,e,c,c,a,c,a,c,e,c,c,a,c,e,d,c,e,c,d,b,c,a,d,c,c,c,e,b,c,b,c,d,b,d,d,c
+Kobe Abdo,e,d,b,b,a,a,d,d,a,d,c,a,d,e,d,a,d,d,a,d,a,c,c,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,a,d,a,d,b,d,c,e
+Wouter Temmerman,d,e,e,c,a,d,d,d,a,d,a,b,d,d,d,a,d,d,a,e,b,c,e,c,c,a,c,e,d,c,e,b,e,b,c,d,a,c,c,c,e,b,e,b,a,a,b,d,d,e
+Frederik Veelaert,a,a,e,a,c,b,d,d,d,d,c,c,d,c,b,e,c,c,c,e,a,a,e,b,c,a,e,d,c,b,e,c,b,b,c,a,b,d,b,c,e,e,c,d,a,d,e,d,b,c
+Yenthe Seldeslachts,d,d,b,e,d,d,c,a,c,c,c,b,d,a,b,a,a,b,e,a,d,a,e,a,d,b,d,c,c,d,b,c,e,c,b,e,c,e,c,d,b,b,e,c,b,a,e,e,d,e
+Alexander Rubbens,d,c,a,d,b,e,d,b,c,d,d,d,b,a,d,b,d,e,a,a,a,c,e,c,c,a,c,e,d,c,c,c,e,d,c,d,b,d,c,c,e,c,e,a,c,d,b,a,e,c
+Robin Sterckx,d,d,a,b,d,d,e,b,a,d,e,a,b,c,e,a,d,e,a,a,a,c,e,c,c,b,d,c,d,c,b,c,e,b,c,d,a,c,c,c,e,b,e,b,a,d,b,c,d,e
+Anton Van den Cruijce,a,b,b,c,a,d,d,d,c,a,c,a,c,a,d,a,b,d,c,e,e,c,b,c,c,b,a,b,d,c,e,c,e,b,c,d,d,e,b,a,c,b,d,b,a,e,b,e,d,b
+Rishad Coget,e,d,c,a,a,c,d,a,d,d,e,c,e,b,d,d,a,d,d,a,d,e,d,c,b,a,c,d,e,d,e,b,d,b,c,d,c,c,b,d,b,b,d,b,c,d,c,e,d,a
+Stijn Devos,a,d,c,c,a,a,c,d,a,e,c,a,d,a,d,a,c,d,e,d,b,c,d,d,c,a,b,c,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,e,b,d,d
+Robin Vanherf,d,d,b,b,a,d,d,d,a,d,c,a,e,b,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,a,b,a,d,b,d,d,e
+Ben Van Grunderbeek,b,e,b,d,a,a,d,e,d,c,b,c,d,c,e,a,d,a,c,d,a,c,c,c,b,a,a,b,b,e,b,b,e,b,c,a,c,c,c,a,a,b,e,b,a,b,b,e,a,e
+Gillis Symons,d,d,b,e,a,d,d,d,a,d,c,a,d,c,d,a,c,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,a,a,e,a,d,b,a,a,e
+Jowan Sol,d,a,a,d,d,a,e,d,e,e,e,e,e,b,e,a,c,a,d,c,b,a,b,c,a,b,c,c,b,a,c,c,c,d,e,b,a,b,e,a,b,a,a,b,a,d,b,b,b,c
+Yang-Yee Drabs,d,d,b,b,d,d,d,e,a,d,c,a,d,c,d,b,c,d,b,e,a,c,a,c,c,a,c,e,d,c,c,c,e,b,d,c,d,e,c,c,e,b,e,b,a,d,b,d,d,e
+Guillaume Hons,d,d,c,b,a,d,d,d,e,c,e,a,d,c,d,c,d,d,a,b,b,c,e,c,c,a,e,e,d,c,e,c,e,b,a,d,a,c,c,c,e,b,e,b,a,d,b,b,a,b
+Szymon Ahmed,c,d,b,b,d,d,d,d,e,d,a,a,d,c,d,c,d,d,d,e,a,a,e,e,d,a,a,d,a,b,a,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,c
+Thao Pauwels,d,d,b,b,a,d,d,d,a,d,c,c,e,c,b,a,d,d,a,e,a,c,e,c,c,a,a,d,b,a,e,c,e,b,c,d,d,c,c,c,e,d,e,b,d,d,e,d,d,e
+Timo Sebrechts,a,e,a,b,e,a,d,d,a,e,c,a,c,c,e,a,a,c,a,e,d,a,e,a,c,a,c,e,d,c,d,c,e,d,a,c,d,e,c,b,e,c,e,e,e,d,b,a,d,d
+Timo Laporte,e,d,d,b,a,d,d,d,a,d,b,d,d,c,d,e,d,d,a,d,a,c,e,c,a,a,c,e,d,c,e,c,d,b,e,e,d,d,c,c,a,a,d,d,a,d,b,d,d,e
+Jowan Demol,d,d,b,c,a,d,d,d,a,d,c,a,d,c,d,a,d,e,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Boris Geldhof,d,d,b,d,a,d,d,a,a,d,b,d,a,a,d,a,d,d,a,b,a,c,e,c,e,a,c,b,b,c,b,c,a,e,c,d,b,b,c,c,a,b,e,e,b,b,d,c,b,e
+Baljit Mounnadi,d,d,d,a,a,d,d,d,a,d,c,a,d,a,d,a,d,d,a,e,a,d,b,c,c,a,e,e,d,c,e,c,e,b,c,d,d,c,e,b,e,c,e,b,a,d,b,c,d,d
+Sascha Desmet,a,c,d,d,a,a,e,c,a,c,c,b,d,c,b,b,e,d,e,e,e,a,a,e,a,c,b,d,e,a,d,e,c,e,e,c,e,d,e,e,c,b,b,d,c,d,c,b,a,b
+Igor Vermeerbergen,a,c,e,e,c,a,b,c,d,b,a,a,a,c,a,d,d,d,c,c,a,a,b,b,b,b,b,a,d,d,a,e,a,e,a,d,d,a,b,b,c,a,b,c,e,e,b,b,c,c
+Maxim Dierckx,a,d,a,b,a,b,c,b,c,d,c,a,b,b,b,a,e,d,d,e,a,c,a,e,d,a,c,e,b,c,b,e,a,b,c,d,d,c,c,c,e,c,e,b,a,d,b,d,d,d
+Niels Symons,d,d,c,b,a,e,d,d,d,d,a,e,d,a,c,b,e,d,c,c,a,a,c,c,e,a,c,e,e,b,d,b,d,b,d,b,e,c,a,e,e,b,e,c,a,a,e,b,b,e
+Dieter Theunis,d,d,d,a,a,d,a,d,a,d,c,a,a,d,a,b,c,e,b,e,d,c,e,a,c,a,c,e,c,d,e,e,d,b,b,d,b,a,b,c,a,a,a,e,a,d,d,d,d,e
+Cisse Sol,d,d,b,b,a,d,c,b,a,a,d,a,d,c,d,a,a,d,a,e,a,c,e,c,c,a,c,e,a,e,e,a,e,b,c,d,d,a,c,c,e,e,e,b,b,d,a,d,b,e
+Lukas Pechovitch,b,c,b,a,c,b,d,e,a,d,c,d,e,b,e,b,e,e,a,c,a,a,d,a,d,d,d,b,d,d,d,a,b,c,e,d,e,d,c,d,d,b,e,b,a,d,d,d,d,d
+Mathieu Seldeslachts,d,d,b,c,c,d,d,b,c,e,c,d,b,d,d,a,d,d,a,e,e,c,b,e,e,a,a,e,d,c,a,e,e,d,a,d,d,a,e,c,e,b,a,b,d,d,b,b,e,a
+Mattias Sebrechts,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Jasper Sebrechts,d,d,b,c,b,d,d,d,a,d,c,a,d,c,d,a,c,a,a,e,a,c,e,c,c,a,c,e,c,c,e,c,e,b,c,d,d,c,c,c,c,d,e,a,d,c,b,d,d,e
+Othello Kerckhofs,d,d,b,b,a,d,d,d,a,d,c,c,d,e,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Gregory Morren,d,d,b,a,a,d,e,d,d,d,c,a,d,c,d,a,d,d,a,e,a,e,e,e,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,a,a,e,b,a,d,c,d,d,e
+Liena Mustafa,b,d,b,e,b,d,c,a,d,a,d,a,d,c,b,b,b,c,a,c,d,b,d,e,b,e,d,c,b,d,b,a,c,e,a,d,a,c,a,b,d,e,d,c,d,d,a,d,e,d
+Younes Rizkallah,d,d,b,b,a,b,b,a,a,d,c,a,a,c,d,c,d,d,a,e,a,d,d,c,d,a,c,e,d,b,e,b,e,b,c,d,d,c,c,c,e,b,b,b,a,d,b,c,d,a
+Tuan Coget,d,d,b,b,a,d,d,d,a,d,b,a,d,b,d,b,d,a,a,e,a,a,e,d,c,a,c,c,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,b,b,d,d,b
+Robin Van der Zwalmen,a,c,a,b,d,d,b,d,a,c,a,d,a,c,a,c,a,a,e,d,e,c,e,b,c,a,b,e,b,b,a,a,a,c,b,a,b,c,d,d,d,e,c,b,d,d,a,e,b,e
+Nicky Hons,b,d,b,c,a,c,e,a,a,d,a,d,d,c,d,a,e,b,c,e,b,c,b,c,b,c,c,e,b,c,e,c,d,e,c,d,d,b,c,c,d,b,b,b,a,e,a,d,d,b
+Nona Vanderborght,b,a,b,b,e,c,e,b,a,c,a,e,b,c,c,d,d,c,b,b,e,e,c,c,b,b,d,b,c,d,d,c,d,e,b,d,e,c,d,b,d,b,c,b,d,d,a,a,b,a
+Roel Lemmens,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Niko Roden,d,a,b,c,d,e,d,c,e,a,c,d,b,c,d,a,d,e,a,e,c,a,c,c,c,a,d,b,d,e,e,c,c,b,c,d,d,c,d,c,a,e,d,e,e,e,c,d,b,e
+Jelle van Roekel,a,e,a,e,a,e,d,d,e,b,e,a,b,c,b,c,d,d,e,e,b,b,d,c,c,d,c,c,d,d,d,a,b,b,c,c,d,c,e,e,e,d,e,a,d,b,e,e,c,e
+Yang-Yee Vermeerbergen,d,d,b,b,a,d,d,d,a,d,d,a,d,c,d,a,d,d,a,e,a,c,e,c,c,c,b,e,d,c,e,c,e,c,c,d,d,c,d,c,e,d,e,b,a,d,b,d,d,e
+Ruben Dauwe,d,d,b,b,a,d,c,d,c,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,d,e,d,c,e,c,e,b,b,c,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Robin Warlop,c,d,a,b,a,a,a,b,d,b,e,e,c,d,b,a,c,a,a,e,d,a,a,c,a,a,a,a,d,d,d,b,e,b,b,e,b,b,d,d,e,a,e,b,a,d,e,d,d,c
+Jonas Desmet,b,d,b,b,a,d,d,d,a,d,a,c,d,c,d,a,d,c,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Mattias Bogers,d,d,b,b,a,d,d,b,a,d,c,a,d,c,d,a,d,d,a,e,c,c,e,c,c,e,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Mirte Demol,d,d,b,b,a,d,d,c,a,d,b,a,d,a,e,a,d,d,a,c,a,c,d,c,c,c,b,e,d,c,e,c,e,b,a,d,e,c,e,e,d,b,e,c,c,e,c,d,d,c
+Szymon De Ruysscher,a,d,b,e,b,b,b,c,a,d,c,a,d,c,d,a,d,e,a,a,a,d,b,c,c,e,d,c,b,c,e,b,e,c,c,e,d,c,b,e,e,b,e,a,a,d,e,d,a,d
+Kasper Lemeire,d,e,e,a,a,b,c,b,c,b,c,c,a,c,d,e,a,d,c,e,a,d,d,a,c,a,b,c,b,e,b,a,e,c,a,c,b,c,d,a,a,e,c,b,b,c,a,b,c,e
+Sigfried Seldeslachts,d,c,b,e,e,d,b,a,a,a,a,d,c,c,d,a,a,d,a,e,a,e,d,c,b,d,b,b,d,c,e,c,a,b,b,b,b,a,c,a,c,b,e,d,c,d,b,c,d,e
+Nona Vanden Driesch,d,d,b,b,a,d,d,d,a,d,c,a,d,a,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,a,c,c,d,b,c,c,c,e,e,e,b,a,d,b,d,d,e
+Baljit Freier,d,d,b,c,b,c,c,d,a,d,c,a,d,c,d,a,d,e,a,e,a,c,e,c,c,b,d,e,a,a,b,e,e,c,b,d,b,c,e,a,e,d,e,a,d,d,e,d,d,a
+Bryan Nidecki,d,a,e,b,a,a,d,b,d,d,a,b,d,c,b,a,d,d,a,e,b,e,b,c,a,e,e,e,b,c,e,c,c,c,a,d,a,e,b,c,e,c,e,b,c,a,c,a,d,e
+Lennert Roets,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,c
+Gregory Verrycken,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,b,e,a,c,c,c,c,b,c,e,e,c,e,c,e,a,c,b,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Dieter Bruynseels,b,d,b,d,a,d,d,d,a,a,c,a,d,c,d,a,d,d,a,e,d,c,e,c,c,a,c,e,d,b,b,b,c,b,b,d,d,c,a,c,a,b,e,b,a,d,b,d,d,e
+Robbe Freier,d,d,a,b,c,e,d,d,a,d,b,a,a,c,d,a,d,d,a,e,a,b,b,c,c,c,c,e,d,c,e,c,c,b,c,d,d,d,c,c,e,b,e,b,c,d,d,a,d,e
+Yago Lemeire,e,e,e,a,b,e,d,e,c,d,b,b,d,c,e,e,d,e,d,c,c,c,b,b,e,b,e,d,e,b,a,c,a,c,a,d,a,d,e,b,e,d,e,b,e,d,d,d,a,e
+Aron Van Hoof,d,b,b,d,b,a,a,a,c,d,e,e,e,c,c,a,b,e,c,e,c,c,a,c,a,c,b,e,d,d,b,d,d,e,e,c,d,b,d,d,c,d,b,e,c,b,b,e,b,e
+Brent Sterckx,b,c,b,e,a,d,b,c,a,b,b,c,d,e,b,c,d,d,a,d,b,c,e,a,e,a,d,e,e,e,e,b,b,a,b,d,c,c,a,c,a,b,b,a,a,d,a,c,c,a
+Tuan Sol,e,e,b,c,c,d,d,e,a,c,c,a,d,c,c,a,d,a,e,e,a,e,a,c,b,a,e,c,d,e,b,b,a,c,c,d,a,c,c,a,e,b,e,b,d,d,b,b,b,e
+Obim Van Gansen,d,d,a,b,a,b,d,d,b,d,a,d,d,c,d,b,d,d,a,b,a,c,d,c,c,a,c,e,d,c,b,c,e,b,b,d,d,a,c,e,e,b,e,b,a,d,b,d,b,e
+Gillis Mustafa,d,d,b,b,a,d,a,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,b,d,b,d,d,e
+Aron Vanden Bosch,d,b,c,b,b,e,a,e,c,d,a,b,c,b,e,e,d,e,b,e,c,e,a,e,e,b,d,c,a,e,e,d,e,d,c,a,e,e,c,d,e,e,a,b,a,a,b,e,b,b
+Marlene Braem,d,d,d,d,e,d,d,c,a,c,b,e,d,c,b,e,a,d,a,a,e,c,e,c,c,c,d,e,d,b,c,a,e,a,b,b,b,e,a,c,e,e,e,b,a,d,b,a,d,e
+Angelo Vanherf,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Ward Ausloos,d,c,b,b,a,d,d,a,d,d,c,a,e,c,a,c,d,d,c,d,a,b,b,c,c,e,d,b,d,d,b,c,c,d,c,d,d,c,c,c,e,b,a,b,a,d,b,d,e,e
+Brick Vanden Bosch,d,d,b,b,a,a,d,d,a,d,d,a,b,c,b,a,d,d,a,a,a,d,e,c,c,a,c,e,d,c,b,c,e,d,c,d,c,c,c,c,e,b,e,e,a,d,b,d,d,e
+Dieter Scherens,d,c,b,a,a,d,d,d,d,d,c,a,e,b,b,a,d,a,a,a,a,c,e,c,c,a,d,e,a,c,e,c,d,d,c,e,e,c,c,c,e,d,e,b,a,b,c,d,b,e
+Hans Temmerman,d,b,c,c,e,a,d,a,d,a,b,d,d,c,e,a,b,d,a,d,d,e,e,c,d,a,d,e,a,a,e,a,a,b,a,b,d,c,e,a,b,e,b,c,d,d,c,c,c,e
+Marlene Sebrechts,d,d,b,d,a,d,e,b,c,d,e,a,d,c,b,a,d,e,a,e,b,c,e,d,c,e,a,a,d,d,e,c,e,a,c,e,d,c,c,c,e,b,e,b,a,d,e,b,d,d
+Obim Vanherf,c,b,d,c,b,c,d,d,a,a,c,a,b,c,b,c,d,d,a,b,d,c,e,a,c,b,c,e,d,b,c,a,b,d,c,b,e,a,d,c,e,c,d,b,b,e,e,e,b,a
+Aron Mounnadi,d,d,a,d,a,c,c,e,a,c,b,a,d,c,c,a,b,d,e,a,b,b,d,e,b,d,a,a,d,b,a,b,e,c,c,d,e,b,a,c,c,e,a,e,a,b,b,e,c,c
+Ben Rizkallah,d,d,b,b,a,a,d,d,c,d,c,a,d,c,d,a,d,d,b,a,c,c,d,c,a,a,c,e,b,c,e,b,d,e,c,d,d,c,c,c,d,a,e,b,a,d,d,e,a,d
+Arthur Temmerman,d,d,c,a,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,a,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,d,e,b,e,b,a,d,b,d,d,e
+Rick Temmerman,e,a,b,b,a,d,d,c,a,d,e,d,e,c,d,a,b,d,a,e,a,c,e,c,c,a,e,e,d,c,e,c,a,e,d,d,d,c,c,c,e,b,e,b,a,d,c,b,d,e
+Thao Juste,b,d,b,e,e,e,b,c,e,d,c,b,d,a,e,d,d,d,b,b,b,a,d,e,d,a,a,d,d,d,b,d,e,e,c,a,d,c,a,d,b,e,d,e,a,a,c,e,d,d
+Hendrik Van Hoof,d,d,a,e,c,d,a,a,e,e,d,a,d,c,c,a,e,e,d,d,d,a,e,c,c,b,e,e,e,a,c,c,d,b,a,e,d,c,c,e,d,e,e,d,d,c,e,d,a,b
+Gregory Luypaert,d,d,a,e,a,d,b,b,a,b,b,a,b,c,d,b,e,c,e,b,a,e,e,c,e,a,c,c,b,a,e,d,a,d,d,a,d,d,a,a,e,b,c,b,a,b,c,b,e,c
+Tuan Jeetun,d,d,d,b,e,d,d,e,a,b,c,a,d,c,d,a,d,d,a,b,c,c,e,c,c,a,b,e,d,e,e,c,e,c,c,e,d,c,c,c,d,b,e,b,a,d,b,d,d,c
+Natan Gataev,e,d,d,d,b,d,a,a,b,a,c,b,b,d,e,a,d,d,c,e,a,c,e,c,d,a,c,b,a,a,b,b,d,b,c,d,d,c,c,c,b,a,b,b,b,a,e,e,d,e
+Obim Van der Zwalmen,d,b,b,b,a,d,b,d,a,e,e,a,d,c,d,a,d,d,a,e,a,c,e,b,c,a,c,e,d,c,b,c,e,a,c,a,d,c,c,c,e,b,e,d,a,d,b,d,d,e
+Dieter Engels,d,e,d,b,e,d,e,e,d,c,c,a,e,c,a,d,b,c,d,e,e,e,d,e,a,c,e,d,b,a,d,e,e,b,c,d,e,e,d,b,b,c,e,b,d,c,a,e,b,b
+Lucas Luypaert,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,e,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Liena Vanluyten,d,d,e,b,a,c,b,e,a,d,e,c,d,c,b,a,d,d,a,d,a,a,b,e,c,a,c,e,d,d,a,e,b,b,c,d,d,c,c,c,e,b,e,b,a,d,a,a,a,b
+Mieke Coremans,c,b,a,b,e,d,e,d,d,b,c,b,b,b,d,a,a,e,b,b,d,a,e,e,e,d,a,b,c,b,e,a,a,e,a,c,a,c,d,d,b,b,c,c,c,b,e,a,d,c
+Dieter Madugba,c,c,b,c,b,e,b,c,c,b,c,d,d,c,d,e,d,e,a,e,c,d,a,c,d,e,c,e,d,a,c,c,e,b,a,d,e,e,c,a,b,b,b,a,a,d,b,e,d,a
+Maarten Kerckhofs,b,c,a,b,e,d,d,d,d,d,b,a,d,d,d,a,d,c,a,c,a,b,e,c,c,b,b,b,d,d,e,c,d,b,c,c,b,c,d,c,d,d,e,a,e,c,d,d,b,a
+Cisse Van Oosterwyck,d,d,d,b,a,d,d,d,a,a,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,e,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Hendrik Dierckx,e,a,b,b,a,d,d,c,a,d,c,a,d,c,d,a,d,d,a,e,b,a,e,c,c,a,a,e,d,c,e,c,e,b,c,d,d,d,b,e,e,b,e,b,b,d,b,d,d,c
+Stanislas Pauwels,d,e,d,b,e,e,e,d,a,d,d,a,d,b,c,b,c,a,d,c,d,a,c,a,c,a,c,a,d,c,e,d,e,b,a,e,d,c,c,e,c,a,e,c,c,d,b,d,a,d
+Younes Gataev,a,c,e,e,d,b,e,a,a,b,c,b,b,e,d,d,c,b,e,c,c,c,e,d,d,b,c,d,b,b,b,a,c,c,e,a,e,a,a,c,e,e,d,c,b,e,e,b,b,c
+Ward Madugba,d,d,a,b,a,d,d,d,a,d,c,a,e,c,d,c,d,e,a,e,a,c,e,c,b,a,c,e,d,c,e,c,e,c,e,e,d,c,c,c,e,b,e,b,d,d,b,d,d,e
+Jasper Drabs,d,e,e,d,e,c,d,d,d,d,a,b,d,a,c,e,a,d,a,b,c,c,a,c,b,b,b,e,d,c,a,c,a,e,c,e,d,c,d,e,e,b,c,c,d,c,a,b,d,a
+Othello Engels,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Laurens Braem,e,b,a,a,d,d,a,a,a,b,b,a,b,c,a,b,d,b,e,b,d,a,b,e,d,b,a,d,d,e,d,e,e,d,e,d,d,b,a,c,c,c,c,d,b,c,b,b,a,a
+Mattias Pasteels,d,d,b,b,e,a,d,d,a,d,c,e,d,c,c,a,a,a,a,c,a,b,e,a,c,a,c,e,e,c,c,c,e,b,c,a,e,c,c,e,e,b,e,b,e,d,b,d,c,e
+Jowan Sels,d,d,b,b,a,a,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,b,a,c,d,d,c,e,c,e,b,e,b,a,e,b,d,d,e
+Angelo Spleesters,a,a,b,b,a,c,d,d,a,d,c,a,d,c,d,a,b,d,c,c,d,c,e,c,c,a,e,a,d,c,e,c,e,e,a,d,d,c,c,b,e,d,e,b,a,d,b,d,d,e
+Jelle Van Hoof,a,d,e,e,a,c,b,d,d,b,e,a,c,a,d,a,c,d,a,e,e,e,b,c,b,a,c,a,e,b,e,b,d,b,e,d,e,a,e,b,a,c,a,e,c,d,e,e,d,a
+Othello Singh,d,d,b,b,a,d,b,d,a,d,c,a,d,c,d,a,d,a,a,e,a,c,b,c,d,a,c,e,d,c,e,c,e,b,c,d,d,a,c,c,e,b,e,b,a,d,b,d,d,e
+Rafael Roets,d,c,a,b,a,d,a,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,d,c,a,e,a,d,c,e,c,c,d,c,d,d,c,c,e,e,b,e,b,a,d,b,b,d,e
+Jens Sewnarain,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,e,e,c,c,a,c,e,d,c,d,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Jurgen Melin,e,b,e,a,a,a,c,d,c,d,d,a,c,c,a,e,d,a,a,e,b,d,d,a,a,e,c,a,e,d,c,a,d,e,d,d,d,a,c,e,c,e,d,e,e,e,b,b,d,e
+Jorian Braem,c,b,b,b,a,a,e,d,c,a,c,a,d,c,c,a,b,c,a,a,a,d,e,e,b,d,a,e,d,c,e,e,e,b,c,d,d,c,d,c,e,a,c,d,a,b,b,d,d,e
+Ruben De Sutter,d,c,d,b,e,d,c,e,c,a,e,c,e,d,b,a,e,d,c,d,a,c,e,c,c,b,b,e,b,e,e,c,e,b,a,d,c,e,c,b,b,c,e,b,e,e,c,d,b,d
+Igor Symons,d,d,b,b,c,d,d,d,a,d,c,a,a,c,a,a,c,d,a,e,a,c,b,c,c,a,e,e,e,c,e,c,e,b,c,d,b,c,c,c,e,b,e,b,b,d,b,d,c,e
+Yarne Leurquin,d,c,b,b,e,d,e,c,e,c,c,a,d,d,d,a,d,c,b,a,a,b,e,c,c,d,a,e,d,d,e,a,a,b,a,d,b,c,c,b,c,b,e,b,a,d,d,d,b,e
+Stanislas Pesa,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,c,c,e,c,b,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Dennis Janssen,d,d,b,d,a,d,d,d,e,d,c,a,d,c,d,a,d,d,c,e,a,e,e,c,c,a,e,e,d,c,e,c,e,b,c,b,d,c,c,a,e,b,e,b,a,d,b,d,d,b
+Marlene Gervais,d,d,b,b,a,d,d,d,d,d,e,a,d,c,d,a,d,d,a,e,a,c,e,b,e,a,a,e,c,d,e,c,e,b,c,a,c,e,c,c,e,b,b,b,a,d,b,d,d,e
+Mattias Van der Zwalmen,c,d,b,b,a,c,d,d,a,a,c,c,a,c,a,a,e,d,e,e,d,c,e,e,a,a,c,e,d,c,e,d,e,c,d,d,b,c,b,d,e,a,e,b,a,d,b,a,c,e
+Preda Gervais,d,d,b,b,a,d,d,d,a,c,c,a,d,c,d,a,d,d,a,d,a,c,d,c,e,a,d,e,d,b,e,b,e,b,c,d,d,c,c,c,a,b,a,b,d,d,b,d,a,e
+Xavier Van Briel,b,d,b,e,b,a,a,b,d,c,c,c,d,c,a,c,e,d,d,e,d,b,a,a,a,d,c,b,c,c,b,c,e,b,b,a,a,b,b,e,e,a,a,e,e,d,a,c,a,d
+Lorenzo Winderickx,c,c,a,b,c,d,d,d,d,d,c,a,d,a,d,a,c,d,a,e,b,d,a,e,c,d,c,e,d,c,b,c,c,d,c,c,d,c,b,a,d,c,d,b,b,d,b,e,d,a
+Pieterjan Sels,d,d,b,b,b,d,d,e,a,d,c,a,a,c,d,a,d,d,a,e,a,c,e,c,c,a,c,c,a,c,e,c,e,b,c,e,d,d,c,c,e,b,e,e,a,d,b,d,d,e
+Tuan Hendrickx,d,d,b,b,d,d,d,b,a,d,c,b,d,c,d,d,d,a,b,e,a,c,e,c,c,a,e,e,d,c,e,d,e,b,c,d,b,c,c,b,e,b,e,b,a,d,b,d,d,e
+Ward Man,e,d,b,b,a,d,d,d,d,d,c,a,d,d,d,e,d,d,a,e,a,c,e,d,c,a,c,e,e,c,d,c,e,b,c,d,b,c,b,d,e,b,a,b,a,e,b,d,d,e
+Joran Madugba,d,a,e,b,a,e,d,a,e,d,e,b,b,a,a,a,e,b,a,e,d,a,b,b,c,a,c,e,c,c,e,c,b,c,b,a,e,d,d,c,b,b,b,b,a,b,e,c,c,b
+Yarne Nowak,e,d,c,c,a,d,a,d,a,d,c,a,a,c,d,c,d,d,a,d,a,d,a,c,d,d,c,a,d,c,e,c,d,b,a,d,d,c,d,a,d,b,d,b,a,d,b,b,d,d
+Lorenzo Bogers,b,d,e,d,b,d,c,a,a,d,b,b,e,a,a,d,b,e,c,b,e,d,c,a,b,e,c,e,d,e,b,e,e,c,a,c,b,a,b,b,d,e,e,a,b,c,c,a,d,c
+Guillaume Vanluyten,e,e,c,e,c,d,a,d,d,a,d,e,c,a,d,c,a,d,a,e,d,a,e,b,c,e,d,b,a,c,e,b,e,e,c,b,e,c,e,c,c,b,d,b,b,c,a,d,b,d
+Adam Dierckx,d,d,b,b,a,d,d,d,a,d,c,c,d,c,d,a,d,d,c,d,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,e,d,c,c,c,e,b,e,d,a,d,b,d,c,e
+Anton Brouns,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,d,e,a,c,e,c,c,a,d,e,a,c,e,c,e,c,c,d,d,d,c,c,e,b,e,c,a,d,b,d,d,e
+Kyanii Warlop,d,d,b,b,a,d,d,d,a,d,c,d,d,b,c,a,c,d,b,e,a,c,e,c,d,a,c,e,d,c,e,c,e,a,c,d,d,c,c,c,e,b,d,b,a,d,b,d,d,e
+Joni Dauwe,b,d,e,d,a,e,a,d,c,d,a,c,a,d,d,b,d,e,e,b,c,c,e,e,a,a,c,c,d,c,d,b,d,a,c,c,d,d,b,c,e,e,e,b,d,d,a,e,e,b
+Guillaume Braem,d,b,a,d,a,d,e,d,c,b,c,a,c,c,d,a,d,d,a,e,a,a,e,d,c,a,a,e,d,d,e,e,d,b,c,d,d,c,c,c,e,b,e,a,a,d,e,d,e,d
+Wout Ausloos,d,d,b,b,a,d,d,b,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Frederik Govaers,c,e,b,c,d,b,a,d,b,d,d,a,b,e,c,c,b,a,b,c,e,c,a,a,b,b,c,a,a,c,e,a,a,e,c,e,d,a,c,b,d,d,a,d,b,c,b,c,b,e
+Younes Janssen,c,d,b,b,a,a,d,d,a,d,e,c,d,c,d,d,b,d,a,e,a,e,e,c,c,a,d,e,e,c,a,e,a,b,d,a,a,b,c,c,a,b,e,b,a,c,b,d,d,a
+Jurgen De Baets,d,d,b,b,c,d,e,d,b,b,a,a,d,c,d,a,d,d,a,c,b,c,e,b,c,c,b,b,d,c,c,d,d,b,c,b,d,d,c,e,e,c,c,b,b,e,a,e,e,e
+Kobe Bastiaans,d,d,b,b,a,d,d,d,a,c,a,c,d,c,d,a,a,d,a,e,a,b,e,c,d,e,c,a,d,c,e,c,e,b,c,d,d,e,d,e,e,b,e,b,a,d,b,d,a,c
+Timo Brouns,d,a,e,b,b,d,a,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,a,d,e
+Lennert Roden,a,a,b,e,b,e,b,c,a,b,a,a,d,c,e,b,b,d,a,e,d,c,a,e,c,a,c,a,c,b,b,c,a,a,d,c,d,e,a,d,d,a,e,b,d,a,c,b,c,b
+Dieter Mergaerts,b,c,b,b,a,d,d,d,a,d,c,a,c,c,d,a,c,b,a,e,a,c,e,c,e,c,c,d,d,c,b,c,e,b,c,d,e,c,c,b,e,b,c,b,b,a,b,e,b,e
+Jakub Ahmed,d,d,b,d,e,a,d,c,b,d,c,a,d,c,d,b,d,e,a,e,d,c,e,b,c,a,c,b,e,c,e,a,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,c,e
+Guillaume Winderickx,e,d,a,b,a,d,e,d,b,c,d,a,d,e,d,a,d,d,b,e,a,e,e,e,c,e,c,e,d,c,e,c,e,b,e,d,c,c,c,c,d,e,e,b,a,d,c,d,d,e
+Nicolas Van den Cruijce,c,e,b,a,a,d,d,d,a,e,a,a,d,a,e,a,d,d,a,e,e,b,e,c,e,b,c,e,d,d,c,d,c,b,c,d,d,c,c,c,e,b,e,b,b,d,b,d,a,e
+Joni Rizkallah,b,e,b,e,d,d,a,b,b,c,c,a,d,a,b,c,c,a,e,b,a,b,d,c,a,a,c,e,d,b,e,b,c,c,c,d,b,e,e,d,e,b,b,b,a,e,b,d,d,e
+Angelo Rizkallah,d,d,d,b,a,d,b,d,a,d,c,c,d,c,d,a,d,e,a,e,a,c,e,c,c,b,d,b,c,c,e,c,e,b,c,d,d,c,c,c,b,b,e,d,c,e,a,d,d,e
+Maarten Vandenplas,d,d,b,e,a,d,d,d,a,b,c,a,d,e,d,b,e,d,a,e,a,d,e,c,c,a,e,e,a,d,c,c,c,b,c,c,d,c,c,c,e,d,b,b,b,d,c,d,c,e
+Rafael Liesenborgs,d,d,b,b,a,d,d,c,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,a,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Ali Freier,d,a,e,b,a,d,c,d,a,d,c,c,b,a,e,a,b,d,e,e,c,d,e,d,a,d,d,e,d,c,e,c,d,a,d,b,e,b,d,e,e,b,a,a,a,e,b,c,a,e
+Ruben Juste,d,d,c,c,d,d,a,d,a,a,b,a,d,c,a,e,e,b,e,c,b,e,e,b,c,c,e,e,d,b,e,c,e,a,e,d,c,d,b,c,e,b,e,e,a,d,a,a,d,e
+Merijn Gervais,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,d,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,a,b,a,d,b,d,d,e
+Angelo Venneman,d,d,b,b,a,e,d,d,c,d,c,a,d,c,d,a,d,d,a,e,b,c,e,b,d,d,c,d,a,b,e,c,d,c,c,d,d,c,c,c,c,b,c,c,c,d,b,d,c,c
+Merijn Bijloos,d,e,b,e,d,d,d,d,a,d,c,d,d,c,b,c,d,a,a,e,a,e,c,a,e,e,b,c,d,c,e,d,e,b,d,c,d,c,c,c,a,b,c,c,a,d,c,d,b,a
+Hendrik Warlop,d,d,b,a,a,d,d,e,a,d,c,a,c,c,d,a,d,d,a,e,b,c,d,c,c,a,a,e,b,e,a,c,e,b,b,c,d,c,c,a,e,b,d,b,a,d,b,d,c,e
+Othello Nidecki,d,c,b,a,a,d,a,d,b,e,c,d,d,a,d,d,b,d,b,e,a,c,d,a,c,a,d,e,d,a,e,b,e,d,c,d,a,e,d,c,d,a,e,b,a,c,d,e,d,c
+Nicolas Wandzel,d,d,b,b,d,d,b,d,a,a,c,a,d,c,a,a,d,d,a,c,a,b,e,c,c,c,c,e,d,e,e,c,e,b,a,d,d,a,c,b,e,b,e,b,a,b,b,d,d,e
+Xavier Brouns,e,b,c,a,e,d,e,a,a,d,a,d,b,e,a,a,b,c,a,e,b,c,a,e,a,a,e,d,e,e,c,b,c,e,c,a,a,e,a,e,d,a,e,a,d,c,c,b,e,c
+Jowan De Clercq,d,d,e,b,a,d,d,d,a,d,c,a,d,c,d,e,d,c,a,e,e,c,e,a,c,a,b,e,d,c,e,c,e,b,c,d,d,d,c,c,e,e,e,b,a,d,b,d,e,c
+Lennert Vanluyten,a,d,b,b,a,d,d,e,a,c,c,a,d,c,d,c,d,e,a,e,b,c,b,e,d,a,c,a,b,c,e,c,e,b,d,d,c,c,c,c,e,b,e,b,a,b,a,d,d,c
+Jakub Wojtas,e,a,a,d,e,c,b,b,a,b,b,c,d,b,a,b,c,e,b,a,c,e,e,a,a,e,c,a,a,e,a,d,a,c,e,c,a,b,c,c,c,e,a,a,a,b,a,e,d,e
+Wouter Bogers,e,d,b,e,a,c,b,e,c,d,c,c,e,a,d,c,e,d,a,c,d,c,e,e,c,d,c,e,c,c,e,a,e,e,c,c,d,d,c,c,d,d,e,e,e,c,b,d,d,a
+Milan Morren,a,d,d,b,a,d,d,d,a,d,c,e,d,c,d,a,d,e,a,c,a,c,e,c,b,a,c,b,c,a,e,b,e,b,c,c,d,a,c,c,e,b,e,a,a,d,a,d,a,e
+Tom Man,c,b,a,e,a,d,d,e,a,d,e,e,b,c,a,d,a,d,d,e,c,a,e,c,c,a,e,e,d,a,a,a,c,b,c,d,d,a,c,c,e,b,d,e,a,d,b,d,b,e
+Thao Drabs,d,b,b,b,d,d,d,b,a,d,c,d,b,c,d,c,c,a,e,e,b,c,a,d,c,a,c,b,d,c,e,c,e,c,c,d,d,c,b,e,c,d,e,a,a,d,d,d,a,e
+Robin Taverniers,d,d,b,a,a,d,d,c,d,e,c,a,a,b,d,d,d,d,a,e,a,c,e,c,c,a,d,e,d,b,e,c,e,b,c,c,d,e,c,c,e,b,e,c,a,d,b,d,d,e
+Firas Vanderborght,d,d,b,b,b,d,b,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,a,e,c,e,b,c,d,e,c,c,c,d,b,e,b,a,d,b,d,d,e
+Marlene Roets,b,d,c,b,a,d,b,d,e,d,d,a,e,c,e,d,d,d,b,e,b,c,b,c,b,a,c,a,d,e,e,a,e,b,e,d,b,c,d,c,e,a,b,e,c,b,b,d,d,b
+Kyanii Man,d,c,b,b,a,d,d,d,a,d,e,c,d,d,e,a,d,a,a,e,a,e,d,c,c,a,c,e,d,c,e,c,e,b,c,a,d,c,c,e,c,a,e,e,a,d,b,d,e,e
+Emilien Morren,e,d,b,b,d,b,e,d,a,d,c,a,d,d,d,e,d,d,d,e,a,c,e,c,c,c,c,e,d,d,e,d,c,d,c,b,d,c,b,c,c,b,e,a,a,d,d,d,d,e
+Yago Morren,d,d,b,c,a,b,d,a,c,a,e,a,b,e,b,a,d,c,b,e,c,a,c,e,d,a,d,d,d,c,d,d,e,c,c,b,d,e,d,c,e,b,c,c,b,a,e,b,d,c
+Lorenzo Ramaekers,d,d,e,b,a,d,d,d,a,d,c,a,d,e,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,e,e,b,d,b,a,d,b,b,d,e
+Sascha Govaers,e,d,c,b,b,a,d,d,e,a,c,b,c,b,e,d,c,b,d,d,d,a,b,a,c,e,b,e,e,a,b,a,c,c,c,c,e,c,d,c,e,b,e,c,e,d,a,a,c,d
+Ali Singh,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,d,e,b,a,d,b,d,c,e
+Hendrik Morren,d,b,c,b,a,d,a,a,d,c,c,a,d,c,e,a,a,d,a,e,d,c,e,a,c,a,b,d,d,d,d,e,b,b,c,c,a,e,c,c,d,b,d,d,a,d,e,d,d,e
+Natan Janssen,a,e,b,b,d,a,a,a,a,d,a,d,d,a,d,b,a,d,e,a,d,a,e,e,c,d,c,a,c,b,a,b,d,b,a,c,a,a,c,a,c,c,e,d,a,b,e,c,b,c
+Mathias Dubois,d,d,d,c,b,a,d,d,a,b,c,b,d,c,d,a,e,d,a,e,a,c,e,d,c,a,c,e,d,c,e,c,c,b,c,d,b,e,c,c,e,b,e,a,a,d,b,d,b,e
+Tom Descendre,a,d,b,a,b,e,a,d,a,d,e,c,d,c,e,a,e,c,d,e,d,c,a,c,a,e,c,c,c,e,b,c,c,a,a,d,c,c,c,e,e,b,e,b,b,c,d,a,b,b
+Hans Pasteels,a,d,b,b,d,b,d,d,a,d,c,a,d,b,d,a,d,d,a,e,a,c,e,c,c,d,c,e,d,c,e,d,e,b,c,d,d,c,e,c,e,b,e,b,a,d,b,d,d,e
+Jens Nidecki,d,d,c,d,c,d,b,a,e,d,d,e,d,b,c,a,d,c,e,a,c,c,b,a,e,a,e,b,d,a,c,d,e,b,d,c,e,a,e,e,e,d,c,b,a,b,e,c,d,b
+Joni Van Hoof,a,b,b,b,a,d,e,d,a,d,d,b,d,e,d,a,d,a,a,e,a,c,e,c,e,a,e,a,b,c,c,c,d,b,c,d,e,c,c,d,b,b,b,c,e,a,e,e,d,c
+Brent Van Briel,a,c,b,a,a,e,e,c,e,d,c,e,b,d,d,d,b,e,a,e,c,d,c,e,c,c,c,a,a,b,d,c,d,b,c,a,c,e,c,e,a,b,b,b,a,b,b,d,d,e
+Mieke Geerinckx,d,d,b,b,b,d,d,d,a,d,c,a,d,c,d,a,d,b,a,e,a,a,e,b,c,a,c,e,d,c,e,b,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Yarne Van Oosterwyck,b,d,b,b,c,c,e,d,d,e,a,c,d,c,d,c,d,a,a,e,a,c,b,c,a,c,e,d,d,d,c,c,c,d,e,e,c,b,c,a,e,e,d,d,e,e,b,d,c,a
+Roel Vanluyten,e,a,a,b,b,d,c,d,a,d,b,a,d,c,b,a,a,d,e,c,d,d,b,b,c,c,e,e,e,b,d,c,c,b,c,d,d,a,e,d,b,b,e,e,e,d,d,b,d,c
+Brick Sterckx,d,d,d,b,a,c,d,d,a,d,a,c,d,e,d,a,e,b,b,e,c,e,d,a,c,a,d,a,e,c,a,c,e,a,c,d,d,c,c,c,a,c,c,b,a,c,e,d,c,e
+Sascha Claes,d,d,b,b,a,d,c,c,a,e,e,a,c,c,d,a,e,a,a,e,a,a,e,b,c,a,c,e,d,c,e,c,e,b,c,d,d,a,c,c,e,b,e,b,a,b,b,d,d,b
+Rainier Thiry,c,d,b,b,c,d,c,d,e,c,c,a,d,c,d,a,d,d,a,e,a,c,b,c,c,a,c,c,d,c,e,c,e,b,c,d,d,c,e,a,e,b,e,b,a,d,b,d,a,d
+Wout Vanluyten,d,e,b,e,c,c,a,c,e,b,c,b,b,c,b,d,b,b,a,e,d,c,e,c,c,e,c,e,e,c,e,d,e,d,a,e,d,b,c,b,a,a,e,a,e,a,d,d,d,b
+Stanislas Bogers,e,d,b,b,e,d,d,d,a,e,c,a,d,c,e,c,e,d,d,e,a,c,e,e,c,a,c,e,d,c,e,c,e,b,c,d,d,b,c,c,e,b,e,b,e,d,b,a,b,e
+Dennis Mustafa,e,d,b,c,a,d,d,d,d,d,a,b,d,b,e,b,c,b,c,e,d,c,b,e,d,a,b,e,a,c,e,b,a,c,c,a,a,d,c,b,a,a,a,b,c,d,e,d,c,d
+Angelo Paulus,a,d,c,b,c,a,e,a,c,a,b,a,c,c,e,a,e,b,e,a,a,d,b,d,d,e,e,a,d,b,d,c,a,a,b,d,e,b,c,a,c,e,b,e,c,e,b,c,b,e
+Firas Vanden Driesch,a,a,b,e,a,d,d,d,a,b,c,a,d,d,c,a,d,d,a,e,a,c,e,c,e,a,c,e,a,e,e,c,c,d,c,d,c,c,c,b,e,b,d,b,a,d,a,d,d,c
+Baljit Bastiaans,c,a,c,b,e,d,d,a,d,a,d,b,d,c,e,e,a,a,a,e,c,e,b,a,c,b,b,e,d,a,d,d,e,b,a,e,c,e,c,b,b,b,d,c,a,e,c,c,b,e
+Mathieu Gataev,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,b,a,c,e,d,c,e,c,e,a,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Mathias Jeetun,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,e,a,c,e,d,c,b,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Mirte Symons,d,c,b,d,a,a,a,e,c,c,c,c,d,c,d,a,d,e,d,e,d,c,e,d,c,c,c,c,e,e,a,a,a,b,e,d,e,b,a,c,e,e,d,d,b,b,a,a,a,b
+Yenthe Van Hoof,d,d,b,a,b,d,c,e,b,d,b,b,e,d,c,c,c,a,a,e,a,c,c,d,c,a,e,b,e,c,e,e,e,e,d,d,d,e,d,c,c,b,d,b,a,c,d,a,d,e
+Yang-Yee Sewnarain,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Wouter Warlop,c,e,e,a,d,e,d,d,a,c,a,a,d,d,c,a,b,a,a,e,d,c,b,b,c,a,c,a,d,c,d,d,c,b,e,d,a,c,c,c,d,a,b,e,a,d,a,d,e,e
+Wout Descendre,d,d,b,a,b,d,d,d,a,d,c,c,e,b,a,a,d,c,a,e,a,c,d,c,c,a,c,b,d,c,e,c,e,d,c,d,c,c,c,e,e,b,e,d,a,d,b,e,d,e
+Igor Warlop,d,e,a,b,e,a,d,a,a,c,c,a,d,d,d,d,d,d,d,e,a,c,d,d,c,a,d,d,d,c,e,c,e,b,c,d,d,c,c,b,e,b,d,b,a,d,b,e,d,a
+Thomas Gervais,c,d,b,b,a,d,b,d,a,d,d,a,d,c,d,a,d,d,c,e,a,c,e,c,c,a,c,e,d,c,e,b,b,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,b,b
+Maarten Sol,d,d,c,d,c,d,d,d,a,c,c,a,e,b,c,a,d,d,e,a,a,c,e,e,c,a,c,e,e,e,b,c,e,d,e,d,d,c,c,b,e,b,e,c,a,d,b,c,d,e
+Jakub Bastiaans,d,d,b,b,a,d,d,d,a,e,b,e,d,c,d,a,c,d,a,e,a,c,e,c,c,b,e,a,a,c,c,c,e,b,c,e,d,c,a,c,b,d,e,b,a,d,d,d,c,e
+Jelle Abdo,d,d,d,b,d,e,d,d,a,d,c,e,d,c,d,a,d,d,a,e,e,c,e,c,c,a,c,e,d,c,e,c,d,b,c,d,d,c,a,c,e,b,e,b,a,d,b,d,d,a
+Rick Lowis,b,d,e,c,a,c,d,d,a,d,b,a,d,e,d,a,b,d,e,a,b,e,e,d,a,d,c,e,d,c,c,c,d,b,c,b,a,e,c,b,c,b,d,b,a,d,b,d,a,e
+Maarten Mounnadi,d,a,b,d,b,c,d,b,c,e,a,c,a,c,d,e,a,d,a,b,b,c,e,e,a,a,e,c,b,c,b,d,d,b,b,d,d,c,c,c,c,c,e,b,a,d,c,b,d,b
+Laurens Dauwe,e,b,b,e,d,a,d,e,a,b,e,c,a,c,d,a,a,d,c,a,a,d,e,b,d,a,a,c,d,d,c,a,c,c,c,b,a,d,a,a,c,c,a,d,e,d,d,d,e,a
+Yago Ausloos,c,e,b,b,c,d,d,e,a,d,b,a,d,d,d,c,d,d,d,e,d,c,c,c,a,b,b,a,e,b,e,c,e,b,c,b,d,c,a,c,c,e,e,c,a,a,a,a,d,e
+Othello Vanderborght,d,e,a,b,a,d,d,d,a,d,d,e,d,a,a,a,d,d,a,a,a,c,e,c,b,a,c,e,d,c,e,c,e,b,c,c,a,c,e,e,b,a,d,a,a,d,b,c,d,e
+Jowan Temmerman,d,d,d,b,a,d,b,e,d,b,c,e,d,c,b,a,a,c,d,b,a,b,e,b,c,a,a,c,d,c,e,c,a,a,d,d,c,c,a,c,a,b,e,b,a,a,b,b,c,d
+Firas De Sutter,d,c,b,e,a,b,d,d,a,d,c,a,d,e,c,e,d,a,a,e,d,c,e,c,a,e,c,e,d,c,e,c,b,c,e,c,e,c,c,d,a,a,a,c,a,d,b,d,d,a
+Rafael Pesa,a,d,b,b,a,d,d,c,a,d,c,a,d,c,d,e,d,d,a,e,a,c,e,c,c,a,c,e,d,c,d,c,e,b,c,d,d,b,c,c,e,b,e,b,a,d,b,e,d,e
+Bram Van der Zwalmen,a,a,b,d,e,e,b,c,a,d,c,a,a,b,d,e,c,d,a,b,c,d,a,d,c,a,a,b,d,c,e,b,a,b,e,d,b,e,d,c,c,b,e,b,d,d,b,a,b,e
+Alexander Van der Zwalmen,d,d,a,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,c,d,c,e,c,e,b,c,d,d,c,c,b,b,b,d,b,a,d,b,d,a,e
+Jakub Ausloos,e,d,b,b,a,e,d,d,a,d,c,a,d,e,d,d,d,d,a,d,a,c,c,a,c,a,c,e,d,c,e,c,e,b,c,d,c,c,c,c,e,c,e,b,a,d,c,d,e,e
+Sam Ahmed,d,d,e,b,b,a,d,d,e,d,d,c,c,c,d,e,d,b,a,a,e,c,e,e,b,a,c,a,d,c,c,e,b,c,c,d,d,c,c,c,e,b,a,b,b,d,b,d,e,e
+Nicky Clarysse,c,b,b,b,a,d,d,d,a,d,c,e,d,c,d,d,d,d,e,e,a,c,e,c,c,a,e,e,d,d,e,c,e,b,c,d,d,c,c,c,d,b,e,b,d,d,b,d,d,e
+Natan Bijloos,a,b,e,c,d,b,a,d,c,d,c,a,e,d,b,e,d,b,d,e,c,a,a,a,d,a,c,a,a,e,d,a,b,e,a,b,d,c,b,a,c,c,d,c,a,b,e,c,e,e
+Mathias Veelaert,d,c,e,c,a,e,d,b,a,a,d,a,d,c,e,d,e,e,a,c,a,e,b,e,b,c,c,b,c,c,c,a,a,a,e,c,a,d,c,e,e,b,b,b,e,c,a,e,d,d
+Gillis Michiels,a,d,b,c,a,d,d,a,a,d,d,d,d,c,d,c,b,b,b,e,a,d,a,b,c,a,d,d,d,d,e,c,e,c,e,d,d,c,c,a,b,a,e,c,a,d,b,e,a,b
+Othello De Clercq,d,a,b,c,e,d,d,d,a,c,e,c,b,a,d,e,d,d,d,b,a,c,a,c,c,a,c,d,d,c,e,c,d,b,c,e,a,c,c,b,e,b,e,c,c,d,b,d,a,c
+Niko Abdo,e,b,c,d,b,a,d,a,a,a,c,e,b,c,d,d,d,c,d,b,a,d,b,a,d,d,e,b,b,c,e,c,d,b,a,e,b,d,a,c,e,e,a,c,e,d,d,b,d,e
+Rick Venneman,e,a,a,b,a,e,c,d,b,e,b,a,d,e,b,a,c,e,a,e,d,b,e,e,e,e,c,c,d,b,c,a,c,c,b,d,c,b,e,e,a,e,e,b,c,d,e,d,b,b
+Baljit Warlop,d,d,a,b,c,e,d,c,b,d,a,b,c,c,c,a,d,a,c,e,b,e,b,d,a,b,d,e,c,a,a,b,b,e,e,a,e,c,e,a,b,e,b,a,e,b,b,c,c,c
+Yenthe Devos,a,a,e,b,a,e,d,d,e,d,e,a,e,c,c,e,d,d,a,b,d,e,e,c,e,c,c,c,e,e,b,e,a,b,d,d,a,c,c,c,e,b,a,c,a,d,b,d,d,c
+Jowan Gervais,d,d,b,c,e,e,d,d,a,d,c,a,d,b,d,a,d,d,a,e,a,c,c,c,c,a,d,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,a,b,e,d,b,d,c,e
+Lennert Pechovitch,d,a,b,c,a,d,b,d,d,c,a,b,d,c,e,c,e,c,b,e,a,d,a,c,c,b,b,a,d,e,c,c,c,b,c,d,e,c,c,e,c,b,e,b,e,d,a,d,d,d
+Natan Mustafa,a,d,b,d,a,d,e,b,a,d,c,d,c,c,d,c,e,c,b,e,a,c,e,c,c,a,c,c,d,c,c,c,a,b,b,d,a,c,d,c,e,b,e,c,a,a,b,d,a,a
+Xavier Mounnadi,d,d,b,b,e,d,d,d,a,d,b,a,e,c,d,a,d,d,c,e,e,c,e,c,c,b,c,c,d,c,e,c,e,a,c,d,e,c,e,c,e,a,b,a,d,c,d,d,a,e
+Rafael Bijloos,c,d,b,e,b,b,a,c,e,e,c,c,c,d,a,d,b,d,a,c,d,e,e,c,d,a,e,c,d,c,c,c,d,e,c,a,e,a,d,b,b,c,e,c,a,e,d,d,a,a
+Robin Van Grunderbeek,e,d,d,a,a,d,d,d,a,d,c,a,d,a,d,a,d,d,a,b,a,c,e,c,c,a,c,d,e,c,d,c,e,b,c,d,d,c,c,e,e,b,e,b,a,d,b,d,d,e
+Brent Freier,d,d,b,b,e,d,d,d,c,c,a,e,c,c,d,a,d,d,c,e,a,b,b,d,c,a,c,b,d,c,c,c,e,b,c,d,e,c,c,c,c,b,e,b,a,e,d,d,d,e
+Guillaume Meeus,d,d,c,c,a,a,d,d,d,e,d,a,c,a,d,a,e,e,a,e,e,c,b,c,c,c,e,c,a,c,e,c,e,b,c,a,d,c,c,d,e,b,b,b,a,d,b,d,e,c
+Arthur Roets,d,b,b,e,b,b,d,e,c,d,c,d,d,c,d,d,d,d,a,e,c,a,d,d,c,b,c,e,b,c,d,e,d,d,c,e,b,a,c,c,a,d,b,b,a,a,d,b,d,b
+Nicky Temmerman,d,c,b,b,a,b,c,d,d,d,b,d,e,c,d,a,a,d,a,e,a,c,e,d,d,a,c,e,d,b,e,c,e,b,c,d,a,c,b,c,e,e,e,e,a,d,b,d,d,e
+Rainier Van Eetvelt,e,e,b,d,b,b,e,d,a,c,e,d,d,d,d,c,d,c,a,b,c,e,e,c,d,b,c,b,e,d,c,e,d,a,c,d,e,e,e,c,e,c,c,b,a,e,b,c,b,b
+Ben Nowak,b,b,c,b,d,b,c,d,b,d,c,e,d,d,b,b,e,b,d,c,c,a,e,d,b,d,a,c,e,e,c,b,e,e,c,d,e,d,d,c,b,b,a,b,e,e,b,b,d,e
+Jonas Kerckhofs,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Rainier Catalano,d,e,c,d,a,d,d,d,a,d,c,a,d,c,e,a,d,c,a,e,c,c,e,c,c,a,c,c,d,c,e,c,e,c,b,d,d,c,c,e,e,b,b,c,e,d,b,d,d,e
+Jens Dierckx,d,e,e,b,a,b,d,d,a,e,b,a,b,c,d,a,d,d,a,e,b,c,d,c,c,e,a,e,d,c,e,c,e,b,c,d,d,c,c,c,e,c,a,b,d,b,b,b,c,e
+Boris Descendre,b,c,b,b,a,d,a,a,e,e,c,a,d,a,a,b,a,b,c,c,a,c,d,c,a,d,d,c,b,c,b,c,e,e,e,c,e,e,c,e,e,a,a,b,e,d,b,a,e,d
+Sigfried Ahmed,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,d,c,e,a,c,e,c,e,b,c,d,d,c,c,c,d,b,e,b,a,d,c,d,d,e
+Lucas Meeus,b,d,b,b,a,b,d,d,a,d,c,c,d,c,d,b,d,b,a,e,a,c,e,b,c,a,e,d,d,c,e,c,e,d,c,e,d,d,c,c,e,b,e,b,d,c,b,e,d,a
+Anton Jemuce,e,d,e,b,b,e,d,d,d,a,d,c,d,a,d,d,a,d,a,e,d,c,b,c,c,e,b,c,b,b,d,e,b,a,c,d,d,a,e,c,b,d,a,a,a,d,b,a,a,e
+Yenthe Liesenborgs,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,b,c,e,c,c,a,c,e,d,c,c,c,e,b,c,d,a,c,c,c,e,b,e,b,a,d,b,d,d,e
+Younes Van den Cruijce,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,b,e
+Maarten Man,d,e,b,b,d,d,b,d,a,d,c,a,a,c,d,a,d,d,a,e,a,c,e,c,c,d,c,e,d,c,e,c,e,b,d,d,d,c,b,b,e,b,e,a,a,e,b,c,c,b
+Tuan De Ruysscher,a,c,e,b,a,d,d,d,d,d,c,d,d,c,d,a,d,d,a,b,e,d,d,b,e,a,d,e,d,c,e,c,e,b,c,d,e,c,d,b,c,b,c,b,a,a,b,d,d,e
+Lukas Waem,a,c,a,b,a,d,d,c,e,c,c,a,d,c,d,a,b,a,c,e,e,c,c,c,c,a,a,c,b,c,d,c,c,b,c,b,d,d,b,c,a,c,e,a,d,a,d,d,a,e
+Yago Vanderborght,d,b,b,b,a,d,b,a,a,d,c,c,d,a,d,e,d,d,e,d,a,c,b,c,c,e,b,e,c,a,e,b,e,c,d,c,d,e,c,b,a,d,d,b,b,d,a,e,e,b
+Roel Vanden Bosch,a,e,d,e,e,b,d,b,e,a,c,a,c,c,c,a,d,a,c,e,e,a,e,c,c,a,a,e,a,c,e,d,e,b,a,c,c,c,d,c,c,a,c,b,c,d,c,d,b,a
+Adam Sels,d,d,d,c,d,b,b,c,c,e,e,a,b,d,d,b,b,b,b,b,e,a,e,c,a,a,e,e,b,b,d,a,d,d,a,d,a,b,a,c,a,c,d,a,c,d,c,a,d,d
+Sigfried Liesenborgs,a,d,c,d,c,d,a,a,d,a,c,d,a,d,a,a,e,b,c,d,a,d,d,d,e,a,e,e,d,c,b,b,e,b,b,a,e,c,d,e,a,c,a,b,c,d,a,d,c,e
+Jurgen Demol,d,e,a,b,c,d,d,d,a,d,c,a,d,c,d,a,d,d,a,e,e,c,e,b,c,a,c,e,e,c,e,c,d,b,d,d,e,a,b,c,e,e,c,b,a,d,b,d,a,e
+Bram Hoek,d,d,b,b,a,d,d,d,a,d,c,a,d,c,d,c,d,d,a,e,a,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Robbe Meyer,d,d,b,b,a,d,d,d,a,d,c,a,a,c,d,a,b,d,a,e,a,c,c,c,c,a,d,e,c,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,b,b,d,d,e
+Preda Waem,e,c,e,c,a,c,a,a,a,c,c,d,a,e,d,a,a,b,c,e,a,d,e,c,d,d,c,c,d,b,b,b,e,b,a,a,d,a,e,c,b,a,d,b,a,d,b,c,d,e
+Yang-Yee Verrycken,d,d,b,b,a,b,d,c,c,d,c,a,d,d,d,c,d,d,a,a,a,c,e,c,c,a,b,e,d,c,a,c,b,b,b,b,b,c,b,c,b,d,e,b,d,e,b,d,d,e
+Niels Van Braeckel,d,d,b,b,a,e,a,d,a,d,c,a,d,c,d,a,d,d,a,c,a,b,a,c,c,a,c,e,a,c,a,c,e,b,c,d,d,c,c,c,e,b,e,b,c,d,b,d,d,e
+Cisse Hendrickx,d,d,b,b,b,e,d,d,a,d,c,a,d,c,d,a,d,d,a,e,c,c,e,c,c,a,c,e,d,c,e,c,e,b,c,d,d,c,c,c,e,b,e,b,a,d,b,d,d,e
+Lennert Michils,e,b,e,a,d,d,d,d,a,c,a,c,d,b,e,d,e,e,e,d,a,a,e,c,a,a,d,a,b,c,a,c,e,e,c,a,d,c,c,c,d,c,a,b,a,b,b,d,b,e
